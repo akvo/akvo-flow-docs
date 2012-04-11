@@ -10,7 +10,7 @@ The Dashboard
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    
    dashboard/surveys
    dashboard/phones

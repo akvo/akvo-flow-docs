@@ -10,7 +10,7 @@ Topic-based help
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    
    topic/field_survey_app
    topic/dashboard

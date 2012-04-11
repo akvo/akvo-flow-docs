@@ -10,7 +10,7 @@ The FLOW Android App
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    
    fieldapp/1-phone-requirements
    fieldapp/2-preparing-phone
