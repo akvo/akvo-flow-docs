@@ -12,12 +12,16 @@ Contents:
 .. toctree::
    :maxdepth: 3
    
-   fieldapp/installing
-   fieldapp/updating_app
-   fieldapp/getting_survey
-   fieldapp/survey_updates
-   fieldapp/filling_survey
-   fieldapp/data_upload
-   fieldapp/settings
-   fieldapp/languages
-   
+   fieldapp/1-phone-requirements
+   fieldapp/2-preparing-phone
+   fieldapp/3-installing-survey-app
+   fieldapp/4-updating-survey-app
+   fieldapp/5-launching-survey-app
+   fieldapp/6-getting-survey-on-phone
+   fieldapp/7-managing-users
+   fieldapp/8-opening-and-filling-survey
+   fieldapp/9-submitting-survey
+   fieldapp/91-checking-survey-data-submission
+   fieldapp/92-settings-and-preferences
+   fieldapp/93-troubleshooting
+   fieldapp/EXAMPLE
