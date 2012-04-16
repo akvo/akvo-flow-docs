@@ -8,10 +8,22 @@
  font-size:110%;
  }
  
- .toctree-l3 a {
+.toctree-l3 a {
  font-size:100%;
  }
+
+.toctree-l2 li {
+ margin:10px 0 0px 0;
+ }
+
+.toctree-l3 li {
+ margin:0px 0 0px 0;
+ }
  
+.toctree-l4 li {
+ margin:0 0 0px 0;
+ }
+
   .toctree-l4 a {
  font-size:90%;
  }
@@ -30,11 +42,11 @@
 
 
 div.bodywrapper {
-	margin: 0 0 0 280px;
+	margin: 0 0 0 300px;
 }
 
 div.sphinxsidebar {
-width: 280px;
+width: 300px;
 }
 
 ol.arabic li {
