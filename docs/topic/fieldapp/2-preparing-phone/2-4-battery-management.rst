@@ -1,3 +1,5 @@
+.. _battery_management:
+ 
 Battery management
 ====================
 

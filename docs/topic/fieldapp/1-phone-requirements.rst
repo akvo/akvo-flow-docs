@@ -23,13 +23,13 @@ The most important specifications of a phone running the Field Survey app are sc
 
 	* **Screen size** - Although the Field Survey app will run on any screen size, surveys are more easy to navigate when the screen size is higher. We recommend using a screen size in the higher display size range, say 3.7 inch or larger. 
 	
-	* **Battery life** - Longer battery life is better. Ideally, it should be possible to use a phone for taking surveys for a full day without the need for a recharge. In any case, it is a good idea to use :ref:`external backup power </2-preparing-phone/2-5-external-backup-power>` as well.
+	* **Battery life** - Longer battery life is better. Ideally, it should be possible to use a phone for taking surveys for a full day without the need for a recharge. In any case, it is a good idea to use :ref:`external backup power <battery_management>` as well.
 	
 	* **Camera resolution** - Higher resolution is better, if photos are an integral part of they survey that you plan to do. In cases where photos are for identification, this is not critical. In addition, the application reduces the file size significantly from what the phone is capable of for storage and transmission purposes. In practice, anything over 3.2 megapixels will work fine. 
 	
 	* **SD card size** - The storage requirements of the application depend on the number of surveys with photo's that need to be kept on the phone before the data can be uploaded. Survey data that does not include a photo takes up very little space. In practice, an SD card with 4GB or 8GB storage will work fine for surveys with photo's.
 		
-		Older versions of the APK (up to 1.3.24) had an issue which could lead to data loss if large numbers of files were kept on the SD storage card. This issue has been solved in newer versions. If you have a version older than 1.3.32, please update the application.
+	Older versions of the APK (up to 1.3.24) had an issue which could lead to data loss if large numbers of files were kept on the SD storage card. This issue has been solved in newer versions. If you have a version older than 1.3.32, please update the application.
 	
 
 
