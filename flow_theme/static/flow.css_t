@@ -5,7 +5,15 @@
 }
 
 .toctree-l2 a {
- font-size:100%;
+ font-size:110%;
+ }
+ 
+ .toctree-l3 a {
+ font-size:90%;
+ }
+ 
+  .toctree-l4 a {
+ font-size:80%;
  }
  
  li.toctree-l1 {
@@ -18,4 +26,17 @@
  	
 .caption {
  font-style: italic;
+}
+
+
+div.bodywrapper {
+	margin: 0 0 0 280px;
+}
+
+div.sphinxsidebar {
+width: 280px;
+}
+
+ol.arabic li {
+margin:0 0 15px 0;
 }
