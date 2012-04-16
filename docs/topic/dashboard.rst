@@ -12,6 +12,7 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
+   dashboard/overview
    dashboard/surveys
    dashboard/phones
    dashboard/data
