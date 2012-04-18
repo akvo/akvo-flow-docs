@@ -1,4 +1,4 @@
-: _installing_app
+.. _installing-app:
 
 Installing the Field Survey app
 =================================

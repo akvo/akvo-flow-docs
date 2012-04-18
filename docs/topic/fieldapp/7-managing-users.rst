@@ -1,6 +1,101 @@
 Managing users
 =================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ligula et ipsum feugiat egestas ac vel arcu. Mauris sollicitudin pretium sem eget mollis. Cras sit amet mauris turpis. Ut molestie lobortis laoreet. Fusce lectus nibh, feugiat eu adipiscing a, gravida vitae risus. Suspendisse velit lorem, molestie sed commodo non, aliquet ornare arcu. Suspendisse potenti. Pellentesque pellentesque lacus sed justo egestas et dignissim mauris placerat. Integer ornare, nisi vel elementum dignissim, purus elit ullamcorper massa, at tincidunt felis eros ac sem. 
+Creating a user
+-------------------
+When the Field Survey app is first opened, you first need to create one or more users. During data collection, a specific user is always selected. When you later examine the data in the backend, you will be able to see who collected a particular piece of data.
 
-Nunc non lacus tortor. Cras in lectus libero. Vestibulum a nisi velit. Vivamus id eros lobortis eros tempus porta. Nulla facilisi. Mauris facilisis magna sit amet ante imperdiet accumsan volutpat lectus ultricies. Quisque quis diam eros, quis porttitor est.
+To create a user, follow these steps:
+
+1. Select "Manage Users" on the home screen. The current list of users will be displayed. At first, this will be empty.
+
+.. figure:: img/7-manage-users-0-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center	
+	
+
+2. While in the Manage Users screen, press the Menu button of the phone. This will display the "Add User" button.
+
+.. figure:: img/7-manage-users-1-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center	
+
+3. Select "Add User"
+
+4. Fill in the name of the user and an email address, and select "Save".
+
+.. figure:: img/7-manage-users-2.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center	
+
+5. The new user now shows up in the list of users. Click on the name to select the user.
+
+.. figure:: img/7-manage-users-3-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+6. The selected user is now displayed at the top of the home screen.
+
+.. figure:: img/7-manage-users-4-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+
+
+Selecting a user
+-------------------
+To select a user, select "Manage Users" from the home screen. This will display a list of users.
+Click on a name in the list to select the user.
+
+.. figure:: img/7-manage-users-3-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+The selected user is now displayed at the top of the home screen.
+
+.. figure:: img/7-manage-users-4-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+Editing a user
+------------------
+To edit a user, select "Manage Users" from the home screen. This will display a list of users. Long-click on one of the usernames, and select "Edit user". 
+
+.. figure:: img/7-manage-users-5-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+Change the name and email address as desired, and click "Save" to save the changes.
+
+.. figure:: img/7-manage-users-6.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+Deleting a user
+-----------------
+To delete a user, select "Manage Users" from the home screen. This will display a list of users. Long-click on one of the usernames, and select "Delete user". The user is now deleted. 
+
+.. figure:: img/7-manage-users-5a-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+
+Remember a user
+------------------
+
+
+
+
+
+
+
