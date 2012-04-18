@@ -12,7 +12,7 @@ When you have installed the Field Survey app sucessfully, it is ready to be laun
    :alt: image of phone
    :align: center	
    
-3. When opened, the home screen of the Field Survey app looks like this:
+3. When opened, the main menu of the Field Survey app looks like this:
   
 .. figure:: img/5-launching-app-2.png
    :width: 200 px
