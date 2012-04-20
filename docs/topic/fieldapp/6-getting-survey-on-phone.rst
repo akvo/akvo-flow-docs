@@ -3,7 +3,7 @@ Getting surveys on the phone
 
 Automatic download
 ---------------------
-If you have sucessfully installed the Field Survey app on the phone, and you have a wifi connection, the phone will send a 'beacon signal' to the web-based backend. In the backend, surveys can then be assigned to the phone (XXX-reference-XXX). If this proces fails, please consult the troubleshooting guide (XXX-reference-XXX)
+If you have sucessfully installed the Field Survey app on the phone, and you have a wifi connection, the phone will send a 'beacon signal' to the web-based Dashboard. In the Dashboard, surveys can then be assigned to the phone (XXX-reference-XXX). If this proces fails, please consult the troubleshooting guide (XXX-reference-XXX)
 
 Every time the Field Survey app is launched, the application checks for new surveys assigned to it, or updates of existing surveys. If there are new or updated surveys available, it will download them automatically. When new or updated surveys have been downloaded, the status bar will show a notification. 
 

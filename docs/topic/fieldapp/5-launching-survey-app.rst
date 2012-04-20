@@ -54,7 +54,7 @@ Once the application is opened for the first time, you need to set a name for th
    :alt: image of phone
    :align: center
 
-5. Provide a name that will help you find back the phone in the backend. Click "Ok".
+5. Provide a name that will help you find back the phone in the Dashboard. Click "Ok".
 
 .. figure:: img/5-launching-app-7.png
    :width: 200 px

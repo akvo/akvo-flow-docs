@@ -3,7 +3,7 @@ Managing users
 
 Creating a user
 -------------------
-When the Field Survey app is first opened, you first need to create one or more users. During data collection, a specific user is always selected. When you later examine the data in the backend, you will be able to see who collected a particular piece of data.
+When the Field Survey app is first opened, you first need to create one or more users. During data collection, a specific user is always selected. When you later examine the data in the Dashboard, you will be able to see who collected a particular piece of data.
 
 To create a user, follow these steps:
 

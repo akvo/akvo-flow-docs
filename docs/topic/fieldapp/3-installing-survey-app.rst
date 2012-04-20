@@ -14,11 +14,11 @@ There are different ways to install the Field Survey app on the phone. In future
 
 Installation through Gmail
 ---------------------------
-This is the easiest way to get the application on the phone. These are the steps:
+This is the easiest way to get the application on the phone. Don't forget to change the Android settings, see above. These are the steps:
 
 1. Configure email on the phone. You will need to use a gmail account - other email addresses such as hotmail, won't work. It is advisable to use a special email address for this, which is only used to communicate with the phone. If you have multiple phones with the Field Survey app, the same email address can be used for all. In that way, you can send updates to the software to all phones in one go.
 
-2. Get the right Field Survey app (APK file) for your backend. Be careful to get the right one: the Field Survey app and the backend are connected, so you can't simply use any Field Survey APK file for this. You can download the latest version of the APK for your organisation from the backend you have access to, at (XXX-location in backend-XXX) 
+2. Get the right Field Survey app (APK file) for your Dashboard. Be careful to get the right one: the Field Survey app and the Dashboard are connected, so you can't simply use any Field Survey APK file for this. You can download the latest version of the APK for your organisation from the Dashboard you have access to, at (XXX-location in Dashboard-XXX) 
  
 3. Send an email with the Field Survey app (APK file) as an attachement to the gmail email address that is configured on the phone.
 
@@ -57,7 +57,6 @@ Locate the mail.
    :align: center
    
 The Field Survey app is now installed on the phone. You can now create a shortcut to the Field Survey app on the home screen. This will make starting up the app during field work easier. To do this, just long press on an empty home screen space and choose "Shortcuts" from the menu. Select "Applications", and select the Field Survey app. This will place a shortcut to the Field Survey app on your home screen.
-
 
 
 Installation through the FileManager
