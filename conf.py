@@ -236,6 +236,11 @@ texinfo_documents = [
 
 rst_prolog="""
 .. |more| image:: /img/more.png
+
+.. figure:: /img/construction.gif 
+
+This documentation is being created since March 2012. It is not complete, and should be used with care. If you need help, contact us at http://flowhelp.akvo.org
+
 """
 
 # Documents to append as an appendix to all manuals.
