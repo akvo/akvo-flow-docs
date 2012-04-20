@@ -21,7 +21,7 @@ Welcome to the FLOW documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
    
    docs/welcome
    docs/tutorials

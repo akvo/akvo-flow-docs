@@ -7,4 +7,6 @@
 Welcome pages
 ================================
 
-It greets the first time users of an Eclipse application with a series of pages that are meant to introduce him/her to the application and make the initial experience favorable. The implementation can simply guide the user through the initial setup and then offer common tasks to do in the application, offer tutorials, samples (for development applications), links to online resources, news etc.
+Welcome to Akvo FLOW! 
+ 
+This documentation is under construction. This section will contain a series of pages that are meant to introduce users to the Akvo FLOW application and make the initial experience favorable. It will guide the user through the initial setup and then offer common tasks to do in the application, offer tutorials, samples, links to online resources, news etc.

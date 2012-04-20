@@ -1,7 +1,7 @@
 Updating the Field Survey app
 ================================
 
-Occasionally, the software in the Field Survey needs to be updated. The easiest way to do the update is by using the Gmail account that you installed on the phone (see :ref:`installing the Field Survey app <installing_app>`). However, in cases of limited connectivity, a number of alternatives are described below.
+Occasionally, the software in the Field Survey needs to be updated. The easiest way to do the update is by using the Gmail account that you installed on the phone (see :ref:`installing the Field Survey app <installing-app>`). However, in cases of limited connectivity, a number of alternatives are described below.
 
 Updating through Gmail
 ---------------------------
@@ -13,7 +13,7 @@ Updating through Gmail
  
 3. Send an email with the Field Survey app (APK file) as an attachement to the gmail email address that is configured on the phone.
 
-4. Open the email app on the phone. If you don't have the email app icon on your home screen, you can `create a shortcut <create_shortcut>`. 
+4. Open the email app on the phone. If you don't have the email app icon on your home screen, you can :ref:`create a shortcut <create-shortcut>`. 
 
 .. figure:: img/3-installing-app-2-arrow.gif
    :width: 200 px
@@ -67,4 +67,29 @@ In that case, you first need to remove the old Field Survey app before you can i
 
 To remove the old application, take these steps:
 
-1. 
+1. On the home screen, click the Menu button. On the displayed popup, select "Manage Apps". On some phones, you have to select "Settings", followed by "Applications", followed by "Manage Applications" to arrive in the same menu.
+
+.. figure:: img/4-update-app-4-arrow.gif
+   :width: 200 px
+   :align: center
+
+2. Scroll down the list and locate the Field Survey app. Click on the icon.
+
+.. figure:: img/4-update-app-5-arrow.gif
+   :width: 200 px
+   :align: center
+
+3. Information on the application is displayed. Click on "Uninstall"
+
+.. figure:: img/4-update-app-6-arrow.gif
+   :width: 200 px
+   :align: center
+
+4. Confirm the uninstall by clicking "Ok".
+
+.. figure:: img/4-update-app-7.png
+   :width: 200 px
+   :align: center
+
+
+The Field Survey app will now be uninstalled. Now you can install the new application by following the steps above.

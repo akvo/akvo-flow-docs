@@ -7,4 +7,6 @@
 Tutorials
 ================================
 
- These are meant to lead users through sequential tasks. They follow the user through steps, offer help links for each, provide an option to perform the step for the user or let the user do it herself. Cheat sheets are available from the Help menu but can be programmatically opened whenever a task assistance is needed.”
+ Welcome to Akvo FLOW! 
+ 
+ This documentation is under construction. This section will contain tutorials meant to lead users through sequential tasks. They will follow the user through steps, offer help links for each, etc. 
