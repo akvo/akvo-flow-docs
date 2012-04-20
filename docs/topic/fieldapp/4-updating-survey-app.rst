@@ -93,3 +93,14 @@ To remove the old application, take these steps:
 
 
 The Field Survey app will now be uninstalled. Now you can install the new application by following the steps above.
+
+
+Updating through the FileManager
+--------------------------------------
+
+
+
+
+
+Updating through the Terminal
+-----------------------------------
