@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 4
    
    dashboard/intro
-   dashboard/overview
+   dashboard/1-overview
    dashboard/surveys
    dashboard/phones
    dashboard/data
