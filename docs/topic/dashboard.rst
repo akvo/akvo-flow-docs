@@ -12,14 +12,13 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   dashboard/intro
    dashboard/1-overview
-   dashboard/surveys
-   dashboard/phones
-   dashboard/data
-   dashboard/analysis
-   dashboard/reports
-   dashboard/users
-   dashboard/admin
+   dashboard/2-surveys
+   dashboard/3-assigning_surveys
+   dashboard/4-data_management
+   dashboard/5-reports
+   dashboard/6-analysis
+   dashboard/7-users
+   dashboard/8-admin
    
    
