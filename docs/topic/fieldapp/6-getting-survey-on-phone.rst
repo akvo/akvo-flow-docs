@@ -69,7 +69,7 @@ If there is no wifi available or you have trouble with the connectivity, you can
 8. Click 'Generate' to create the boostrap file. The file will be send to the email address you provided. You will see a Request submitted pop-up window. Click OK, and then check your email for the Bootstrap file.
 
 .. figure:: img/6-getting-surveys-9.png
-   :width: 550 px
+   :width: 250 px
    :align: center
 
 
@@ -110,9 +110,34 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 *********************************
 1. Download the Bootstrap .zip file by clicking on the link contained in the email. Put the file on your computer somewhere.
 
-.. figure:: img/93-submit-manual-9a.jpg
+.. figure:: img/6-getting-surveys-9a-arrow.png
    :width: 450 px
    :align: center
 
 
-2. 
+2. Locate the phone folder on your computer's hard drive. It may be called NO NAME. Open this folder. Select the subfolder "fieldsurvey". In this folder there will be an empty folder "bootstrap".
+
+.. figure:: img/6-getting-surveys-9b-arrow.png
+   :width: 450 px
+   :align: center
+
+3. Copy the bootstrap .zip file to the "bootstrap" folder.
+
+.. figure:: img/6-getting-surveys-9c-arrow.png
+   :width: 500 px
+   :align: center
+
+4. After you have completed this, close the window and eject the phone's drive from your computer BEFORE you remove the USB cord from the phone or the computer. If you do not do this correctly, the bootstrap file may not run correctly, and it may cause problems on your computer or phone. The exact order for connecting and disconnecting your phone will vary depending on which model you are using. Your phone models manual might have more information.
+
+5. After you disconnect the phone, open the Field Survey app. The phone notification bar will first read "Loading survey data from SD card", and then "Done loading survey data from SD card". 
+
+.. figure:: img/6-getting-surveys-9d-arrow.png
+   :width: 200 px
+   :align: center
+
+
+6. After you see the second message, leave the Field Survey app by pressing the "Back" key on the phone, and open the Field Survey app again. The new surveys will now be added to your home screen. You can now use these surveys to collect data in the field.
+
+.. figure:: img/6-getting-surveys-9e-arrow.png
+   :width: 200 px
+   :align: center
