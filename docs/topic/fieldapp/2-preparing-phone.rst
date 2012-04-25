@@ -8,6 +8,7 @@ Contents:
    
    
    2-preparing-phone/2-1-essential-setup
+   2-preparing-phone/2-2-wifi-basics
    2-preparing-phone/2-3-GPS-basics
    2-preparing-phone/2-4-camera
    2-preparing-phone/2-5-barcodes
