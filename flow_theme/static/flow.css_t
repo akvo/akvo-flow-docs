@@ -4,9 +4,12 @@
   font-size:120%;
 }
 
-
 .toctree-l2 a {
  font-size:110%;
+ }
+ 
+ a.current.reference.internal{
+ color: #ffffff;
  }
  
 .toctree-l3 a {
@@ -14,7 +17,7 @@
  }
 
 .toctree-l2 li {
- margin:10px 0 0px 0;
+ margin:5px 0 0px 0;
  }
 
 .toctree-l3 li {
@@ -33,9 +36,9 @@
  	margin:15px 0 0 0;
  	}
  	
- 	 li.toctree-l2 {
- 	margin:5px 0 0 0;
- 	}
+li.toctree-l2 {
+ 	margin:0px 0 0 0;
+}
  	
 .caption {
  font-style: italic;
