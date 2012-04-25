@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'flow', u'FLOW Documentation',
-     [u'Mark Tiele Westra, Caetie Oafiesh'], 1)
+     [u'Mark Tiele Westra, Caetie Ofiesh'], 1)
 ]
 
 # If true, show URL addresses after external links.

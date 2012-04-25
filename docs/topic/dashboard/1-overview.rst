@@ -4,7 +4,7 @@ Overview
 The FLOW Dashboard is the web-based location where users access and manage their FLOW data. All the data collected through FLOW is stored and processed in the Dashboard. It is also where users can run reports, create and edit surveys, and edit data. Each organization will have its own URL to access its online Dashboard, such as http://flowakvo.appspot.com/Dashboard.html.
 
 .. figure:: img/1-overview-1.png
-   :width: 800 px
+   :width: 600 px
    :alt: image of dashboard
    :align: center	
    
@@ -50,32 +50,42 @@ The Dashboard home page (what you see when you first log in to your Dashboard) c
 Widgets can be added or removed from your view of the database and moved around to create a customized display for each user. Adding and removing widgets changes only your view of the dashboard and doesn’t affect any other users.
 
 Available widgets for your home page
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following widgets are currently available to add to your Dashboard Home page.
 
-	* System Summary – shows existing survey names and phone addresses contained in the Dashboard.
+	* System Summary – shows existing surveys, users and phone addresses contained in the Dashboard.
 	* Survey Activity over Time – shows how many surveys the database is receiving over a given period of time, results can be shown by country or globally.
 	* Survey Answer Break Down – shows a pie chart of the percentages of answers given to a particular question in a survey. 
 	* Device Location – shows the approximate location of each FLOW enabled phone as of the last time the phone was turned on, and a location beacon could be sent to the FLOW server.
-	
-No longer available or under construction:
-	* Access Point Status by Country – This applet allows you to see the status of water points on a heat map.
-	* Access Point Status – This applet shows a pie chart of the functionality of water points over a country or globally and over a defined period of time.
-	* Access Point Performance – This applet compares water or sanitation points over time.
-	* Recent Access Points – This applet shows the last 20 points that were collected on a map.
+	* Access Point Metric Chart - if you have created metrics for your FLOW surveys, charts access point metrics for selected regions as a pie chart *(currently under construction)*
 
 Adding, moving, and deleting widgets
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To add a widget, click the green "+" on the far right of the menu bar, which will display a pop up window with the widget menu.
+To add a widget, click the green "+" on the far right of the menu bar, which will display a pop up window with the widget menu. Clicking the green "+" next to each widget will add it to your Home screen. When you are finished selecting the widgets you would like to display, clicking **Done** will dismiss the pop-up window.
 
 [Insert image of widget pop up menu with arrow to green plus]
 
+.. figure:: img/1-overview-2.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center	
+
 To move widgets around on your dashboard click and hold down the top bar of a widget and drag it to a new location. 
 
-[Insert image of widget relocate]
+[Insert image of widget relocate with top widget bar highlighted]
+
+.. figure:: img/1-overview-3.png
+   :width: 300 px
+   :alt: image of dashboard
+   :align: center	
 
 To delete a widget you have previously selected, click the red "X" at the top right of that widget on Dashboard home.
 
 [Insert image of widget delete]
+
+.. figure:: img/1-overview-4.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center	
