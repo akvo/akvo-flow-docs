@@ -1,7 +1,7 @@
 Submitting surveys manually
 =============================
 
-If you don't have a wifi connection, you can upload survey data manually. This process takes 3 steps: 1) Exporting the data in the Field Survey app, 2) getting the data off the phone and on a computer, and 3) uploading the data to the Dashboard. The first step can be done in multiple ways, as described below.
+If you don't have a wifi connection, you can upload survey data manually. This process takes 3 steps: 1) exporting the data in the Field Survey app, 2) getting the data off the phone and on a computer, and 3) uploading the data to the Dashboard. The first step can be done in multiple ways, as described below.
 
 Exporting the data in the Field Survey app
 --------------------------------------------
