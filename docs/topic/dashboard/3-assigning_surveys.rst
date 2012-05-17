@@ -1,5 +1,5 @@
 Assigning Surveys to Phones
-================
+=============================
 
 This document contains examples of how to layout text and images in RST.
 

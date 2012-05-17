@@ -18,7 +18,8 @@ Contents:
    dashboard/4-data_management
    dashboard/5-reports
    dashboard/6-analysis
-   dashboard/7-users
-   dashboard/8-admin
+   dashboard/7-mapping
+   dashboard/8-users
+   dashboard/9-admin
    
    

@@ -2,32 +2,32 @@ Surveys
 ================
 
 Structure of FLOW surveys
------------------
+---------------------------
 
 Text
 
 Creating a survey group
------------------
+-------------------------
 
 Text
 
 Creating a survey
------------------
+--------------------
 
 Text
 
 Setting survey parameters
------------------
+----------------------------
 
 Text
 
 Creating a question group
------------------
+-------------------------------
 
 Text
 
 Creating survey questions
------------------
+------------------------------
 
 Text
 
