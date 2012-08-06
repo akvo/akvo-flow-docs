@@ -1,51 +1,38 @@
 Submitting a survey 
 ======================
 
-Automatic submission of surveys
+Network submission of surveys
 ---------------------------------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ligula et ipsum feugiat egestas ac vel arcu. Mauris sollicitudin pretium sem eget mollis. Cras sit amet mauris turpis. Ut molestie lobortis laoreet. Fusce lectus nibh, feugiat eu adipiscing a, gravida vitae risus. Suspendisse velit lorem, molestie sed commodo non, aliquet ornare arcu. Suspendisse potenti. Pellentesque pellentesque lacus sed justo egestas et dignissim mauris placerat. Integer ornare, nisi vel elementum dignissim, purus elit ullamcorper massa, at tincidunt felis eros ac sem. Nunc non lacus tortor. Cras in lectus libero. Vestibulum a nisi velit. Vivamus id eros lobortis eros tempus porta. Nulla facilisi. Mauris facilisis magna sit amet ante imperdiet accumsan volutpat lectus ultricies. Quisque quis diam eros, quis porttitor est.
+When the user completes a survey in the Field Survey app, they are presented with a submission screen. If a network or wi-fi connection is available, pressing the "Submit" button sends the completed survey data and any associated image files to the FLOW server. If a network or wi-fi connection is not available, pressing the "Submit" button queues the data for submission next time a connection is available, and makes the survey data and image files available on the device's SD card. 
 
+.. figure:: img/9-submit-manual-10.png
+   :width: 200 px
+   :align: center
 
+.. note::
+	It is always better to submit data from the device right away over the network. If users store data on their devices while waiting for an opportunity to import it later, there is always the danger of permanent data loss if the device is damaged or lost. 
 
 Alternative - manual submission of surveys
-------------------------------------------
+----------------------------------------------
 
-If you don't have a wifi connection, you can upload survey data manually. This process takes 3 steps: 1) exporting the data in the Field Survey app, 2) getting the data off the phone and on a computer, and 3) uploading the data to the Dashboard. The first step can be done in multiple ways, as described below.
+If you don't have a network or wi-fi connection, you can upload survey data manually. This process takes 2 steps: 1) getting the data off the device and on to a computer, and 2) uploading the data to the Dashboard. The first step can be done in multiple ways, as described below.
 
-1. Exporting the data in the Field Survey app
-**************************************************
-
-1. In the main menu, click "Settings"
-
-.. figure:: img/9-submit-manual-1-arrow.gif
-   :width: 200 px
-   :align: center
-
-2. In the Settings menu, click on "Export Data"
-
-.. figure:: img/9-submit-manual-2-arrow.gif
-   :width: 200 px
-   :align: center
-
-3. You should see a message at the top of the phone in the notification bar that says Data has been exported to SD card. If you pull down the notification, it will display the file name of the exported data, for example: wfp2829869345962-all.zip
-
-.. figure:: img/9-submit-manual-3-arrow.gif
-   :width: 200 px
-   :align: center
+.. note::
+	The default setting in the Field Survey app is to store survey data files on the device's SD card. If users are storing survey data files on internal memory, before they transfer the data from the device to the computer, they must first export it to the SD card, using Field Survey home screen > Settings > Export Data.
 
 
-2. Getting the data off the phone using a USB cable
-*****************************************************
+1. Transferring the data from a device to a computer using a USB cable
+*****************************************************************************
 1. Attach the phone to the USB port of a computer using the USB cable that came with the phone. If the phone displays a screen that asks you to connect the USB, accept this option.
 
-2. Locate the phone folder on your computer's hard drive. It may be called NO NAME. Open this folder. This folder has the content of the SD card on your phone. Select the subfolder "fieldsurvey"
+2. Locate the phone folder on your computer's hard drive. It may be called NO NAME. Open this folder. This folder has the content of the SD card on your phone. Open the subfolder "fieldsurvey."
 
 .. figure:: img/9-submit-manual-4-arrow.gif
    :width: 647 px
    :align: center
 
-3. In the "fieldsurvey" folder you will see a folder called "surveyal". This folder contains all exported survey data, including the file you created in step 2. Copy the entire folder 'surveyal' to a folder on your computer. When this is finished, you can upload the data in the Dashboard (see section below).
+3. In the "fieldsurvey" folder you will see a folder called "surveyal". This folder contains all exported survey data. Make a copy of the entire folder 'surveyal' and transfer the copy to a folder on your computer. When this is finished, you can upload the data in the Dashboard (see section below).
 
 .. figure:: img/9-submit-manual-5.png
    :width: 629 px
@@ -60,7 +47,7 @@ If you don't have a wifi connection, you can upload survey data manually. This p
 
 	If the survey contains photos, they will not be contained in the .zip file, and instead stored separately as .jpg files somewhere in the same folder structure.
 
-	Please take note: although the files have the extention .zip, they are not meant to be unzipped. Instead, the .zip file contains the data in a packed format, meant to be uploaded to the Dashboard.
+	Please take note: although the files have the extention .zip, they are not meant to be unzipped before they are uploaded. Instead, the .zip file contains the data in a packed format, meant to be uploaded to the Dashboard.
 
 
 2. Alternative - getting the data of the phone using the SD-card directly
@@ -90,7 +77,7 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 ****************************************  
 Once you have succesfully copied the "surveyal" folder to your computer, you can upload it to the Dashboard. There is no need to know which .zip file particularly to upload: the upload mechanism will search through all subfolders and extract the right files.
 
-1. Open the Dashboard on your computer
+1. Open the Dashboard in a web browser on your computer
 
 2. In the menu item "Data Managers", select "Admin Wizard". **Don't** select "Data Upload", that is for individual .zip files only.
 
@@ -132,4 +119,4 @@ Once you have succesfully copied the "surveyal" folder to your computer, you can
    
    Upload complete.
    
-8. The data is now uploaded. You can check this by selecting "Raw Data Manager" in the "Data Managers" menu item. Select the survey group and the survey and click "Find". The data for the survey will be shown chronologically, and the data you have uploaded should appear in the right place. 
+8. The data is now uploaded. You can check this by selecting "Raw Data Manager" in the "Data Managers" menu. Select the survey group and the survey and click "Find". The data for the survey will be shown in reverse chronological order, and the data you have uploaded should appear according to the date the survey was recorded (not according to the date it was manually uploaded). 

@@ -230,7 +230,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'FLOW', u'FLOW Documentation',
-   u'Mark Tiele Westra, Caetie Oafiesh', 'FLOW', 'One line description of project.',
+   u'Mark Tiele Westra, Caetie Ofiesh', 'FLOW', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -239,7 +239,7 @@ rst_prolog="""
 
 .. figure:: /img/construction.gif 
 
-This documentation is being created since March 2012. It is not complete, and should be used with care. If you need help, contact us at http://flowhelp.akvo.org
+Welcome to the documentation site for Akvo FLOW! This site is under construction. It is not complete, and should be used with care. If you need help, contact us at http://flowhelp.akvo.org
 
 """
 
