@@ -234,14 +234,14 @@ texinfo_documents = [
    'Miscellaneous'),
 ]
 
-rst_prolog="""
-.. |more| image:: /img/more.png
+#rst_prolog="""
+#.. |more| image:: /img/more.png
+#
+#.. figure:: /img/construction.gif 
+#
+#Welcome to the documentation site for Akvo FLOW! This site is under construction. It is not complete, and should be used with care. If you need help, contact us at http://flowhelp.akvo.org
 
-.. figure:: /img/construction.gif 
-
-Welcome to the documentation site for Akvo FLOW! This site is under construction. It is not complete, and should be used with care. If you need help, contact us at http://flowhelp.akvo.org
-
-"""
+#"""
 
 # Documents to append as an appendix to all manuals.
 #texinfo_appendices = []
