@@ -20,6 +20,7 @@ Contents:
    dashboard/6-maps
    dashboard/7-users
    dashboard/8-admin
+   dashboard/9-site-requirements
 
    
    
