@@ -26,3 +26,5 @@ More detailed permission role descriptions are coming soon (from CMO)
 Mock-up(s)
 ---------------------
 users_home.bmml
+
+LAST UPDATE : 7 November 2012 cmo

@@ -13,3 +13,5 @@ Requirements
 	* View survey status
 	* Create web survey (web authorization)
 	* Create survey form (printable survey form)
+	
+LAST UPDATE : 7 November 2012 cmo

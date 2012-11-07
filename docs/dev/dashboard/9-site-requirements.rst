@@ -41,3 +41,5 @@ Tables
 -----------------------
 	* All columns are sortable (A-Z or numerical) by clicking on the column heading
 	* Users have a choice of records to display per page, and the default is 10 records per page
+	
+LAST UPDATE : 7 November 2012 cmo

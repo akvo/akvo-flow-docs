@@ -8,3 +8,5 @@ Requirements
 	* Export raw data reports
 	* Re-import cleaned survey data
 	* Manage metrics
+	
+LAST UPDATE : 7 November 2012 cmo
