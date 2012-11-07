@@ -2,6 +2,23 @@ Site Requirements
 =============================
 These are the high-level site-wide requirements for the Akvo FLOW Dashboard. The section titles on this page should remain in alpha order.
 
+Overall 1.5 Site Requirements
+-------------------------------------
+Basic workflow:
+	* Create/edit surveys (Surveys tab)
+	* Publish surveys (Surveys tab)
+	* Assign to devices (Devices tab)
+	* View incoming data from the field (Data tab)
+	* Manage metrics (Data tab)
+	* Run reports (Reports tab)
+	* View data on maps (Maps tab)
+
+Additional required tasks:
+	* Add/edit users and permissions (Users tab)
+	* Manage and troubleshoot devices (Devices tab)
+	* Clean and re-import data (Data tab)
+	* Upload zip files manually (Data tab)
+
 Alpha
 -----------------------
 	* Default display for string text is alphabetical A-Z
