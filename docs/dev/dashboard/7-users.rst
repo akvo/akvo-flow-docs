@@ -1,16 +1,21 @@
 Users
 ================
 
-Requirements
----------------------
-	* All dashboard users can view current users and their permission levels, but only Organisation administrators can see [+ Add New Users] button or Action column
+Overall Requirements
+----------------------------
+	* All dashboard users can view current users and their permission levels
+	* Only Organisation administrators can see [+ Add New Users] button or Action column
 	* Given appropriate permissions, current users can add new users and set their permission levels, edit permission levels of existing users, and delete users.
-	* Given appropriate permissions, a user cannot delete another user without a warning message.
 	* Users should only see the elements that they have permission to interact with according to their permission level.
 	* The default user level should be User.
 	* Akvo staff level users (Super Users) should be hidden on the user listing on all pages other than flowakvo.
-	* Email address entry field should be formatted to receive valid email address formats, and for now only gmail addresses, since they are required for user log-in
-	* Username entry field should limit users to entering text and numbers, with no spaces, tabs or special characters
+
+
+Detailed Requirements
+--------------------------------
+	* **Deleting Users** - Given appropriate permissions, a user cannot delete another user without a warning message.
+	* **Email address entry field** - should validate email address format, and for now only gmail addresses are allowed, since they are required for user log-in. Only @gmail.com and @googlemail.com are accepted.
+	* **Username entry field** - should limit users to entering letters and numbers in the ISO basic Latin Alphabet (http://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet), with no spaces, tabs or special characters. Username should be case-insensitive. Character limit for username should be XXX.
 
 Permission Level Details
 -----------------------------
