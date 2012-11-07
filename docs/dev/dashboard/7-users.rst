@@ -21,12 +21,13 @@ Permission Level Details
 -----------------------------
 	* User
 	* Project Editor
-	* Organisation Administrator
+	* Administrator
 	* Super User (Akvo staff only)
 
-These levels are matched with RSR permission levels, http://rsrhelp.akvo.org/kb/getting-started/user-accounts-and-rights
+These levels are matched with `RSR permission levels <http://rsrhelp.akvo.org/kb/getting-started/user-accounts-and-rights>`_
 
-More detailed permission role descriptions are coming soon (from CMO)
+`More detailed permission role descriptions <https://docs.google.com/document/d/16bCHzJ6Lyi4YmULZ5dG3hHoYxdWVLZkj4rUvEc_7__M/edit>`_ (can view with Akvo permission only)
+
 
 Mock-up(s)
 ---------------------
