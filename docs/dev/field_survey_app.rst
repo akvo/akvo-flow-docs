@@ -12,5 +12,5 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   fieldapp/1-field_survey_app
-   fieldapp/2-survey_transmission
+   field_survey_app/1-field_survey_app
+   field_survey_app/2-survey_transmission
