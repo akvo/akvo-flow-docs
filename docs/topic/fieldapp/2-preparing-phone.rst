@@ -15,5 +15,5 @@ Contents:
    2-preparing-phone/2-6-managing-files
    2-preparing-phone/2-7-battery-management
    2-preparing-phone/2-8-external-backup-power
-   2-preparing-phone/2-9-clearing-phone-data
+   2-preparing-phone/2-9-clearing-data
    

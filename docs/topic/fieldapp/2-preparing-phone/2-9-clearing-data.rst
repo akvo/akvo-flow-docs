@@ -1,5 +1,5 @@
 Clearing phones of data 
-==============================
+=======================
 
 If you have used a device for a previous data collection, yada yada
 

@@ -1,19 +1,7 @@
 Assigning Surveys to Phones
 =============================
 
-This document contains examples of how to layout text and images in RST.
-
-|more| Linking to other documents :ref:`uploading data <uploading_data>`
-
-Including an image with a caption:
-
-.. figure:: img/phone_4.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-   This is the caption of the figure. In the code, don't forget to indent the text.
-   
+Intro
    
 Next section
 -----------------
