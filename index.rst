@@ -5,7 +5,7 @@
 
  
 Welcome to the documentation site for Akvo FLOW!
-=====================================
+================================================
 
 Contents:
 
@@ -13,6 +13,5 @@ Contents:
    :maxdepth: 5
    
    docs/welcome
-   docs/tutorials
    docs/topic-based-help
    docs/development

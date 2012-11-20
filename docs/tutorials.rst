@@ -3,10 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-================================
-Tutorials
-================================
+=====================================
+Tutorials - Beta - Under Construction
+=====================================
 
- Welcome to Akvo FLOW! 
- 
- This documentation is under construction. This section will contain tutorials meant to lead users through sequential tasks. They will follow the user through steps, offer help links for each, etc. 
+Contents:
+
+.. toctree::
+   :maxdepth: 4
+   
+   tutorials/field_survey_app
+   tutorials/dashboard
