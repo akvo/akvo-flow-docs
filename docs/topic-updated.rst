@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=====================================
-Tutorials - Beta - Under Construction
-=====================================
+====================================================
+Updated Topic-Based Help - Beta - Under Construction
+====================================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 4
    
-   tutorials/field_survey_app
-   tutorials/dashboard
+   topicupdated/field_survey_app
+   topicupdated/dashboard
