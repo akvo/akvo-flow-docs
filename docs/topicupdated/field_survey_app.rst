@@ -12,7 +12,7 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   fieldapp/1-phone-requirements
+   fieldapp/1-overview
    fieldapp/2-preparing-phone
    fieldapp/3-installing-survey-app
    fieldapp/4-updating-survey-app
