@@ -1,5 +1,5 @@
 Understanding the Interface
-===========================
+=============================
 
 When you first launch the Field Survey application, the following icons are displayed.
 
