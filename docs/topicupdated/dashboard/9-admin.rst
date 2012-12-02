@@ -1,6 +1,25 @@
-Admin
-================
+Admin Wizard Overview
+=======================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in ligula et ipsum feugiat egestas ac vel arcu. Mauris sollicitudin pretium sem eget mollis. Cras sit amet mauris turpis. Ut molestie lobortis laoreet. Fusce lectus nibh, feugiat eu adipiscing a, gravida vitae risus. Suspendisse velit lorem, molestie sed commodo non, aliquet ornare arcu. Suspendisse potenti. Pellentesque pellentesque lacus sed justo egestas et dignissim mauris placerat. Integer ornare, nisi vel elementum dignissim, purus elit ullamcorper massa, at tincidunt felis eros ac sem. 
+The Admin Wizard feature on the FLOW Dashboard enables you to perform administrative tasks related to user and data management. 
 
-Nunc non lacus tortor. Cras in lectus libero. Vestibulum a nisi velit. Vivamus id eros lobortis eros tempus porta. Nulla facilisi. Mauris facilisis magna sit amet ante imperdiet accumsan volutpat lectus ultricies. Quisque quis diam eros, quis porttitor est.
+Access to each tool on the Dashboard is limited by permissions. All functions are not available to all users. Only a user with Admin permissions can access all the options within the Admin Wizard. Permissions are assigned in the Manage Users page.
+
+Within Admin Wizard you can perform the following tasks, if you have the appropriate permissions:
+
+- Manage user accounts.
+-	Manage surveys.
+-	Manage survey assignments.
+-	Manage authorizations for web surveys.
+-	Run survey reports.
+-	Import and export survey data.
+
+To access Admin Wizard:
+
+1.	Log on to your organization’s FLOW Dashboard (http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard home page. On the top panel, click on the Data Managers tab.
+ 
+
+2.	From the Data Managers drop-down menu, select Admin Wizard. 
+ 
+3.	This opens the Administration Home page. All administrative options available are displayed along with a brief description of the tasks you can perform with each.
+ 
