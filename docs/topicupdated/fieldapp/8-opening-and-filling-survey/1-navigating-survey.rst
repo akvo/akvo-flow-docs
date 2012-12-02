@@ -28,3 +28,29 @@ If an administrator has configured additional help options in the survey, you wi
 
 -	Nearby Points - This tool helps you track the performance of water points over time. It shows you a list of previously mapped points sorted by distance (from nearest to farthest) from your current location. If a point on the list matches the point being surveyed, you can select it to ensure that the existing information about that point is updated in the database.
 -	Waterflow Calculator - This feature allows you to enter available parameters and calculate how well a water point is functioning. 
+
+Saving a Survey
+-----------------
+
+Surveys responses are automatically saved as you answer them. If you want to save a partially completed survey for later and begin a new survey, use the Save and Start New menu option.
+
+Survey Menu Options
+----------------------
+
+The following table explains the options displayed in the Survey menu. 
+
+<table> Survey Menu Options
+
+
+Large Text  Makes text appear larger for easy reading. 
+Normal text	Changes text size from large to normal.
+Clear	Erases all responses entered into the survey without sending it to the server. To clear the response to a particular question, long-click the question text and click OK. 
+
+Save and Start New
+
+	Saves current survey responses and starts a new survey, clearing all input values. The saved version appears under the Review Saved Surveys icon on the home screen. You can edit it later and then submit it. 
+Languages	Allows you to select one or more languages in which you want the survey questions to appear, if the survey was configured to support multiple languages. 
+Note: The survey may take a few seconds to reload after switching languages.
+link to related Admin wizard topic
+
+Submitted Surveys	Shows a list of submitted surveys. Submitted surveys cannot be edited; you can open them in read-only mode. 
