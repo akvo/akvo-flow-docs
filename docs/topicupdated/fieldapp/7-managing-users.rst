@@ -1,123 +1,49 @@
-Managing users
-=================
+Understanding the Interface
+===========================
 
-Creating a user
--------------------
-When the Field Survey app is first opened, you first need to create one or more users. During data collection, a specific user is always selected. When you later examine the data in the Dashboard, you will be able to see who collected a particular piece of data.
+When you first launch the Field Survey application, the following icons are displayed.
 
-To create a user, follow these steps:
+<icon> **Manage Users**
+---------------------
 
-1. Select "Manage Users" on the main menu. The current list of users will be displayed. At first, this will be empty.
+Before you start using FLOW, you first need to create one or more users. During data collection, a specific user needs to be selected so that you can later track the collected data to the field worker who conducted the survey. 
 
-.. figure:: img/7-manage-users-0-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center	
-	
+The Manage Users feature allows you to create and edit users, and select a particular user for a session. 
+  
+<icon> **Review Saved Surveys**
+---------------------------
 
-2. While in the Manage Users screen, press the Menu button of the phone. This will display the "Add User" button.
+When you have to stop a survey midway and then continue it later, you can retrieve the partly filled survey using the Review Saved Surveys feature. (For example, you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the survey.)  
 
-.. figure:: img/7-manage-users-1-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center	
+**This feature gives you quick access to**:
+-	Surveys that were saved but not submitted - Click on the survey name to open the survey and continue entering responses.
+-	Submitted surveys – Click on the Menu   icon and then choose Submitted Surveys. You can view a previously submitted survey, but not edit it.
 
-3. Select "Add User"
+For details on the options available on this feature, see Survey Menu Options.
 
-4. Fill in the name of the user and an email address, and select "Save".
+<icon> **Settings**
+-----------------------
 
-.. figure:: img/7-manage-users-2.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center	
-
-5. The new user now shows up in the list of users. Click on the name to select the user.
-
-.. figure:: img/7-manage-users-3-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-6. The selected user is now displayed at the top of the main menu screen.
-
-.. figure:: img/7-manage-users-4-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
+You can use the Settings menu to customize the application as you require, and to perform various other administrative actions. The Preferences option within the Settings menu allows you to configure the way the application should display and handle data.
 
 
+Some features are available to all users while others can only be accessed by administrators and require an administrator access code.
 
-Selecting a user
--------------------
-To select a user, select "Manage Users" from the main menu. This will display a list of users.
-Click on a name in the list to select the user.
+The following table lists the recommended settings for the options within the Preferences menu.
+<table>
+Preference	Recommended Setting
+Search radius for points	? < caetie>
+Keep the last-selected user logged in between sessions 	  Enable. Ensures that you do not have to select a user every time you launch the application.
+Keep screen on during survey input	  Enable. Unless you have no access to a power source to recharge your phone.
+Upload data over cellular network	Select Always. Unless you have low bandwidth. If you select Data Only, pictures will not be uploaded. 
+Survey language	Pick the language in which the survey should display. You can only select one language at a time.
+Download points for countries	<Caetie? > 
+Send location beacons	  Enable. This prompts the phone to send your location data to the FLOW server.
+Automatically check for survey updates	Select Always. If you select any other option, you have to update the surveys manually.
+Automatically upload app errors	Select Always. This records any errors your phone experiences and sends it to FLOW support staff who can then help resolve the errors.
+Pre-cache data and help media	Select WiFi only. This ensures that non-critical components such as help media are downloaded only when you are connected by WiFi.
+Data Server	Automatically set to the FLOW server address. Do not change.
+Device Identifier	Enter a name for the device, for example, ‘kenya01’. This ID is used to identify and keep track of the devices on the FLOW Dashboard. 
 
-.. figure:: img/7-manage-users-3-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-The selected user is now displayed at the top of the main menu.
-
-.. figure:: img/7-manage-users-4-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-Editing a user
-------------------
-To edit a user, select "Manage Users" from the main menu. This will display a list of users. Long-click on one of the usernames, and select "Edit user". 
-
-.. figure:: img/7-manage-users-5-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-Change the name and email address as desired, and click "Save" to save the changes.
-
-.. figure:: img/7-manage-users-6.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-Deleting a user
------------------
-To delete a user, select "Manage Users" from the home screen. This will display a list of users. Long-click on one of the usernames, and select "Delete user". The user is now deleted. 
-
-.. figure:: img/7-manage-users-5a-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-
-Remember a user
-------------------
-By default, every time the application is launced, a user needs to be selected. If you prefer that the application remembers the last user selected, take these steps:
-
-1. Select "Settings" from the main menu.
-
-.. figure:: img/7-manage-users-7-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-2. Select the "Preferences" option.
-
-.. figure:: img/7-manage-users-8-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-3. Check the box beside the "Keep the last selected user logged-in between sessions" option.
-
-.. figure:: img/7-manage-users-9-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-
-
-
-
-
-
+Example:
+ <insert pic>
