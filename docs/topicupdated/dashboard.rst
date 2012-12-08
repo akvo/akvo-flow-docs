@@ -21,8 +21,6 @@ Contents:
    dashboard/7-mapping
    dashboard/8-users
    dashboard/9-admin
-   
-   dashboard/9-admin
    dashboard/ManageUsers
    dashboard/TasksandPermissions
    dashboard/CreateUserAccount
