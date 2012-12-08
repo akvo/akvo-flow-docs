@@ -22,7 +22,7 @@ Contents:
    dashboard/8-users
    dashboard/9-admin
    
-vAdminWizardOverview
+   dashboard/AdminWizard
    dashboard/ManageUsers
    dashboard/TasksandPermissions
    dashboard/CreateUserAccount
