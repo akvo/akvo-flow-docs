@@ -12,12 +12,13 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
+   dashborad/1-overview
    dashboard/9-admin
    dashboard/ManageUsers
-      dashboard/TasksandPermissions
-      dashboard/CreateUserAccount
-      dashboard/AssignPermissionsToUser
-      dashboard/DeleteaUserAccount
+   dashboard/TasksandPermissions
+   dashboard/CreateUserAccount
+   dashboard/AssignPermissionsToUser
+   dashboard/DeleteaUserAccount
    dashboard/ManageSurveys
    dashboard/CreateSurveys
    dashboard/EditSurveyDetails
