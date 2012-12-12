@@ -12,8 +12,8 @@ Requirements
 	* Map displays all surveyed points where point type = access point (formerly waterpoint), and public institution; map does not display data with point type = household
 	* Surveyed point = surveyedLocale or accessPoint, survey must have contained "geo" question type in order for a surveyedLocale to be created
 	* Map points are displayed using Akvo-designed icons that denote point type
-	* Map displays a moveable legend explaining point icons
-	* When clicked by user, each point displays a pop-up window with a photo of the point and selection of survey data as determined by the user-defined metrics
+	* Map displays a legend explaining point icons
+	* When clicked by user, each point displays a window with a photo of the point, a set of basic information and selection of survey data as determined by the user-defined metrics (more detail below)
 	* Map contains dropdown with list of all countries with data for that Dashboard so that users can easily navigate between countries where they have FLOW data
 	* Map data are displayed on Google Map platform
 	* Map has a footer that contains name of organization(s) that collected the data, link to akvo.org or "powered by Akvo" (need to ask Thomas about this)
@@ -30,8 +30,23 @@ ie, things we will not do in this version
 	* No zoom levels on maps
 	* No point groupings or data aggregation
 	
-Details (to come)
------------------
+Details
+-------
+
+Data Window
+^^^^^^^^^^^
+**Required Elements**
+	* Community Name
+	* Point Code (surveyedLocale or accessPoint Unique Code)
+	* Collection date (YYYY-MM-DD)
+	* One photo, able to display landscape or portrait
+	* Photo should link to URL that users can open in new browser window, eg http://waterforpeople.s3.amazonaws.com/images/wfpPhoto6308908093912.jpg
+	* If there is no image available for the point, we need a generic placeholder image
+	* Remainder of the data displayed in the window is determined by the metrics the user has selected. If user has not selected any metrics to display, there are no other data displayed in the window.
+
+
+To Come:
+
 Mapping platform requirements
 
 Point types - currently waterpoint, sanitation point, public institution, household; should be access point, public institution (ie school, clinic), and household
@@ -40,6 +55,4 @@ Next step is to have a sector tag (ie water, sanitation, health, food security e
 
 Metrics
 
-Pop-up window mock-up
-
-LAST UPDATE : 29 November 2012 cmo
+LAST UPDATE : 12 December 2012 cmo
