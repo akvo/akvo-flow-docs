@@ -12,35 +12,13 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   dashborad/1-overview
-   dashboard/9-admin
-   dashboard/ManageUsers
-   dashboard/TasksandPermissions
-   dashboard/CreateUserAccount
-   dashboard/AssignPermissionsToUser
-   dashboard/DeleteaUserAccount
-   dashboard/ManageSurveys
-   dashboard/CreateSurveys
-   dashboard/EditSurveyDetails
-   dashboard/ManageNotifications
-   dashboard/QuestionTypes
-   dashboard/AddQuestionsToSurvey
-   dashboard/CreateQuestionGroup
-   dashboard/AddQuestionsToQuestionGroup
-   dashboard/EditTranslations
-   dashboard/EditHelpMedia
-   dashboard/CreateNewSurveyfromExisting
-   dashboard/PublishSurvey
+   dashboard/1-overview
+   dashboard/AdminWizard
+   dashboard/manage_users
+   dashboard/manage_surveys
    dashboard/AssignSurveystoDevices
    dashboard/GenerateBootstrapFile
-   dashboard/ManageWebSurveys
-   dashboard/EditWebAuthorizations
-   dashboard/SurveyReports
-   dashboard/RunReports
-   dashboard/CleanReportData
-   dashboard/GenerateSurveyForm
-   dashboard/ImportData
-   dashboard/ImportSurvey
-   dashboard/ImportRawDataReport
-   dashboard/ImportMultiple Files
-   dashboard/ReviewSubmittedData
+   dashboard/manage_web_surveys
+   dashboard/survey_reports
+   dashboard/import_data
+   dashboard/7-mapping
