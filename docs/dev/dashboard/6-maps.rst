@@ -36,9 +36,8 @@ Details
 Data Window
 ^^^^^^^^^^^
 **Required Elements**
-	* Community Name
 	* Point Code (surveyedLocale or accessPoint Unique Code)
-	* Collection date (YYYY-MM-DD)
+	* Submission date (YYYY-MM-DD)
 	* One photo, able to display landscape or portrait
 	* Photo should link to URL that users can open in new browser window, eg http://waterforpeople.s3.amazonaws.com/images/wfpPhoto6308908093912.jpg
 	* If there is no image available for the point, we need a generic placeholder image
