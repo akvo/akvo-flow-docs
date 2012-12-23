@@ -12,5 +12,6 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   topicupdated/field_survey_app
    topicupdated/dashboard
+   topicupdated/field_survey_app
+   
