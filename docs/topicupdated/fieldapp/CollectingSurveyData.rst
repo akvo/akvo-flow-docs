@@ -15,13 +15,13 @@ Question Types
 
 Surveys can consist of a number of different question types.
 
-- Dependent Questions – Based on the answer to a question, additional questions are displayed or hidden. 
+- **Dependent Questions** – Based on the answer to a question, additional questions are displayed or hidden. 
  
-- Geo Questions - use the device’s GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
+- **Geo Questions** - use the device’s GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
 
-- Photo and Video questions – present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. 
+- **Photo and Video questions** – present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. 
 
-**Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.**
+*Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.*
 
 Help Options
 ------------
@@ -30,9 +30,9 @@ Surveys can be configured to include help options. Help can take the form of tex
 
 If an administrator has configured additional help options in the survey, you will have access to the following tools:
 
-- Nearby Points - This tool helps you track the performance of water points over time. It shows you a list of previously mapped points sorted by distance (from nearest to farthest) from your current location. If a point on the list matches the point being surveyed, you can select it to ensure that the existing information about that point is updated in the database.
+- **Nearby Points** - This tool helps you track the performance of water points over time. It shows you a list of previously mapped points sorted by distance (from nearest to farthest) from your current location. If a point on the list matches the point being surveyed, you can select it to ensure that the existing information about that point is updated in the database.
 
-- Waterflow Calculator - This feature allows you to enter available parameters and calculate how well a water point is functioning.
+- **Waterflow Calculator** - This feature allows you to enter available parameters and calculate how well a water point is functioning.
  
 
 Guidelines for Data Collection
