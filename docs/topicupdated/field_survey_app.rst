@@ -4,7 +4,7 @@
    contain the root `toctree` directive
  
 ------------------------------------------------ 
-The FLOW Android App
+The Field Survey Application
 ------------------------------------------------
 
 Contents:
