@@ -11,7 +11,7 @@ If network connectivity is low, FLOW provides an alternative way to upload surve
 .. figure:: img/AdminWizard.png
    :width: 600 px
    :alt: image of dashboard
-   :align: center
+   :align: left
  
 2.	Select the survey that you want to include in the file. In the Survey Group field, select the **Survey Group** for the survey. 
 
@@ -36,10 +36,4 @@ If network connectivity is low, FLOW provides an alternative way to upload surve
 
 6.	To generate the file, click **Generate**. 
 
-
-.. figure:: img/1-overview-1.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center
- 
 7.	A message confirms file generation. Click **OK**.
