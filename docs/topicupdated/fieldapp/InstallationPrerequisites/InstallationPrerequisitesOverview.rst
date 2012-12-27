@@ -1,4 +1,3 @@
-﻿.. _installing-app:
 
 Installation Prerequisites
 =============================
