@@ -33,9 +33,24 @@ ie, things we will not do in this version
 Details
 -------
 
+Country Selector Dropdown
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Summary: FLOW Dashboard map needs a dropdown with list of all countries with data for that Dashboard so that users can easily navigate between countries where they have FLOW data.
+
+**Requirements**
+	* Dropdown contains all the countries with data available on that instance. 
+	* When user selects a country, they should land on the country centroid (can be manually set) at a zoom level appropriate to see the whole country, or most of it, in the map view.
+	* Countries in dropdown should be listed in alpha order.
+	* List of countries in dropdown should be able to update and re-order dynamically when new data from new countries are added.
+
+**Questions**
+	* What would make sense as a default landing point?
+
+
 Data Window
 ^^^^^^^^^^^
-**Required Elements**
+**Requirements**
 	* Point Code (surveyedLocale or accessPoint Unique Code)
 	* Submission date (YYYY-MM-DD)
 	* One photo, able to display landscape or portrait
