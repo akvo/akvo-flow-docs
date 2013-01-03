@@ -36,7 +36,7 @@ Details
 Country Selector Dropdown
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Summary: FLOW Dashboard map needs a dropdown with list of all countries with data for that Dashboard so that users can easily navigate between countries where they have FLOW data.
+**Summary**: FLOW Dashboard map needs a dropdown with list of all countries with data for that Dashboard so that users can easily navigate between countries where they have FLOW data.
 
 **Requirements**
 	* Dropdown contains all the countries with data available on that instance. 
