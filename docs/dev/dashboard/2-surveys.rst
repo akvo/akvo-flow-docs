@@ -32,8 +32,6 @@ View, create and edit survey groups
 View, create, and edit surveys
 ------------------------------
 
-Create Question Group
-^^^^^^^^^^^^^^^^^^^^^
 
 Create Question
 ^^^^^^^^^^^^^^^
