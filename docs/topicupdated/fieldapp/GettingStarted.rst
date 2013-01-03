@@ -12,9 +12,9 @@ Connect to a Wi-Fi Network
 
 In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
 
- In situations where an internet or data connection is unavailable, see Handling-Network-Connectivity-Issues_ for off-line alternatives.
+ For off-line alternatives in situations where an internet or data connection is unavailable, click here_.
 
-.. _handling_network_connectivity_issues:
+.. _Handling Network Connectivity Issues:
 
 To connect the phone to a Wi-Fi network:
 
@@ -35,7 +35,7 @@ To set the Access Point name:
 
 1.	On the home screen, press Settings. 
  
-2.	From the options, choose More� and then select Mobile Networks.
+2.	From the options, choose More... and then select Mobile Networks.
  
 3.	Select Access Point Name.
  
