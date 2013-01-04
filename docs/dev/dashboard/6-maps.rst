@@ -42,7 +42,7 @@ Country Selector Dropdown
 	* Dropdown contains all the countries with data available on that instance. 
 	* When user selects a country, they should land on the country centroid (can be manually set) at a zoom level appropriate to see the whole country, or most of it, in the map view.
 	* Countries in dropdown should be listed in alpha order.
-	* List of countries in dropdown should be able to update and re-order dynamically when new data from new countries are added.
+	* List of countries in dropdown should be able to update and re-order after a page refresh or at some reasonable interval when new data from new countries are added.
 
 **Questions**
 	* What would make sense as a default landing point?
