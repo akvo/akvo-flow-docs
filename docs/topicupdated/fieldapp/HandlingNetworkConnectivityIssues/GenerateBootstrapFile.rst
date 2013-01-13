@@ -5,7 +5,7 @@ If network connectivity is low, FLOW provides an alternative way to upload surve
 
 **To generate a bootstrap file**:
 
-1.	In the Admin Wizard menu, select Generate Bootstrap File. 
+1.	In the Admin Wizard menu, select **Generate Bootstrap File**. 
 
 
 .. figure:: img/AdminWizard.png
@@ -26,7 +26,7 @@ If network connectivity is low, FLOW provides an alternative way to upload surve
  
 4.	The File Contents section shows the list of surveys you selected to include in the file. Review the list to make sure all the required surveys are included. To add more, repeat steps 2 and 3. To remove any surveys that you accidentally included, click **Remove Selected**.
  
-5.	To notify a particular user when the file becomes available, enter the recipient’s email address in the Notification Email field.
+5.	To notify a particular user when the file becomes available, enter the recipient's email address in the Notification Email field.
 
 
 .. figure:: img/GenBStrapFile2.png
