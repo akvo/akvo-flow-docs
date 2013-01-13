@@ -14,9 +14,6 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
  For off-line alternatives in situations where an internet or data connection is unavailable, click here_.
 
-.. _here: handling_network_connectivity_issues.html
-
-
 To connect the phone to a Wi-Fi network:
 
 1.	On the home screen of the phone, press Settings. 
