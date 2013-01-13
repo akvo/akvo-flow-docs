@@ -12,7 +12,7 @@ Connect to a Wi-Fi Network
 
 In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
 
- For off-line alternatives in situations where an internet or data connection is unavailable, see Handling Network Connectivity Issues_.
+ For off-line alternatives in situations where an internet or data connection is unavailable, see :ref:`Handling Network Connectivity Issues <handling_network_connectivy_issues>`.
 
 To connect the phone to a Wi-Fi network:
 
