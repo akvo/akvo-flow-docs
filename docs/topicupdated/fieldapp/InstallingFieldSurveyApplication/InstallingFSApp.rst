@@ -1,4 +1,3 @@
-
 Installing the Field Survey Application
 =========================================
 
@@ -15,10 +14,5 @@ There are two ways to access this file:
 1.	On your phone, navigate to **Applications > My Files > Download**.
 2.	From the list, choose the **FieldSurvey.apk file**. 
 3.	Press **Install**. 
-
-.. figure:: img/3-installing-app-2-arrow.gif
-   :width: 200 px
-   :alt: image of phone
-   :align: center
 
 The application is installed on your phone.
