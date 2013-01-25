@@ -13,13 +13,14 @@ Contents:
    :maxdepth: 4
    
    dashboard/1-overview
-   dashboard/2-surveys
-   dashboard/3-assigning_surveys
-   dashboard/4-data_management
-   dashboard/5-reports
-   dashboard/6-analysis
+   dashboard/AdminWizard
+   dashboard/manage_users
+   dashboard/manage_surveys
+   dashboard/AssignSurveystoDevices
+   dashboard/GenerateBootstrapFile
+   dashboard/manage_web_surveys
+   dashboard/survey_reports
+   dashboard/import_data
    dashboard/7-mapping
-   dashboard/8-users
-   dashboard/9-admin
-   
-   
+
+  
