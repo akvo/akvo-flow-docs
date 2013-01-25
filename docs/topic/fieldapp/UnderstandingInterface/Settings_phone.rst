@@ -1,5 +1,5 @@
 Settings
--------------
+--------
 
 You can use the Settings menu to customize the application as you require, and to perform various other administrative actions. The Preferences option within the Settings menu allows you to configure the way the application should display and handle data.
 
