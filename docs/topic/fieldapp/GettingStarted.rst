@@ -1,5 +1,5 @@
 Getting Started
-===================
+===============
 
 Before you start using the Field Survey application, you must do the following on your phone:
 
@@ -23,7 +23,7 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 5.	Select **Connect**. When connected to Wi-Fi, you can see this  icon at the top of the screen.
 
 Set Access Point Name (APN)
-----------------------------
+---------------------------
 
 Local Internet Service Providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. 
 
@@ -33,11 +33,7 @@ When you purchase the SIM cards, ask the Internet Service Provider to give you t
 
 1.	On the home screen, press **Settings**. 
  
-<<<<<<< HEAD
-2.	From the options, choose More... and then select Mobile Networks.
-=======
 2.	From the options, choose **More…** and then select **Mobile Networks**.
->>>>>>> testing
  
 3.	Select **Access Point Name**.
  
@@ -48,7 +44,7 @@ When you purchase the SIM cards, ask the Internet Service Provider to give you t
 6.	Press the **Home** key when you are done.
 
 Calibrate GPS 
------------------
+-------------
 
 Every time the phones are moved more than 600 miles (500 kilometers) from the last location where they were calibrated, the GPS system needs to be re-calibrated to ensure GPS coordinates are accurate. The calibration can be done with or without a SIM card in the phone.
 

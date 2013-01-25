@@ -1,5 +1,5 @@
 Submitting Survey Data
-==============================
+======================
 
 When you complete a survey, you must submit it for upload to the FLOW server for storage and analysis. Immediate submission is recommended so that data backup is available in case your phone is lost or damaged. 
 

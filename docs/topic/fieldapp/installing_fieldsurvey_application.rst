@@ -1,5 +1,5 @@
 Installing the Field Survey Application
-=====================================
+=======================================
 
 Contents:
 

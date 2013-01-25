@@ -1,5 +1,5 @@
 Downloading Surveys
-=========================
+===================
 
 If you have successfully installed the Field Survey application on the phone, and have internet or network connectivity, your phone is ready to receive surveys. 
 

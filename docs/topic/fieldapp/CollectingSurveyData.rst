@@ -6,12 +6,12 @@ Surveys that are assigned to your phone appear on the Field Survey home screen w
 Before you begin collecting data, you must understand the following:
 
 Survey Structure 
------------------
+----------------
 
 Each survey contains a series of questions and the questions are organized into smaller sets as question groups.  Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab.  
 
 Question Types 
-------------------
+--------------
 
 Surveys can consist of a number of different question types.
 
