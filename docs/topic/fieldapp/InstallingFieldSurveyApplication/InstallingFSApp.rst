@@ -1,5 +1,5 @@
 Installing the Field Survey Application
-=========================================
+=======================================
 
 To install the Field Survey application on the phone, you need the latest available version of the installer file. The file extension of the installer file is .apk.  
 There are two ways to access this file:

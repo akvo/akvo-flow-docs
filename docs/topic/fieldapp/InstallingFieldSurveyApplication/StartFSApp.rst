@@ -1,7 +1,5 @@
-
-
 Start the Field Survey Application
-------------------------------------
+==================================
 
 **To start the application**:
 

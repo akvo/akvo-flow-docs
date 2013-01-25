@@ -1,7 +1,6 @@
-
-
 Install Recommended Applications
------------------------------------
+================================
+
 It is recommended that you install certain applications in addition to Field Survey, in order to enhance productivity. These are several such useful applications available for free download on the internet. 
 
 **Recommended applications**:
