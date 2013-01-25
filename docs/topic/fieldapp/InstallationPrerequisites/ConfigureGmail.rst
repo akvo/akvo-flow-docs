@@ -1,5 +1,5 @@
 Configure Gmail on Phone
----------------------------
+========================
 
 A free Gmail account is necessary to enable access to the FLOW Dashboard, and to receive software updates. 
 

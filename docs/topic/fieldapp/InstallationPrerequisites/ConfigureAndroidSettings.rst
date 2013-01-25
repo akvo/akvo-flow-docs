@@ -1,5 +1,5 @@
 Configure Android Settings for Software Download
----------------------------------------------------
+================================================
 
 Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey application, and other recommended software.
 
