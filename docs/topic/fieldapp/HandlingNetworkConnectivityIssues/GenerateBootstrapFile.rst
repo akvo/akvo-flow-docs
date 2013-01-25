@@ -1,5 +1,5 @@
 Generate Bootstrap File
------------------------
+=======================
 
 If network connectivity is low, FLOW provides an alternative way to upload surveys to devices. You can generate a bootstrap file that includes the surveys you want to assign, and email it to users. The files can then be manually loaded onto the device. 
 
