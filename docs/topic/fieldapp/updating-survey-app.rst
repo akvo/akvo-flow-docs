@@ -1,5 +1,5 @@
 Updating the Field Survey Application
-======================================
+=====================================
 
 Whenever a software update becomes available, it is recommended that you download and install the update on your phone.  
 

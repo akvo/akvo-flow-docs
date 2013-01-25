@@ -1,5 +1,3 @@
-
-   
 Import Multiple Files (Bulk Import)
 ===================================
 
@@ -17,7 +15,7 @@ Ensure that a destination for the data has been created on the Dashboard. For de
 
 *Note: Survey questionnaires are automatically saved in .zip format. Photographs must be in .jpg format.*
 
-3.	In the Admin Wizard’s Import Data menu, select **Bulk Import Surveys**. 
+3.	In the Admin Wizard's Import Data menu, select **Bulk Import Surveys**. 
 
 .. figure:: img/ImportData.png
    :width: 600 px
@@ -33,6 +31,6 @@ A file selection dialog appears.
    :alt: image of dashboard
    :align: center
  
-6.	A dialog displays the progress of your upload. Once the data is successfully uploaded, a confirmatory message ‘Import Complete’ appears.
+6.	A dialog displays the progress of your upload. Once the data is successfully uploaded, a confirmatory message "Import Complete" appears.
 
 To check whether all the required data has been successfully uploaded, follow the steps listed in Review Submitted Data.

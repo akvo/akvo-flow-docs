@@ -1,5 +1,5 @@
 Collecting Survey Data
-=======================
+======================
  
 Surveys that are assigned to your phone appear on the Field Survey home screen when you launch the application. When you click the survey icon, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW server, where it will be computed and analyzed.
 
@@ -36,7 +36,7 @@ If an administrator has configured additional help options in the survey, you wi
  
 
 Saving a Survey
------------------
+---------------
 
 Surveys responses are automatically saved as you answer them. If you want to save a partially completed survey for later and begin a new survey, use the Save and Start New menu option.
 

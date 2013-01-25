@@ -6,6 +6,6 @@ When you have to stop a survey midway and then continue it later, you can retrie
 This feature gives you quick access to:
 
 - Surveys that were saved but not submitted - Click on the survey name to open the survey and continue entering responses.
-- Submitted surveys – Click on the Menu   icon and then choose Submitted Surveys. You can view a previously submitted survey, but not edit it.
+- Submitted surveys - Click on the Menu icon and then choose Submitted Surveys. You can view a previously submitted survey, but not edit it.
 
 For details on the options available on this feature, see Survey Menu Options.
