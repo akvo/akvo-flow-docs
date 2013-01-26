@@ -1,5 +1,5 @@
 Manage Notifications
------------------------
+--------------------
 
 You can opt to have Raw Data Reports of a survey sent by email to selected people at specified time intervals, using the Notifications feature.  For example, a report can be sent at the end of each day, or at any time new data is entered or modified.
 

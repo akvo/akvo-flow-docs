@@ -1,5 +1,5 @@
 Mapping
-================
+=======
 
 When the Akvo FLOW team initially configures your FLOW Dashboard, by default your survey data will automatically publish to the external public map associated with your Dashboard (http://[yourinstancename].appspot.com), but the data will be shown in raw form in the map pop-up windows with no meaningful point symbol coding.
 
@@ -10,7 +10,7 @@ There are two additional details you must take care of to ensure that your data 
 
 
 Editing Your Akvo FLOW Maps
---------------------------------
+---------------------------
 
 To show a selection of data in your map pop-up windows, follow these steps:
 
@@ -32,7 +32,7 @@ To show a selection of data in your map pop-up windows, follow these steps:
 	Each step is described in greater detail below.
 
 Creating Metrics
--------------------------
+----------------
 
 1. Go to the Data Managers menu from the top menu bar on the Dashboard and select Metric Manager. Here you will see any metrics that have already been created in your Dashboard. 
 
@@ -68,7 +68,7 @@ To delete a metric, click the **Delete** button to the right of the metric name.
 
 
 Assigning Metrics to Survey Questions
-----------------------------------------
+-------------------------------------
 
 Once you create metrics in Metric Manager, you must then assign them to survey questions in order to link the survey data with the metrics for mapping and reporting.
 
@@ -85,7 +85,7 @@ Be sure to save your selection using one of the green Save buttons at the bottom
 
 
 Running Remap to Access Point
--------------------------------
+-----------------------------
 
 This tool is used only when you are adding or editing metrics for a survey that you have already started to use to collect data. Remap to Access Point re-runs the access point mapping for a single survey. It's useful if the mapping or the metrics changed after some data for a survey has been submitted.
 

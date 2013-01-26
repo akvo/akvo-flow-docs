@@ -1,5 +1,5 @@
 Assign Surveys to Devices 
-==========================
+=========================
 
 To make survey questionnaires available on the field data collection devices, you must assign the survey to specific devices. Surveys must be approved by a FLOW administrator before they can be assigned. 
 

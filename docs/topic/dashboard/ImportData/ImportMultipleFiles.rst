@@ -1,7 +1,5 @@
-
-   
 Import Multiple Files (Bulk Import)
-----------------------------------------
+-----------------------------------
 
 When you conduct surveys in areas where network connectivity is available, data is transmitted instantly to the central FLOW server as soon as you press Submit Survey on the FLOW mobile device. When network connectivity is not available, the device stores the data for later submission or manual retrieval. This stored data can be uploaded in bulk using the Bulk Import feature.
 

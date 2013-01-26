@@ -1,5 +1,5 @@
 Create a User Account
------------------------
+---------------------
 
 Only registered users can access the FLOW Dashboard. Follow these steps to create a user account in the FLOW database.
 

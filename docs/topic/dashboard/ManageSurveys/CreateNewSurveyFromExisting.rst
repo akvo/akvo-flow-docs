@@ -1,5 +1,5 @@
 Create a New Survey from an Existing Survey
------------------------------------------------
+-------------------------------------------
 
 You can copy an existing survey in the system and modify it to create a new survey.
 

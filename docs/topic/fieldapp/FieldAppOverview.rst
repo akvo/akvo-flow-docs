@@ -5,7 +5,7 @@ Akvo FLOW is a monitoring platform that enables the effective collection, presen
 This documentation describes how to set up the Android phones to use the Field Survey software, and how to install and use the software to collect and upload survey data.
 
 Hardware and Software Specifications
----------------------
+------------------------------------
 To run the Field Survey application, your phone must meet the following hardware and software specifications. Supported phone brands include Motorola, Samsung, HTC, and Huawei.
 
 =====================  =======================================================

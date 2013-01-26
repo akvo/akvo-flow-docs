@@ -1,5 +1,5 @@
 Question Types
-------------------
+--------------
 
 Question types are listed here for reference.
 

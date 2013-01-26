@@ -1,5 +1,5 @@
 Run Reports
---------------
+-----------
 
 You can run reports directly from the Dashboard or from Admin Wizard. These reports can be saved onto your computer as Microsoft Excel spreadsheets, where the results can be filtered and sorted for further analysis. 
 

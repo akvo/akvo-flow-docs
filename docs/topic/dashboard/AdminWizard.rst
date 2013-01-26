@@ -1,5 +1,5 @@
 Admin Wizard Overview
-=======================
+=====================
 
 The Admin Wizard feature on the FLOW Dashboard enables you to perform administrative tasks related to user and data management. 
 
@@ -16,7 +16,7 @@ Within Admin Wizard you can perform the following tasks, if you have the appropr
 
 To access Admin Wizard:
 
-1.	Log on to your organization’s FLOW Dashboard (http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard home page. On the top panel, click on the Data Managers tab.
+1.	Log on to your organization’s FLOW Dashboard (ie http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard home page. On the top panel, click on the Data Managers tab.
  
 
 2.	From the Data Managers drop-down menu, select Admin Wizard. 

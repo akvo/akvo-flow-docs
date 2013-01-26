@@ -1,5 +1,5 @@
 Publish a Survey
---------------------
+----------------
 
 After a survey is created, a FLOW administrator must be notified to review and approve the survey. When approval is complete, the survey can be published. Only published surveys can be assigned to phones or web forms.
 

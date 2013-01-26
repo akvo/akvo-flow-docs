@@ -53,7 +53,7 @@ If the SIM cards and APN are set correctly on the phone, the calibration process
 **To calibrate GPS**: 
  
 1.	Take the phone outside to a location where there is a clear view of the sky. It makes no difference whether the sky is cloudy or clear.
-2.	On the phone Home screen, click the **GPS Status**   icon.
+2.	On the phone Home screen, click the **GPS Status** icon.
 3.	If your GPS is disabled, you are prompted to enable GPS. Select Use GPS Satellites and then return to the previous screen. The GPS application appears.
  
 4.	Wait until the margin of error appears and is **9** or less. This can take anywhere from 30 seconds to 30 minutes. 

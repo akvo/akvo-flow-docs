@@ -1,5 +1,5 @@
 Create a Question Group
----------------------------
+-----------------------
 
 **To create a question group**:
 

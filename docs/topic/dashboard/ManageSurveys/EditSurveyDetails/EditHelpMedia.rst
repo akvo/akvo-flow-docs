@@ -1,5 +1,5 @@
 Edit Help Media
------------------
+---------------
 
 You can upload helpful tips in a variety of formats for the enumerators to help them complete the survey effectively. These tips can be in different media, for example, photos, videos, text, or activities such as a nearby point locator.
 

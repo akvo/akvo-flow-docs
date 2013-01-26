@@ -1,5 +1,5 @@
 Import Data 
-=============
+===========
 
 FLOW provides several options to enable you to import data from your computer to the FLOW server. Once the data is available on FLOW, you can use FLOW functionality to review, modify and reuse the data, or view it as a report or Google Earth map.
 
@@ -16,7 +16,7 @@ Ensure that a destination for the data has been created on the Dashboard. For de
 
 To import data:
 
-1.	Log on to the FLOW server (http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard page. On the top panel, click on the Data Managers tab.
+1.	Log on to the FLOW Dashboard (ie http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard page. On the top panel, click on the Data Managers tab.
  
 2.	From the Data Managers drop-down menu, select Admin Wizard. 
  

@@ -1,5 +1,5 @@
 Generate a Survey Form
--------------------------
+----------------------
 
 To ensure that data collection is not compromised in the event of device failure, you can create a backup paper copy of your survey from FLOW.  Within Admin Wizard, you can generate a form with the questions you created, and then take paper printouts. 
 

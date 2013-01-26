@@ -1,5 +1,5 @@
 Edit Translations
--------------------
+-----------------
 
 FLOW supports data entry in multiple languages. You can translate your questions to any of the available languages. 
 

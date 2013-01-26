@@ -15,11 +15,11 @@ Question Types
 
 Surveys can consist of a number of different question types.
 
-- **Dependent Questions** � Based on the answer to a question, additional questions are displayed or hidden. 
+- **Dependent Questions** Based on the answer to a question, additional questions are displayed or hidden. 
  
-- **Geo Questions** - use the device�s GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
+- **Geo Questions** - use the device's GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
 
-- **Photo and Video questions** � present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. 
+- **Photo and Video questions** present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. 
 
 *Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.*
 

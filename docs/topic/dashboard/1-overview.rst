@@ -27,30 +27,30 @@ The Akvo FLOW Development Team frequently updates the Dashboard with new or enha
  
    
 Getting started with the Dashboard
------------------
+----------------------------------
 
 Gmail account
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 The Dashboard is controlled by permissions and a free Gmail account is required in order to access the Dashboard. If you do not already have a Gmail account, go to https://www.google.com/accounts/NewAccount and create one and then email your Gmail username to a FLOW administrator and they will give you access to the Dashboard. 
 
 Google Earth
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
 In order to view maps exported from the Dashboard you will need the free download of Google Earth from http://www.google.com/earth/download/ge/agree.html.
 
 Java
-^^^^^^^^^^^^^^^^
+^^^^
 In order to run reports you will need to install a free version of Java from http://www.java.com/en/download/index.jsp .  
 
 
 Customizing your Dashboard Home page
------------------
+------------------------------------
 
 The Dashboard home page (what you see when you first log in to your Dashboard) contains a variety of widgets that can be added or removed by the user according to their needs. Each time you log in, you will see the widgets you have previously selected to appear. 
 
 Widgets can be added or removed from your view of the database and moved around to create a customized display for each user. Adding and removing widgets changes only your view of the dashboard and doesn’t affect any other users.
 
 Available widgets for your home page
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following widgets are currently available to add to your Dashboard Home page.
 
@@ -61,7 +61,7 @@ The following widgets are currently available to add to your Dashboard Home page
 	* Access Point Metric Chart - if you have created metrics for your FLOW surveys, charts access point metrics for selected regions as a pie chart *(currently under construction)*
 
 Adding, moving, and deleting widgets
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To add a widget, click the green "+" on the far right of the menu bar, which will display a pop up window with the widget menu. Clicking the green "+" next to each widget will add it to your Home screen. When you are finished selecting the widgets you would like to display, clicking **Done** will dismiss the pop-up window.
 
