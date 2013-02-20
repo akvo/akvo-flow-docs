@@ -1,3 +1,5 @@
+ .. _edit_survey_details:
+
 Edit Survey Details 
 ===============================
 
