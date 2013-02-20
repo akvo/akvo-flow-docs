@@ -1,4 +1,4 @@
- .. _EditSurveyDetails:
+  _EditSurveyDetails:
 
 
 Edit Survey Details
