@@ -1,3 +1,5 @@
+ .. _ImportMultipleFiles:
+
 Import Multiple Files (Bulk Import)
 ----------------------------------------
 
