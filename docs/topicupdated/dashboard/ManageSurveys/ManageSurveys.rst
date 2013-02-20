@@ -15,6 +15,11 @@ Survey management comprises the following activities:
 Within Admin Wizard, you can create surveys from the Manage Surveys page. Surveys are usually classified into Survey Groups, so that related surveys can be grouped together. 
 
 The following diagram is an example of how surveys can be organized into groups.
+
+.. figure:: img/QuestionHierarchy.png
+   :width: 600 px
+   :alt: QuestionHierarchy
+   :align: center
  
 
 Surveys can be on any topic, and can be simple or complex. Complex surveys can include multiple question types and dependency trees that allow the survey to adapt based on the answers to previous questions. Help tips and photos can be embedded into surveys to guide the enumerator when the survey is being used. Existing surveys can be copied and modified to reduce time spent in the creation process. Once created and approved, the surveys can be sent directly to FLOW phones or Web Forms.
