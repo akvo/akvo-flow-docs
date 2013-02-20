@@ -3,24 +3,24 @@ Overview
 
 The FLOW Dashboard is the web-based location where users access and manage their FLOW data. All the data collected through FLOW is stored and processed in the Dashboard. It is also where users can run reports, create and edit surveys, and edit data. Each organization will have its own URL to access its online Dashboard, such as http://flowakvo.appspot.com/Dashboard.html.
 
-.. figure:: img/1-overview-1.png
+.. figure:: img/Dashboard_hl_DataManager.png
    :width: 600 px
-   :alt: image of dashboard
+   :alt: FLOW dashboard
    :align: center	
    
-The Dashboard is made up a series of pages. The first page you see after you log in is your Dashboard home page. Across the top bar there are a series of menu items:
+The Dashboard is made up of a series of pages. The first page you see after you log in is your Dashboard home page. Across the top bar there are a series of menu items:
 
-	* Dashboard - brings the user back to the home page
-	* Data Managers - menu of all data and survey management tools
-	* Surveys - menu of tools for survey creation and management
-	* Run Reports - menu of various reports that can be run with FLOW data
-	* View Messages - screen to view messages related to status of surveys published on the Dashboard
+	* Dashboard - brings you to the home page
+	* Data Manager - provides access to all data and survey management tools
+	* Surveys - provides tools for survey creation and management
+	* Run Reports - provides various reports that can be run with FLOW data
+	* View Messages - shows messages related to status of surveys published on the Dashboard
 
-Access to each tool menu is limited by permissions so not all functions will be available to all users. 
+Access to each tool menu is limited by permissions. Not all functions will be available to all users. 
 
 **Important - There is no "Back" button on the Dashboard!** 
 
-All Dashboard pages are contained and displayed within your organizations Dashboard URL. This means that clicking your browser's "Back" arrow button will take you away from the Dashboard to whatever webpage you had previously visited before starting your Dashboard session. Instead, clicking on **Dashboard** will always bring you back to the Dashboard home. 
+All Dashboard pages are contained and displayed within your organizations Dashboard URL. Clicking your browser's "Back" arrow button will take you away from the Dashboard to whatever webpage you had previously visited before starting your Dashboard session. Click **Dashboard** to come back to the Dashboard home page. 
    
 The Akvo FLOW Development Team frequently updates the Dashboard with new or enhanced features, so check our roadmap page for updates at www.akvo.org/web/flow [insert correct link]
 
