@@ -16,7 +16,7 @@ Within Admin Wizard, you can create surveys from the Manage Surveys page. Survey
 
 The following diagram is an example of how surveys can be organized into groups.
 
-.. figure:: .. _img/QuestionHierarchy.png
+.. figure:: ../img/QuestionHierarchy.png
    :width: 600 px
    :alt: Survey Grouping
    :align: center
