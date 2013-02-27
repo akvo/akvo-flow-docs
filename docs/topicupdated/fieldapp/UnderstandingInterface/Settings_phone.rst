@@ -37,7 +37,7 @@ Device Identifier                                        Enter a name for the de
 
 Example:
 
-.. figure:: img/preferncessettings.png
+.. figure:: ../img/preferncessettings.png
    :width: 600 px
    :alt: image of dashboard
    :align: center
