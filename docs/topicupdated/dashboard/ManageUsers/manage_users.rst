@@ -7,9 +7,9 @@ Contents:
    :maxdepth: 3
    
    
-   ManageUsers/CreateAUser
    ManageUsers/ManageUsersOverview
    ManageUsers/TasksandPermissions
+   ManageUsers/CreateAUser
    ManageUsers/AssignPermissions
    ManageUsers/DeleteAUser
  
