@@ -14,12 +14,12 @@ Within Admin Wizard you can perform the following tasks, if you have the appropr
 -	Run survey reports.
 -	Import and export survey data.
 
-To access Admin Wizard:
+**To access Admin Wizard:**
 
-1.	Log on to your organization’s FLOW Dashboard (http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard home page. On the top panel, click on the Data Managers tab.
+1.	Log on to your organization’s FLOW Dashboard (http://flowakvo.appspot.com/Dashboard.html) using your Google Account username and password. FLOW opens on the Dashboard home page. On the top panel, click on the **Data Managers** tab.
  
 
-2.	From the Data Managers drop-down menu, select Admin Wizard. 
+2.	From the Data Managers drop-down menu, select **Admin Wizard**. 
  
-3.	This opens the Administration Home page. All administrative options available are displayed along with a brief description of the tasks you can perform with each.
+3.	This opens the **Administration Home** page. All administrative options available are displayed along with a brief description of the tasks you can perform with each.
  
