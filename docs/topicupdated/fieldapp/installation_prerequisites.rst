@@ -7,8 +7,9 @@ Contents:
    :maxdepth: 3
    
    
+   InstallationPrerequisites/InstallationPrerequisitesOverview
    InstallationPrerequisites/ConfigureAndroidSettings
    InstallationPrerequisites/ConfigureGmail
-   InstallationPrerequisites/InstallationPrerequisitesOverview
+   
   
    
