@@ -1,4 +1,4 @@
-.. _handling_network_connectivy_issues:
+.. _handling_network_connectivity_issues:
 
 Handling Network Connectivity Issues
 ====================================
