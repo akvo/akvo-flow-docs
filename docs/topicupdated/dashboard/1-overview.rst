@@ -63,29 +63,9 @@ The following widgets are currently available to add to your Dashboard Home page
 Adding, moving, and deleting widgets
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To add a widget, click the green "+" on the far right of the menu bar, which will display a pop up window with the widget menu. Clicking the green "+" next to each widget will add it to your Home screen. When you are finished selecting the widgets you would like to display, clicking **Done** will dismiss the pop-up window.
+ - To add a widget, click the green "+" on the far right of the menu bar, which will display a pop up window with the widget menu. Clicking the green "+" next to each widget will add it to your Home screen. When you are finished selecting the widgets you would like to display, clicking **Done** will dismiss the pop-up window.
 
-[Insert image of widget pop up menu with arrow to green plus]
+ - To move widgets around on your dashboard click and hold down the top bar of a widget and drag it to a new location. 
 
-.. figure:: img/1-overview-2.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center	
+ - To delete a widget you have previously selected, click the red "X" at the top right of that widget on Dashboard home.
 
-To move widgets around on your dashboard click and hold down the top bar of a widget and drag it to a new location. 
-
-[Insert image of widget relocate with top widget bar highlighted]
-
-.. figure:: img/1-overview-3.png
-   :width: 300 px
-   :alt: image of dashboard
-   :align: center	
-
-To delete a widget you have previously selected, click the red "X" at the top right of that widget on Dashboard home.
-
-[Insert image of widget delete]
-
-.. figure:: img/1-overview-4.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center	
