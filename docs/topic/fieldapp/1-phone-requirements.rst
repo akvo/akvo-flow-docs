@@ -15,7 +15,9 @@ The following phone specifications are essential for running the Field Survey ap
 
 Phone brands
 ---------------
-The Field Survey app should run on any device using the Android operating system. As phone models and specifications change quickly, we cannot make a definite recommendation on which phone to use. We know the Field Survey app has been used successfully on various models of Motorola, Samsung, HTC, and Huawei devices.
+The Field Survey app should run on any device using the Android operating system 2.2 or newer. As phone models and specifications change quickly, we cannot make a definite recommendation on which phone to use. We know the Field Survey app has been used successfully on various models of Motorola, Samsung, HTC, and Huawei devices.
+
+When in doubt, please consult with Akvo before purchasing devices to run FLOW, especially if you are buying large numbers of devices.
 
 Important specifications
 ---------------------------
@@ -28,6 +30,8 @@ The most important specifications of a phone running the Field Survey app are sc
 	* **Camera resolution** - Higher resolution is better, if photos are an integral part of they survey that you plan to do. In cases where photos are for identification, this is not critical. In addition, the application reduces the file size significantly from what the phone is capable of for storage and transmission purposes. In practice, anything over 3.2 megapixels will work fine. 
 	
 	* **SD card size** - The storage requirements of the application depend on the number of surveys with photo's that need to be kept on the phone before the data can be uploaded. Survey data that does not include a photo takes up very little space. In practice, an SD card with 4GB or 8GB storage will work fine for surveys with photo's.
+	
+	* **SD card configuration** - The device's SD card must be external. This means that you must be able to physically remove the SD card from the device. Devices that use only internal memory, or any kind of dual SD card arrangement will not be compatible with the way the Field Survey app stores information.
 		
 	Older versions of the APK (up to 1.3.24) had an issue which could lead to data loss if large numbers of files were kept on the SD storage card. This issue has been solved in newer versions. If you have a version older than 1.3.32, please update the application.
 	
