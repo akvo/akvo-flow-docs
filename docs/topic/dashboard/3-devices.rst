@@ -1,10 +1,17 @@
-Assigning Surveys to Phones
-=============================
+Devices
+=======
 
-Intro
-   
-Next section
------------------
+Connecting and viewing a device
+-------------------------------
+
+Managing device groups
+----------------------
+
+Viewing and creating survey assignments
+---------------------------------------
+
+Manual survey transfer (bootstrap)
+----------------------------------
 
 The standard inline markup is quite simple: use
 

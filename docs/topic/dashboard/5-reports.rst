@@ -1,8 +1,15 @@
 Reports
-================
+=======
 
-Overview of available reports
------------------
+Building charts
+---------------
 
-Selecting and exporting a data report
------------------
+text
+
+Exporting data
+--------------
+
+text
+
+Exporting a printable survey form
+---------------------------------

@@ -1,18 +1,18 @@
-Data Management
-================
+Data
+====
 
-Checking data arrival
------------------
+Viewing and editing data
+------------------------
+
+Text
+
+Uploading data
+--------------
 
 Text
 
 Cleaning data
------------------
-
-Text (data cleaning guidelines)
-
-Re-importing cleaned data
------------------
+-------------
 
 Text
 

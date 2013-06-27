@@ -1,37 +1,25 @@
 Surveys
-================
+=======
 
-Structure of FLOW surveys
----------------------------
+Survey structure in FLOW
+------------------------
 
 Text
 
 Creating a survey group
--------------------------
+-----------------------
 
 Text
 
-Creating a survey
---------------------
+Creating and editing a survey
+-----------------------------
 
 Text
 
-Setting survey parameters
-----------------------------
+Publishing a survey
+-------------------
 
 Text
-
-Creating a question group
--------------------------------
-
-Text
-
-Creating survey questions
-------------------------------
-
-Text
-
-
 
    
 Next section
