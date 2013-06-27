@@ -6,11 +6,16 @@ Navigating the map
 
 lorem ipsum
 
-Adding a new country
---------------------
+Making sure data points show on your map
+----------------------------------------
 
-lorem ipsum
+- Adding a country
+- Setting survey type
+
 
 Downloading a photo
 -------------------
+
+lorem ipsum
+
 
