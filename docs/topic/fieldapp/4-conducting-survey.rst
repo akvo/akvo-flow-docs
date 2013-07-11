@@ -1,14 +1,13 @@
-Opening and filling out a survey
-====================================
+Conducting a FLOW survey
+========================
 
 Contents:
 
 .. toctree::
    :maxdepth: 3
    
-   8-opening-and-filling-survey/1-navigating-survey
-   8-opening-and-filling-survey/2-question-types
-   8-opening-and-filling-survey/3-mandatory-questions
-   8-opening-and-filling-survey/4-dependent-questions
-   8-opening-and-filling-survey/5-survey-help-items
-   8-opening-and-filling-survey/6-languages
+   4-conducting-survey/4-1-navigating-survey
+   4-conducting-survey/4-2-submitting-survey
+   4-conducting-survey/4-3-saving-survey
+   4-conducting-survey/4-4-checking-survey-status
+
