@@ -1,5 +1,5 @@
 Essential phone setup
-==========================
+=====================
 
 Before you can start using the Field Survey app, these steps need to be taken:
 

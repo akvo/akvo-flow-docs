@@ -1,4 +1,9 @@
-.. _installing-app:
+Installing the Field Survey app
+===============================
+
+
+
+old content from 1.0 doc
 
 Installing the Field Survey app
 =================================
