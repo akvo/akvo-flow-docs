@@ -1,5 +1,5 @@
-Preparing your phone for FLOW 
-===============================
+Preparing your device for FLOW 
+==============================
 
 Contents:
 
