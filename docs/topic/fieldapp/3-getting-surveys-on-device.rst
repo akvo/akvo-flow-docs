@@ -1,8 +1,8 @@
 Getting surveys on the phone 
-=================================
+============================
 
 Automatic download of surveys
--------------------------------
+-----------------------------
 1. If you have sucessfully installed the Field Survey app on the phone, and you have a wifi connection, the phone will send a 'beacon signal' to the web-based Dashboard. In the Dashboard, surveys can then be assigned to the phone (XXX-reference-needed-XXX). If this proces fails, please consult the troubleshooting guide (XXX-reference-needed-XXX)
 
 2. Every time the Field Survey app is launched, the application checks for new surveys assigned to it, or updates of existing surveys. If there are new or updated surveys available, it will download them automatically. When new or updated surveys have been downloaded, the status bar will show a notification. 
@@ -27,7 +27,7 @@ You can see the full notification by drawing down the status bar (put your finge
       
    
 Alternative - manual transfer of surveys
-------------------------------------------
+----------------------------------------
 If there is no wifi available or you have trouble with the connectivity, you can put the survey on the phone using a manual method. This method takes 3 steps: 1) exporting the survey from the Dashboard to a "Bootstrap file", 2) connecting the phone to a computer, 3) transfering the bootstrap file to the phone.
 
 1. Exporting the survey to a bootstrap file
