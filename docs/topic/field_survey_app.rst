@@ -13,15 +13,9 @@ Contents:
    :maxdepth: 4
    
    fieldapp/1-phone-requirements
-   fieldapp/2-preparing-phone
-   fieldapp/3-installing-survey-app
-   fieldapp/4-updating-survey-app
-   fieldapp/5-launching-survey-app
-   fieldapp/6-getting-survey-on-phone
-   fieldapp/7-managing-users
-   fieldapp/8-opening-and-filling-survey
-   fieldapp/9-submitting-survey
-   fieldapp/91-checking-survey-data-submission
-   fieldapp/92-settings-and-preferences
-   fieldapp/93-troubleshooting
+   fieldapp/2-preparing-device
+   fieldapp/3-getting-surveys-on-device
+   fieldapp/4-conducting-survey
+   fieldapp/91-settings-and-preferences
+   fieldapp/92-troubleshooting
    fieldapp/EXAMPLE
