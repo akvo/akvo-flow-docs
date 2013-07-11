@@ -1,5 +1,16 @@
-Essential phone setup
-=====================
+Before you install the Field Survey app
+=======================================
+
+Configure Gmail on phone
+Configure Android settings for software download
+Set up Wi-Fi
+Set Access Point Name (APN)
+Calibrate GPS
+
+
+
+
+fmrly Essential Phone Set up
 
 Before you can start using the Field Survey app, these steps need to be taken:
 
