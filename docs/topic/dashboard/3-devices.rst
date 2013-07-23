@@ -16,7 +16,8 @@ From inside the app, set a User (link to article) and Device ID (link to getting
 
 To confirm that the device has connected successfully, visit the Devices tab on the dashboard and check for the device in the Devices List.
 
-*Elements in the Devices List*
+**Elements in the Devices List**
+
 * IMEI - an identifying number unique to each device that helps to identify it in our database
 * Phone Number - the device's phone number (mobile network) or MAC address (wifi network)
 * Device ID - a name you set on the device to help you identify each device
@@ -28,17 +29,19 @@ Managing device groups
 ----------------------
 Device groups allow you to organize the devices attached to your FLOW Dashboard into smaller groups, so that when you create Assignments you can select a device group instead of having to select the devices individually. Each device attached to your dashboard can belong to only one device group, or you can leave a device unassigned.
 
-To create, modify or delete a device group:
+To create, change or delete a device group:
 
-To add a device to a device group:
+Click the Manage Device Groups button. It will display a pop-up that gives you three choices: change the name of an existing group, create a new device group, and delete an existing device group. Fill out the form as appropriate and click SAVE to save changes, or Cancel to discard changes.
 
-To add your device to a group, find it in the Devices List and tick the box next to it in the first column in the table. Click “Add to device group” from the upper right of the Device List. From the pop-up window that appears, select “akvo test” from the dropdown and click OK.
+[insert image of Manage device groups pop up about here]
 
-To change the device group for a device:
+To add a device or change the device group:
+
+Find the device(s) in the Devices List and tick the box next to each device in the first column in the table. Click "Add to device group" in the upper right of the Device List. From the pop-up window that appears, select a device group from the dropdown and click OK to save changes, or Cancel to discard changes. You will see the name of the Device Group you just selected in the device row(s) in the Devices List.
 
 To remove a device from a device group:
 
-To select a device group when creating or editing a survey assignment:
+Find the device(s) in the Devices List and tick the box next to each device in the first column in the table. Click "Remove from device group" in the upper right of the Device List. The pop-up window that appears will ask you to confirm the removal. Click OK to remove the device, Cancel to keep the device in it's current group. You will see the name of the Device Group you just removed disappear from the device row(s) in the Devices List.
 
 
 Viewing and creating survey assignments
