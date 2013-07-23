@@ -3,30 +3,26 @@ Devices
 
 The devices tab is mission central for managing all the devices connected with your FLOW Dashboard. 
 
-The Devices List displays a list of all the devices connected to your dashboard.
+* The Devices List displays a list of all the devices connected to your dashboard.
+* The Assignments List displays all the survey assignments that have been created on your dashboard, and allows you to create new ones.
+* Manual Survey Transfer allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
 
-The Assignments List displays a list of all the assignments that have been created on your dashboard, and allows to to create new ones.
+Connecting and viewing a device on the dashboard
+------------------------------------------------
 
-Manual Survey Transfer allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
+First install the latest version of the Field Survey app on your device (link to Getting Phone Ready). While connected to a wireless or mobile network, open the app on the device, which will send a ping to the corresponding dashboard to connect it.
 
-Connecting and viewing a device
--------------------------------
+From inside the app, set a User (link to article) and Device ID (link to getting phone ready).
 
-Install app on device (link to Getting Phone Ready)
+To confirm that the device has connected successfully, visit the Devices tab on the dashboard and check for the device in the Devices List.
 
-Open app on device while connected to a wireless or mobile network, which will send a ping to the corresponding dashboard to connect it.
-
-From inside the app, set the User (link to article) and Device ID (link to getting phone ready).
-
-Return to the dashboard and check for the device in the Devices List. 
-
-Elements in the Devices List
-IMEI
-Phone Number
-Device ID
-Device Group
-Last Contact
-Version
+*Elements in the Devices List*
+* IMEI - an identifying number unique to each device that helps to identify it in our database
+* Phone Number - the device's phone number (mobile network) or MAC address (wifi network)
+* Device ID - a name you set on the device to help you identify each device
+* Device Group - the device group to which the device belongs; optional
+* Last Contact - the last time the device connected with the dashboard
+* Version - the version of the Field Survey app the device is running
 
 Managing device groups
 ----------------------
