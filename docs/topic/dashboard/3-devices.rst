@@ -75,16 +75,20 @@ In both Preview sections, you can clear the individual selections you've made by
 
 Once you have made all your selections, click the Save Assignment button at the bottom to save the assignment, or Cancel to discard all changes, and return to the Assignment List. 
 
-To edit an existing assignment, find it in the Assignments List and click the Edit icon in the Action column for that assignment.
-
 Saving an assignment will trigger the surveys you selected to download onto the devices you selected. You must open the Field Survey app to trigger the download. 
 
-Back up options:
-**If they do not download within a few minutes, from the Field Survey app home screen tap Settings > Download Survey. You will be promoted for the admin passcode (12345) and then for the survey ID for the survey you wish to download. You can find this ID on the Dashboard in the Edit survey page in the left panel for your test survey.**
+**To edit an existing assignment:**
+
+Find it in the Assignments List and click the Edit icon in the Action column for that assignment.
+
+Back up options: (should figure out where to put these)
+If they do not download within a few minutes, from the Field Survey app home screen tap Settings > Download Survey. You will be promoted for the admin passcode (12345) and then for the survey ID for the survey you wish to download. You can find this ID on the Dashboard in the Edit survey page in the left panel for your test survey.
 
 
-Manual survey transfer (bootstrap)
-----------------------------------
+Manual survey transfer
+----------------------
+
+Manual Survey Transfer (formerly known as bootstrap) allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
 
 The standard inline markup is quite simple: use
 
