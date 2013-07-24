@@ -1,8 +1,8 @@
 Preparing your device for FLOW 
-==============================
+=================================
 
 Before you install the Field Survey App
----------------------------------------
+------------------------------------------
 Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
 
 • 	Configure Gmail on the phone
@@ -13,8 +13,9 @@ Before you install the Field Survey App on your phone, ensure that your phone is
 
 How to do this is described below.
 
+
 Configure Gmail on phone
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A free Gmail account is necessary to install the Field Survey App, and to receive updates.  
 
 It is best to use a dedicated email address for communication with the phone. If you intend to use multiple phones with the Field Survey App, use the same email address for all the phones, so that you can send software updates to all the phones simultaneously. If you are an enumerator, it is likely that the phone is already set up correctly.
