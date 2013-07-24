@@ -67,10 +67,8 @@ It is always better to submit data from the device right away over the network. 
 2.	Review the list and enter responses for these questions. You can click on each tab to locate the question and enter a response. The unanswered mandatory questions are highlighted for easy identification.
 3.	Once all mandatory questions have been answered, return to the Submit tab and click the **Submit** button.
 
-IMAGE
-.. figure:: img/3-installing-app-2-arrow.gif
+.. figure:: img/9-submit-manual-10.png
    :width: 200 px
-   :alt: image of phone
    :align: center
 
 
@@ -101,10 +99,10 @@ Before you delete all data from the Application it is important to check if all 
 1.	Open the **Field Survey App**
 2.	Click **Survey Status**
 3.	Click **Review Submitted Surveys**. You will see a list with the transmission status of every stored survey on the phone that has been submitted in chronological order. The listing displays the most recent status: 
-*	a.	**Green check** for **Sent**
+	a.	**Green check** for **Sent**
 	b.	**Yellow circle** for **Queued**
 	c.	**Blue arrow** for **In progress/Submitted**
-	d.	**Red cross** for **Not sent** *
+	d.	**Red cross** for **Not sent** 
 
 
 
