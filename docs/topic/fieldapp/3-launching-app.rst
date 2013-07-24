@@ -161,7 +161,7 @@ From there, select **Preferences**.
    :alt: image of phone
    :align: center
    
-Then tap the checkbox beside the “Keep the last selected user logged in between sessions” option.
+Then tap the checkbox beside the **Keep the last selected user logged in between session** option.
 
 .. figure:: img/7-manage-users-9-arrow.gif
    :width: 200 px
@@ -215,7 +215,7 @@ You need to install the free App ‘GPS Status & Toolbox’ from the Playstore.
 1.	Take the phone outside to a location where there is a clear view of the sky. It makes no difference whether the sky is cloudy or clear.
 2.	On the phone home screen, click the GPS Status icon 
 
-.. figure:: 3-3GPS_icon.png
+.. figure:: img/3-3GPS_icon.png
    :width: 30 px
    :alt: image of phone
    :align: center
@@ -228,6 +228,3 @@ You need to install the free App ‘GPS Status & Toolbox’ from the Playstore.
    :align: center
    
 4.	Wait until the margin of error appears and is between 5 and 10 meters. This can take anywhere from 30 seconds to 30 minutes. 
-
-
-
