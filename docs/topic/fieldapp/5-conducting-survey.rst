@@ -98,7 +98,12 @@ Saving and reviewing a survey
 -----------------------------
 Surveys responses are automatically saved as you answer them. If you want to save a partially completed survey for later and begin a new survey, use the **Save and Start New** menu option.
 
-When you have to stop a survey midway and then continue it later, you can retrieve the partly filled survey using the Review Saved Surveys feature IMAGE 5-3review_saved_surveys.png. (For example, you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the survey.)  
+When you have to stop a survey midway and then continue it later, you can retrieve the partly filled survey using the Review Saved Surveys feature. 
+
+.. figure:: img/5-3review_saved_surveys.png
+   :width: 200 px
+   :align: center
+(For example, you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the survey.)  
 
 This feature gives you quick access to:
 
@@ -121,8 +126,9 @@ Before you delete all data from the Application it is important to check if all 
 1.	Open the **Field Survey App**
 2.	Click **Survey Status**
 3.	Click **Review Submitted Surveys**. You will see a list with the transmission status of every stored survey on the phone that has been submitted in chronological order. The listing displays the most recent status: 
-	a.	**Green check** for **Sent**
-	b.	**Yellow circle** for **Queued**
-	c.	**Blue arrow** for **In progress/Submitted**
-	d.	**Red cross** for **Not sent** 
+	
+		|	**Green check** for **Sent**
+		|	**Yellow circle** for **Queued**
+		|	**Blue arrow** for **In progress/Submitted**
+		|	**Red cross** for **Not sent** 
 
