@@ -36,13 +36,21 @@ It is best to use a dedicated email address for communication with the phone. If
    
 3. From the list of options, select **Google**. 
 
-.. figure:: img/2-1add_gmail_account.png
+.. figure:: img/2-1add_gmail_select_google.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
-4. You are prompted to specify whether you want to create a new Google account or use an existing one. If you already have a Gmail account that can be dedicated for communication with the FLOW server, choose Use an existing one. Otherwise, choose New.  
+4. You are prompted to specify whether you want to create a new Google account or use an existing one. If you already have a Gmail account that can be dedicated for communication with the FLOW server, choose **Use an existing one**. Otherwise, choose **New**.  
 
+.. figure:: img/2-1add_gmail_add_new_google_account.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+5. Follow onscreen prompts to create your Google account.
+
+The new account will now be visible under **Applications > Email**.
 
 
 Configure Android settings for software download
