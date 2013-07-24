@@ -127,8 +127,7 @@ Before you delete all data from the Application it is important to check if all 
 2.	Click **Survey Status**
 3.	Click **Review Submitted Surveys**. You will see a list with the transmission status of every stored survey on the phone that has been submitted in chronological order. The listing displays the most recent status: 
 	
-		|	**Green check** for **Sent**
-		|	**Yellow circle** for **Queued**
-		|	**Blue arrow** for **In progress/Submitted**
-		|	**Red cross** for **Not sent** 
-
+|		**Green check** for **Sent**
+|		**Yellow circle** for **Queued**
+|		**Blue arrow** for **In progress/Submitted**
+|		**Red cross** for **Not sent** 
