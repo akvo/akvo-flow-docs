@@ -20,7 +20,7 @@ It is best to use a dedicated email address for communication with the phone. If
 
 **To configure Gmail on the phone:**
 1.From the home screen of the phone, go to the **settings** menu by clicking on the menu button on the phone (usually at the bottom left, but can be in different places depending on the model of the phone). 
-.. figure:: 2-1settings_from_homescrean.png
+.. figure:: img/2-1settings_from_homescrean.png
    :width: 200 px
    :alt: image of phone
    :align: center
