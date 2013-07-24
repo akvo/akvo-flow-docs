@@ -125,7 +125,10 @@ Local Internet service providers use APN settings to activate data plans using S
    
 5.	Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
 
-IMAGE
+.. figure:: img/2-1fill_in_required_APN_settings.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
    
 6.	Press the **Home** key when you are done.   
    
