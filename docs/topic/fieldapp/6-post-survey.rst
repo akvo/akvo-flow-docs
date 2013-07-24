@@ -38,7 +38,10 @@ Uninstalling Field Survey app
 **To uninstall the Field Survey App:**
 1.	From the home screen of the phone, select **Settings** by clicking on the menu button. 
 
-IMAGE
+.. figure:: img/6-4Menu_settings.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 2.	From the list, select **Apps** or **Applications**. On some phones, you need to navigate to **Settings > Applications**, and then select **Manage Applications**.
 
@@ -56,6 +59,9 @@ IMAGE
    
 4.	Click **Uninstall** and then click **OK**.
 
-IMAGE
+.. figure:: img/6-4Uninstall.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
    
 The old version is uninstalled. Proceed to install the new version of the APK. 
