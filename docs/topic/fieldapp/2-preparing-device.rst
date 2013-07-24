@@ -144,18 +144,16 @@ Before you start collecting data, it is important to check it the date and time 
 
 
 
-
-
-
-
-
-
-
-
 Installing Field Survey App
 ---------------------------
+
+
+
 Create shortcut
+---------------------------
+
 Install recommended applications
+---------------------------
 Adjust camera resolution
 
 ---
