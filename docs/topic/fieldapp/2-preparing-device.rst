@@ -153,7 +153,13 @@ To install the Field Survey App on the phone, you need the latest available vers
 
 You may first need to change a security setting to allow apps for a source other than Android Market (Play Store) to be installed. To do this, tap on the Menu button and select **Settings**. Select **Applications**, and enable **Unknown Sources**. Sometimes, this setting is found under **Security**.
 
-1.	Open the Gmail app on your phone IMAGE  img/2-2gmail_icon.png
+1.	Open the Gmail app on your phone 
+
+.. figure:: img/2-2gmail_icon.png
+   :width: 30 px
+   :alt: image of phone
+   :align: center
+
 2.	Check if the email with the app has arrived
 
 .. figure:: img/2-2check_email_for_application.png
@@ -174,7 +180,7 @@ You may first need to change a security setting to allow apps for a source other
 
 
 Create shortcut
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 For easy access, create a shortcut to the Field Survey App on the home screen. 
 
 **To create a shortcut:**
@@ -197,7 +203,7 @@ For easy access, create a shortcut to the Field Survey App on the home screen.
 
 
 Install recommended applications
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is recommended that you install certain applications in addition to the Field Survey App, in order to enhance productivity. These are several such useful applications available for **free download** on the internet. 
 
 Recommended applications:
@@ -210,7 +216,7 @@ You can install these apps by going to 'Google Play', search for the apps, and i
 
 
 Adjust camera resolution
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The resolution of the photos determines how much time it will take to upload. The smaller the size, the better. Choose the lowest setting that is available on your phone. Here is how to do that:
 
 1.	Go to the **Camera app**
