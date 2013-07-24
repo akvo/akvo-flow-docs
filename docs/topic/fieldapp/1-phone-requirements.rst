@@ -10,14 +10,19 @@ When in doubt, please consult with Akvo before purchasing devices to run FLOW, e
 
 **Our recommendations:**
 
-THIS SHOULD BE A TABLE:
+======================================  ================================================================================================================
+Screen size				3.7 inch or larger
 
-Screen size	3.7 inch or larger
-Note: Although 2.8 inch screens are supported, you may experience issues while typing in data.
-Battery life	8-10 hours minimum. External backup power recommended.
-Camera resolution	3.2 megapixels or higher
-SD card size	4GB or 8GB. SD card must be external, which means you must be able to physically remove SD card from device.
-Operating System	Android 2.2 or higher
+					*Note: Although 2.8 inch screens are supported, you may experience issues while typing in data.*
+
+Battery life				8-10 hours minimum. External backup power recommended.
+
+Camera resolution			3.2 megapixels or higher
+
+SD card size				4GB or 8GB. SD card must be external, which means you must be able to physically remove SD card from device.
+
+Operating System			Android 2.2 or higher
+======================================  ===============================================================================================================
 
 
 
