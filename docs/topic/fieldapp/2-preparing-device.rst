@@ -87,7 +87,12 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
 4.	Choose the network you have access to and provide the password, if prompted. 
 
-5.	Select **Connect**. When connected to Wi-Fi, you can see this IMAGE img/wifi_icon.png icon at the top of the screen.
+5.	Select **Connect**. When connected to Wi-Fi, you can see this Wi-Fi icon at the top of the screen:
+
+.. figure:: img/wifi_icon.png
+   :width: 30 px
+   :alt: image of phone
+   :align: center
 
 *Note: In situations where an internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
 
@@ -176,7 +181,7 @@ You may first need to change a security setting to allow apps for a source other
 
 4.	Click **Install**. Click **Ok** to allow the app to be installed on the phone.
 
-*Note: If you receive an error during installation, you may have to uninstall the existing application before replacing it with the new one. + link naar How to uninstall the App.*
+*Note: If you receive an error during installation, you may have to uninstall the existing application before replacing it with the new one.*
 
 
 Create shortcut
