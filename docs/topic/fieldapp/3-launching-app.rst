@@ -21,21 +21,40 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
 
 **To set up device ID:**
 
-1.	Click on the **Settings** icon on the main screen. select **Preferences**.
+1.	Click on the **Settings** icon on the main screen. 
 
 .. figure:: img/5-launching-app-3-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
 
-2. 
+2. Select **Preferences**.
+
 .. figure:: img/5-launching-app-4-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
 
-2.	Click the **device identifier** option. You will be asked for authentication, which is "12345". In the next screen, enter the device ID (for example, cardno24), avoiding tabs, spaces or special characters. The device Id will be provided by the project manager.
-3.	Click **ok**.
+2.	Click the **device identifier** option. 
+
+.. figure:: img/5-launching-app-5-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+3. You will be asked for authentication, which is "12345". 
+
+.. figure:: img/5-launching-app-6.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+4.	Provide a name that will help you find back the phone in the Dashboard. Click "Ok".Click **ok**.
+
+.. figure:: img/5-launching-app-7.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 
 Set up users
@@ -48,6 +67,55 @@ Before you start using FLOW, you first need to create one or more users. During 
 The **Manage Users** feature allows you to create and edit users, and select a particular user for a session. 
 
 Tap the **Users** icon IMAGE manage_users.png to enter the user management screen. Once there, tap the Menu button and select Add User, and provide a name and email address.  Once you have created the user, tap save. The new user shows up in the list of users. 
+
+To create a user, follow these steps:
+
+1. Select "Manage Users" on the main menu. The current list of users will be displayed. At first, this will be empty.
+
+.. figure:: img/7-manage-users-0-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center   
+	
+
+2. While in the Manage Users screen, press the Menu button of the phone. This will display the "Add User" button.
+
+.. figure:: img/7-manage-users-1-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center	
+
+3. Select "Add User"
+
+4. Fill in the name of the user and an email address, and select "Save".
+
+.. figure:: img/7-manage-users-2.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center	
+
+5. The new user now shows up in the list of users. Click on the name to select the user.
+
+.. figure:: img/7-manage-users-3-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+6. The selected user is now displayed at the top of the main menu screen.
+
+.. figure:: img/7-manage-users-4-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+
+
+
+
+
+
+
+
 
 
 **Selecting user**
