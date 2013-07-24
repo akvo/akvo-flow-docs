@@ -67,12 +67,6 @@ Setting data and time on the phone
 
 
 
-
-
-
-
-
-
 Installing Field Survey App
 ---------------------------
 Create shortcut
