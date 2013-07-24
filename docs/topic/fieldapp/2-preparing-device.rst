@@ -13,7 +13,6 @@ Before you install the Field Survey App on your phone, ensure that your phone is
 
 How to do this is described below.
 
-
 Configure Gmail on phone
 -------------------------------------
 A free Gmail account is necessary to install the Field Survey App, and to receive updates.  
@@ -60,6 +59,7 @@ Configure Android settings for software download
 Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey App, and other recommended software.
 
 To enable software download:
+
 1.	Under **Settings**, select **Security**.
 
 .. figure:: img/2-1settings_security.png
@@ -86,15 +86,53 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
 4.	Choose the network you have access to and provide the password, if prompted. 
 
-5.	Select **Connect**. When connected to Wi-Fi, you can see this img/wifi_icon.png icon at the top of the screen.
+5.	Select **Connect**. When connected to Wi-Fi, you can see this IMAGE img/wifi_icon.png icon at the top of the screen.
 
 *Note: In situations where an internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
 
 
-
 Set Access Point Name (APN)
 -------------------------------------
+Depending on your situation, this section may not be necessary. If your data plan is already working for your phone, you can skip this.
 
+Local Internet service providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. When you purchase the SIM cards, ask the Internet Service Provider to give you the correct APN settings for the SIM Card.
+
+To set the Access Point name:
+
+1.	On the home screen, press **Settings**. 
+
+2.	From the options, choose **More…** and then select **Mobile Networks**.
+
+.. figure:: img/2-1set_APN_select_more_from_settings.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+3.	Select **Access Point Name**.
+
+.. figure:: img/2-1set_access_point_name.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+4.	Press the **Menu** button and select **New APN**.
+
+.. figure:: img/2-1select_new_APN.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+5.	Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
+
+.. figure:: img/2-1select_new_APN.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+6.	Press the **Home** key when you are done.   
+   
+   
+   
 Setting data and time on the phone
 -------------------------------------
 
