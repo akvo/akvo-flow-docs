@@ -1,6 +1,7 @@
 Conducting a FLOW survey
 ========================
-*Note: If you have used your phone in a previous data collection exercise, it is important to clear all the data off of the phone before you begin the next exercise so that you do not run the risk of exceeding the storage limits of your phone’s SD card and potentially losing data. If you use your phone for ongoing data collection, it is important to clear the phone of data at regular intervals. *
+
+*Note: If you have used your phone in a previous data collection exercise, it is important to clear all the data off of the phone before you begin the next exercise so that you do not run the risk of exceeding the storage limits of your phone’s SD card and potentially losing data. If you use your phone for ongoing data collection, it is important to clear the phone of data at regular intervals.*
 
 Surveys that are assigned to your phone appear on the Field Survey home screen when you launch the application. 
 
@@ -8,17 +9,29 @@ When you click the **survey** icon IMAGE survey_icon.png for the survey you wish
 
 From within the survey, clicking the **Menu** button will display a menu from which you can select your desired survey language(s) and change the question text size. Other options available from this menu are **Clear** which will erase all survey responses from the screen and **Save and Start New** which will save the current answers WITHOUT sending them to the server and start a new survey.  Once a survey is completed the **Submit** button should always be used to send the data to the central database.
 
-The following table explains the options displayed in the Survey menu. 
+The following table explains the **options displayed in the Survey menu**. 
 
-INSERT TABLE
+=========================================	==========================================================================================================================================================================================================================================
+Large Text						Makes text appear larger for easy reading. 
 
+Normal text						Changes text size from large to normal.
 
+Clear							Erases all responses entered into the survey without sending it to the server. To clear the response to a particular question, long-click the question text and click OK. 
+
+Save and Start New					Saves current survey responses and starts a new survey, clearing all input values. The saved version appears under the Review Saved Surveys icon on the home screen. You can edit it later and then submit it. 
+
+Languages						Allows you to select one or more languages in which you want the survey questions to appear, if the survey was configured to support multiple languages. 
+							*Note: The survey may take a few seconds to reload after switching languages.*
+
+Submitted Surveys					Shows a list of submitted surveys. Submitted surveys cannot be edited; you can open them in read-only mode. 
+=========================================	==========================================================================================================================================================================================================================================
 
 Navigating a survey 
 -------------------
 Before you begin collecting data, you must understand that each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab.  
 
-**Question types**
+Question types
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Surveys can consist of a number of different question types.
 
@@ -44,10 +57,14 @@ Surveys can consist of a number of different question types.
 - **Barcode** – It will launch the barcode reader app of your phone (You will need to have download it on your smartphone before) and instruct you to scan the barcode of a facility.
 
 
-**Help options**
+Help options
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Surveys can be configured to include help options. Help can take the form of text, a series of images or a video. If help is available for a specific question the **help** icon IMAGE help_icon.png is displayed next to the question text. Click this icon to open the help tool.
 
-**Language**
+Language
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 TEXT ABOUT LANGUAGE FEATURES> BLOG CAETIE BASIC INSTRUCTIONS???
 
 
