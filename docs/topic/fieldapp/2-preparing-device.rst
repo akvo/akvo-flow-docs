@@ -58,7 +58,7 @@ Configure Android settings for software download
 -------------------------------------
 Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey App, and other recommended software.
 
-To enable software download:
+**To enable software download:**
 
 1.	Under **Settings**, select **Security**.
 
@@ -97,7 +97,7 @@ Depending on your situation, this section may not be necessary. If your data pla
 
 Local Internet service providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. When you purchase the SIM cards, ask the Internet Service Provider to give you the correct APN settings for the SIM Card.
 
-To set the Access Point name:
+**To set the Access Point name:**
 
 1.	On the home screen, press **Settings**. 
 
@@ -124,10 +124,7 @@ To set the Access Point name:
    
 5.	Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
 
-.. figure:: img/2-1select_new_APN.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
+IMAGE
    
 6.	Press the **Home** key when you are done.   
    
