@@ -4,11 +4,17 @@ Preparing your device for FLOW
 Before you install the Field Survey App
 ---------------------------------------
 Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
+
 • 	Configure Gmail on the phone
+
 •	Configure Android settings for software download
+
 •	Set up Wi-Fi
+
 •	Set Access Point Name (APN)
+
 •	Calibrate GPS
+
 How to do this is described below.
 
 
@@ -55,9 +61,40 @@ The new account will now be visible under **Applications > Email**.
 
 Configure Android settings for software download
 -------------------------------------
+Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey App, and other recommended software.
+
+To enable software download:
+1.	Under **Settings**, select **Security**.
+
+.. figure:: img/2-1settings_security.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+2.	Enable **Unknown Sources**. If you cannot find the **Unknown Sources** option under **Security**, check under **Applications**.
+
+IMAGE
+
 
 Set up Wi-Fi
 -------------------------------------
+In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
+
+**To connect the phone to a Wi-Fi network:**
+
+1.	On the home screen of the phone, press **Settings**. 
+
+2.	Under **Wireless and Network**, the default setting for Wi-Fi is **OFF**. Tap on **OFF** to change it to **ON**. 
+
+3.	Select **Wi-Fi**. A list of available Wi-Fi networks displays. 
+
+4.	Choose the network you have access to and provide the password, if prompted. 
+
+5.	Select **Connect**. When connected to Wi-Fi, you can see this img/wifi_icon.png icon at the top of the screen.
+
+*Note: In situations where an internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
+
+
 
 Set Access Point Name (APN)
 -------------------------------------
