@@ -202,8 +202,8 @@ It is recommended that you install certain applications in addition to the Field
 Recommended applications:
 
 •	`ASTRO File Manager <https://play.google.com/store/apps/details?id=com.metago.astro/>`_. - can be used as a backup option to install and update the Field Survey App, when the email method does not work. 
-•	`GPS Status & toolbox <http://www.androiddrawer.com/203/download-gps-status-toolbox-3-8-1-app-apk/#.Ue-XIhY72p2/>` - enables you to monitor and check the GPS function of the phone. 
-•	`Quickmark <http://download.pandaapp.com/android-app/quickmark-barcode-scanner4.1.2-id5129.html#.Ue-XVBY72p0/>` or `ZXing Barcode Scanner <https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en/>` - required if barcodes are part of your survey. 
+•	`GPS Status & toolbox <http://www.androiddrawer.com/203/download-gps-status-toolbox-3-8-1-app-apk/#.Ue-XIhY72p2/>`_ - enables you to monitor and check the GPS function of the phone. 
+•	`Quickmark <http://download.pandaapp.com/android-app/quickmark-barcode-scanner4.1.2-id5129.html#.Ue-XVBY72p0/>`_ or `ZXing Barcode Scanner <https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en/>`_ - required if barcodes are part of your survey. 
 
 You can install these apps by going to 'Google Play', search for the apps, and install them.
 
