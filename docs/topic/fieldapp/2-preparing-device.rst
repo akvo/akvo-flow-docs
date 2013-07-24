@@ -208,15 +208,32 @@ Recommended applications:
 You can install these apps by going to 'Google Play', search for the apps, and install them.
 
 
-
 Adjust camera resolution
 ---------------------------
+The resolution of the photos determines how much time it will take to upload. The smaller the size, the better. Choose the lowest setting that is available on your phone. Here is how to do that:
 
+1.	Go to the **Camera app**
 
+.. figure:: img/2-2camera.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
+2.	In the Camera app, go to the **settings** menu. 
 
-
-
+.. figure:: img/2-2camera_settings.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+3.	Use the buttons on the right to find the **Resolution** setting, and set it to the lowest your phone supports (in this case, 640x480, but sometimes also 320x240).    
+   
+.. figure:: img/2-2camera_resolution.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center   
+   
+4.	In addition, there is a setting in the preferences that you can use to shrink photos automatically. This can be used in addition to the resolution setting. To do this, from the Field Survey home screen, select **settings**, then **preferences**. Scroll all the way down, and enable the setting **Shrink large photos**. This will automatically shrink photos to 320 x 240 pixels before upload.   
 ---
 
 old content from Essential Phone Set up:
