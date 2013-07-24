@@ -88,22 +88,20 @@ If they do not download within a few minutes, from the Field Survey app home scr
 Manual survey transfer
 ----------------------
 
-Manual Survey Transfer (formerly known as bootstrap) allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
+Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
 
-The standard inline markup is quite simple: use
+**To create a survey file:**
 
-* one asterisk: ``*text*`` (result *text*) for emphasis (italics),
-* two asterisks: ``**text**`` (result **text**) for strong emphasis (boldface), and
+*In 01. Select survey*, select the survey group where you stored the survey for which you want to create a file. Once you make a selection in the dropdown, you’ll see all the published surveys from that group appear in the text box to the right. 
 
-Another section
-------------------
-List markup is natural: just place an asterisk at
-the start of a paragraph and indent properly.  The same goes for numbered lists;
-they can also be autonumbered using a ``#`` sign::
+Select a survey from the list by clicking to highlight and then click “+ add selected surveys” below the box. You’ll see the survey you selected appear to the right in “Preview Survey selection.”
 
-   * This is a bulleted list.
-   * It has two items, the second
-     item uses two lines.
+*In 02. Notification details*, enter the email address to which you'd like to send the survey file. You can enter just one email address. 
 
-   1. This is a numbered list.
-   2. It has two items too.
+Once you are finished, click the Send File button. You'll see a confirmation pop-up. Check your email for an email from "FLOW" with the subject line "FLOW bootstrap file." The email will contain a link to download the bootstrap file. Click the link to download the file to your computer.
+
+**To transfer the file on to to your device:**
+
+Link to app section on this
+
+
