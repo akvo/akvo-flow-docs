@@ -207,7 +207,7 @@ Recommended applications:
 You can install these apps by going to 'Google Play', search for the apps, and install them.
 
 
-
+:ref:`ASTRO File Manager <https://play.google.com/store/apps/details?id=com.metago.astro>`
 
 
 Adjust camera resolution
