@@ -5,7 +5,13 @@ Conducting a FLOW survey
 
 Surveys that are assigned to your phone appear on the Field Survey home screen when you launch the application. 
 
-When you click the **survey** icon IMAGE survey_icon.png for the survey you wish to open, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
+When you click the **survey** icon 
+
+.. figure:: img/survey_icon.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+for the survey you wish to open, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
 
 From within the survey, clicking the **Menu** button will display a menu from which you can select your desired survey language(s) and change the question text size. Other options available from this menu are **Clear** which will erase all survey responses from the screen and **Save and Start New** which will save the current answers WITHOUT sending them to the server and start a new survey.  Once a survey is completed the **Submit** button should always be used to send the data to the central database.
 
@@ -47,8 +53,7 @@ Surveys can consist of a number of different question types.
 
 - **Geo-location questions** - use the device’s GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
 
-- **Photo questions** – present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. 
-*Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.*
+- **Photo questions** – present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. *Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.*
 
 - **Video questions** – It will launch the video camera and instruct the surveyor take a video. (Keep in mind that photos and videos take up a lot of memory when deciding to put in these types of questions).
 
