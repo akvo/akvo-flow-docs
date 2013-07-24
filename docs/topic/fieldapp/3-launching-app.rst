@@ -142,26 +142,27 @@ You have deleted the user and the name doesn’t appear anymore in the **Manage 
 
 **Remember user**
 
-If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. 
+If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. Then click the **Settings** icon on the main screen. 
 
 .. figure:: img/7-manage-users-7-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
 
-Then click the **Settings** icon on the main screen. 
+From there, select **Preferences**. 
 
 .. figure:: img/7-manage-users-8-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
-
-From there, select **Preferences** and then tap the checkbox beside the “Keep the last selected user logged in between sessions” option.
+   
+Then tap the checkbox beside the “Keep the last selected user logged in between sessions” option.
 
 .. figure:: img/7-manage-users-9-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
+
 
 
 Updating Field Survey app
