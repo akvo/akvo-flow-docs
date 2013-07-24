@@ -132,9 +132,15 @@ To set the Access Point name:
 6.	Press the **Home** key when you are done.   
    
    
-   
 Setting data and time on the phone
 -------------------------------------
+Before you start collecting data, it is important to check it the date and time are set correct. The date and time stamp on each data submission takes this information from the phone. If it is set incorrectly, you will get errant date/time stamps. 
+
+**To set date and time:**
+
+1.	On the home screen, press **Settings**. 
+2.	Click **date and time**.
+3.	Check if the date and time are correct, otherwise change. 
 
 
 
