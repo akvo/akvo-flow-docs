@@ -3,11 +3,56 @@ Preparing your device for FLOW
 
 Before you install the Field Survey App
 ---------------------------------------
+Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
+• 	Configure Gmail on the phone
+•	Configure Android settings for software download
+•	Set up Wi-Fi
+•	Set Access Point Name (APN)
+•	Calibrate GPS
+How to do this is described below.
+
+
 Configure Gmail on phone
+-------------------------------------
+A free Gmail account is necessary to install the Field Survey App, and to receive updates.  
+
+It is best to use a dedicated email address for communication with the phone. If you intend to use multiple phones with the Field Survey App, use the same email address for all the phones, so that you can send software updates to all the phones simultaneously. If you are an enumerator, it is likely that the phone is already set up correctly.
+
+**To configure Gmail on the phone:**
+1.From the home screen of the phone, go to the **settings** menu by clicking on the menu button on the phone (usually at the bottom left, but can be in different places depending on the model of the phone). 
+.. figure:: 2-1settings_from_homescrean.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+
 Configure Android settings for software download
+-------------------------------------
+
 Set up Wi-Fi
+-------------------------------------
+
 Set Access Point Name (APN)
+-------------------------------------
+
 Setting data and time on the phone
+-------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Installing Field Survey App
 ---------------------------
