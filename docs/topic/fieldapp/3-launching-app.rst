@@ -66,9 +66,7 @@ Before you start using FLOW, you first need to create one or more users. During 
 
 The **Manage Users** feature allows you to create and edit users, and select a particular user for a session. 
 
-Tap the **Users** icon IMAGE manage_users.png to enter the user management screen. Once there, tap the Menu button and select Add User, and provide a name and email address.  Once you have created the user, tap save. The new user shows up in the list of users. 
-
-To create a user, follow these steps:
+**To create a user:**
 
 1. Select "Manage Users" on the main menu. The current list of users will be displayed. At first, this will be empty.
 
@@ -77,31 +75,35 @@ To create a user, follow these steps:
    :alt: image of phone
    :align: center   
 	
-
-2. While in the Manage Users screen, press the Menu button of the phone. This will display the "Add User" button.
+2. While in the Manage Users screen, press the **Menu** button of the phone. This will display the **Add User** button.
 
 .. figure:: img/7-manage-users-1-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center	
 
-3. Select "Add User"
+3. Select **Add User**.
 
-4. Fill in the name of the user and an email address, and select "Save".
+4. Fill in the name of the user and an email address, and select **Save**.
 
 .. figure:: img/7-manage-users-2.png
    :width: 200 px
    :alt: image of phone
    :align: center	
 
-5. The new user now shows up in the list of users. Click on the name to select the user.
+5. The new user now shows up in the list of users. 
+
+
+**Selecting user**
+
+After you have created one or more users, you can select the user by **tapping the name**. 
 
 .. figure:: img/7-manage-users-3-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
-
-6. The selected user is now displayed at the top of the main menu screen.
+   
+The selected user is displayed at the top of the main menu screen. 
 
 .. figure:: img/7-manage-users-4-arrow.gif
    :width: 200 px
@@ -109,48 +111,57 @@ To create a user, follow these steps:
    :align: center
 
 
-
-
-
-
-
-
-
-
-
-**Selecting user**
-
-After you have created one or more users, you can select the user by tapping the name. 
-
-IMAGE
-   
-The selected user is displayed at the top of the main menu screen. 
-
-IMAGE
-
 **Editing user**
 
 To edit a user long-click the username you want to edit. Select **edit user**.
 
-IAMGE
+.. figure:: img/7-manage-users-5-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 Now you can edit the name and email address. When you’re done, click **save**. 
 
-IMAGE
+.. figure:: img/7-manage-users-6.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
 
 **Deleting user**
 
 To delete a user long-click the username you want to delete. Select **delete user**. 
 
-IMAGE
+.. figure:: img/7-manage-users-5a-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 You have deleted the user and the name doesn’t appear anymore in the **Manage Users** feature.  
 
+
 **Remember user**
 
-If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. Then click the **Settings** icon on the main screen. From there, select **Preferences** and then tap the checkbox beside the “Keep the last selected user logged in between sessions” option.
+If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. 
 
-IMAGE
+.. figure:: img/7-manage-users-7-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+Then click the **Settings** icon on the main screen. 
+
+.. figure:: img/7-manage-users-8-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+From there, select **Preferences** and then tap the checkbox beside the “Keep the last selected user logged in between sessions” option.
+
+.. figure:: img/7-manage-users-9-arrow.gif
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 
 Updating Field Survey app
