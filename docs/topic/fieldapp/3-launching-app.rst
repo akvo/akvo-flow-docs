@@ -49,7 +49,7 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
    :alt: image of phone
    :align: center
 
-4.	Provide a name that will help you find back the phone in the Dashboard. Click "Ok".Click **ok**.
+4.	Provide a name that will help you find back the phone in the Dashboard. Click "Ok". Click **ok**.
 
 .. figure:: img/5-launching-app-7.png
    :width: 200 px
@@ -68,7 +68,7 @@ The **Manage Users** feature allows you to create and edit users, and select a p
 
 **To create a user:**
 
-1. Select "Manage Users" on the main menu. The current list of users will be displayed. At first, this will be empty.
+1. Select **Manage Users** on the main menu. The current list of users will be displayed. At first, this will be empty.
 
 .. figure:: img/7-manage-users-0-arrow.gif
    :width: 200 px
