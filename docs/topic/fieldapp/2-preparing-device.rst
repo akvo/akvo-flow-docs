@@ -56,7 +56,7 @@ The new account will now be visible under **Applications > Email**.
 
 
 Configure Android settings for software download
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey App, and other recommended software.
 
 **To enable software download:**
@@ -74,7 +74,7 @@ IMAGE
 
 
 Set up Wi-Fi
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
 
 **To connect the phone to a Wi-Fi network:**
@@ -93,7 +93,7 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
 
 Set Access Point Name (APN)
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Depending on your situation, this section may not be necessary. If your data plan is already working for your phone, you can skip this.
 
 Local Internet service providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. When you purchase the SIM cards, ask the Internet Service Provider to give you the correct APN settings for the SIM Card.
@@ -131,7 +131,7 @@ IMAGE
    
    
 Setting data and time on the phone
--------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Before you start collecting data, it is important to check it the date and time are set correct. The date and time stamp on each data submission takes this information from the phone. If it is set incorrectly, you will get errant date/time stamps. 
 
 **To set date and time:**
@@ -143,7 +143,7 @@ Before you start collecting data, it is important to check it the date and time 
 
 
 Installing Field Survey App
----------------------------
+------------------------------
 To install the Field Survey App on the phone, you need the latest available version of the installer file. The file extension of the installer file is **.apk**. The project manager will send this file as an email attachment to the email address you set up in the previous step.
 
 **To install the Field Survey App:**
