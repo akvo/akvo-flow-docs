@@ -146,15 +146,77 @@ Before you start collecting data, it is important to check it the date and time 
 
 Installing Field Survey App
 ---------------------------
+To install the Field Survey App on the phone, you need the latest available version of the installer file. The file extension of the installer file is **.apk**. The project manager will send this file as an email attachment to the email address you set up in the previous step.
 
+**To install the Field Survey App:**
+
+You may first need to change a security setting to allow apps for a source other than Android Market (Play Store) to be installed. To do this, tap on the Menu button and select **Settings**. Select **Applications**, and enable **Unknown Sources**. Sometimes, this setting is found under **Security**.
+
+1.	Open the Gmail app on your phone IMAGE  img/2-2gmail_icon.png
+2.	Check if the email with the app has arrived
+
+.. figure:: img/2-2check_email_for_application.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+3.	Open the email and scroll down. You should see a button **Install**.
+
+.. figure:: img/2-2install_application.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+4.	Click **Install**. Click **Ok** to allow the app to be installed on the phone.
+
+*Note: If you receive an error during installation, you may have to uninstall the existing application before replacing it with the new one. + link naar How to uninstall the App.*
 
 
 Create shortcut
 ---------------------------
+For easy access, create a shortcut to the Field Survey App on the home screen. 
+
+**To create a shortcut:**
+
+1.	Click on the **Applications** icon on the phone home screen. 
+
+2.	From the list of applications, press and hold on the **Field Survey** icon. 
+
+.. figure:: img/2-2create_shortcut_application.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
+3. 	The shortcut to the Field Survey App icon now appears on your home screen.
+
+.. figure:: img/2-2shortcut_at_homescreen.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+
 
 Install recommended applications
 ---------------------------
+It is recommended that you install certain applications in addition to the Field Survey App, in order to enhance productivity. These are several such useful applications available for **free download** on the internet. 
+
+Recommended applications:
+
+•	`ASTRO File Manager`_ - can be used as a backup option to install and update the Field Survey App, when the email method does not work. 
+•	GPS Status & toolbox - enables you to monitor and check the GPS function of the phone. 
+•	Quickmark or ZXing Barcode Scanner - required if barcodes are part of your survey. 
+You can install these apps by going to 'Google Play', search for the apps, and install them.
+
+
+
+
+
 Adjust camera resolution
+---------------------------
+
+
+
+
+
 
 ---
 
