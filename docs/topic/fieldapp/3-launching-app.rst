@@ -60,7 +60,8 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
 Set up users
 ------------
 
-**Creating user**
+Creating user
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Before you start using FLOW, you first need to create one or more users. During data collection, a specific user needs to be selected so that you can later track the collected data to the field worker who conducted the survey. 
 
@@ -94,7 +95,8 @@ The **Manage Users** feature allows you to create and edit users, and select a p
 5. The new user now shows up in the list of users. 
 
 
-**Selecting user**
+Selecting user
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 After you have created one or more users, you can select the user by **tapping the name**. 
 
@@ -111,7 +113,8 @@ The selected user is displayed at the top of the main menu screen.
    :align: center
 
 
-**Editing user**
+Editing user
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To edit a user long-click the username you want to edit. Select **edit user**.
 
@@ -128,7 +131,8 @@ Now you can edit the name and email address. When you’re done, click **save**.
    :align: center
 
 
-**Deleting user**
+Deleting user
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To delete a user long-click the username you want to delete. Select **delete user**. 
 
@@ -140,7 +144,8 @@ To delete a user long-click the username you want to delete. Select **delete use
 You have deleted the user and the name doesn’t appear anymore in the **Manage Users** feature.  
 
 
-**Remember user**
+Remember user
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. Then click the **Settings** icon on the main screen. 
 
@@ -191,6 +196,7 @@ Before you start data collection, you need to check if there is enough space ava
 We recommend that at least 2 GB is available. However, 4 GB will be better if you need to collect photos as well. 
 
 **To check how much space is left on your SD card:**
+
 1.	In the home screen click **preferences**.
 2.	Click **SD card and storage**.
 3.	Here you can see how much is the **total space** and **available space**.
@@ -207,7 +213,13 @@ You need to install the free App ‘GPS Status & Toolbox’ from the Playstore.
 **To calibrate GPS:**
 
 1.	Take the phone outside to a location where there is a clear view of the sky. It makes no difference whether the sky is cloudy or clear.
-2.	On the phone home screen, click the GPS Status icon IMAGE 3-3GPS_icon.png.
+2.	On the phone home screen, click the GPS Status icon 
+
+.. figure:: 3-3GPS_icon.png
+   :width: 30 px
+   :alt: image of phone
+   :align: center
+
 3.	If your GPS is disabled, you are prompted to enable GPS. Select **Use GPS Satellites** and then return to the previous screen. The GPS application appears.
 
 .. figure:: img/3-3GPS_screen.png
