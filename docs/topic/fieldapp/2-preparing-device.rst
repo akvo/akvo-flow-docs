@@ -70,7 +70,10 @@ Your phone must be configured to allow download and installation of third-party 
    
 2.	Enable **Unknown Sources**. If you cannot find the **Unknown Sources** option under **Security**, check under **Applications**.
 
-IMAGE
+.. figure:: img/2-1enable_unknown_sources.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 
 Set up Wi-Fi
