@@ -206,8 +206,10 @@ Recommended applications:
 •	Quickmark or ZXing Barcode Scanner - required if barcodes are part of your survey. 
 You can install these apps by going to 'Google Play', search for the apps, and install them.
 
+`ASTRO File Manager 
+<https://play.google.com/store/apps/details?id=com.metago.astro/>`_.
 
-:ref:`ASTRO File Manager <https://play.google.com/store/apps/details?id=com.metago.astro>`
+
 
 
 Adjust camera resolution
