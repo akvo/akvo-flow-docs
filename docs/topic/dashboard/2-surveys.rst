@@ -120,10 +120,91 @@ Note: You cannot delete a survey that contains one or more questions, or that ha
 
 
 Manage Notifications
+--------------------
+
+Notifications are event-based messages about FLOW survey activity sent to you via email. They are set at the survey level, and can be sent to any valid email address, regardless of whether the email address belongs to a registered FLOW user.
+
+Notifications are either tied to certain events (survey approval, survey submission) or run at set intervals (nightly raw data report if new data has been submitted).
+
+**To set up notifcations:**
+
+From the left panel of the Edit Survey screen, click on "+ Manage Notifications". This will bring up a screen where you can enter the details of each notification.
+
+[insert screenshot of Notifications screen about here]
+
+Enter the recipient's email address, select an Event type, Option and expiration date. Click Add and you will see the details appear below.
+
+Email address - the email address to which the notification should be sent. Does not need to be a registered FLOW user.
+Event - 
+Raw data reports (nightly) - generates and sends a raw data report each night if new data are submitted for the survey
+Survey submission - send a notifcation each time a survey is submitted from the field (note: this can product a high volume of emails) 
+Survey approval - send a notification each time a survey is approved
+Option - choose whether to include a download link in the email, or to send any file as an attachment
+Expires - choose the end date for notification. After this date the user will no longer receive emails for the selected survey event.
+
+If you want multiple event notifications sent to the same user, you must enter them individually.
+
+To delete a notification, locate it in the list of existing notifications and click Remove. To return to the Edit Survey screen, click Close Notifications.
+
 
 Manage Translations
+-------------------
 
-About the Edit Survey left panel
+cmo note: we may want this to be it's own page
+
+FLOW allows users to enter alternate translations for surveys on the dashboard, and then make those available on the Field Survey app. This allows data collectors in the field to conduct surveys in their local language.
+
+Survey translations work in the FLOW dashboard version 1.6.0 and higher, and FLOW field survey app version 1.11.0 and higher. Akvo updates your dashboard automatically, but You need to update your field survey app to the latest version to use translations and other new features. If you don’t update the app, you’ll still be able to enter translations on the dashboard, but you won’t see them when you access the languages list on the field survey app.
+
+To build survey translations into a FLOW survey, you follow the same core workflow, but will use the Master Language and Manage Translations tools in the left panel of the Edit Survey screen.
+
+The elements that will show their translations on the device are the question text, option question answers and tooltips. The translations of the survey title, survey description and question group names aren't available on the device yet.
+
+Every survey will have a master language. This is the language in which you will first create the survey, and the language in which you will view and edit data in reports, charts and maps. The default is English if you don’t make another selection when you are initially building the survey.
+
+There are 181 languages available in the language list, but any language with a non-Roman alphabet or any language that reads anything other than left-to-right is experimental at this point. We are working actively with partners to build greater compatibility for different character sets.
+
+**To create and publish a survey with one or more translations:**
+
+From the SURVEYS tab, select a survey group from the left panel in which you’d like to create a new survey for translation, or chose a survey group with an existing survey to which you’d like to add a translation. Once inside the group, click Create New Survey in the upper right or click Edit under the existing survey.
+
+If it’s a new survey, in the Edit survey panel that appears on the left, enter a title for the survey and select a type (both required). Here is where you set the master language for the survey: if you want to change it to something other than English (the default) do that from the MASTER LANGUAGE dropdown. You should not change the master language after you’ve begun to collect data with the survey, so make sure your selection is correct.
+
+[insert image of left panel with master language and manage translations highlighted about here]
+
+Click Save at the bottom of the left panel. You’ll see a number appear next to ID Number in the left panel after you do this. This is the survey ID.
+
+If you are creating a new survey, you’ll create question groups, and then add questions to them. If not, you’ll simply enter translations for the existing questions.
+
+First complete and save the survey in the master language. When you are satisfied, click the “+ MANAGE TRANSLATIONS” button in the left panel. This will bring up the Survey translation screen for the survey. Here you can add one or more translations to your survey. Along the top you’ll see the default (master) language, the existing translations (if you’ve created any) and an ADD NEW TRANSLATION dropdown. Below, you’ll see the master survey details on the left, and the details for the translation on the right, with text boxes to enter a translation for each item.
+
+[Insert image of Survey Translation screen about here]
+
+Select a language from the ADD NEW TRANSLATION dropdown along the top of the Survey translation section. Two buttons, ADD and CANCEL, will appear to the right of the dropdown when you do this. Click ADD to proceed with entering a translation for that language. “Survey details in [selected language]” will appear as the heading for the right-hand translation section.
+
+Enter translations for each survey question, tooltip, and question option (if it’s an option question). The translations for survey title, survey description and question group name will not be visible on the device in this version, but they will be in future versions, so you can enter them as well.
+
+To save as you are working, click SAVE AND CONTINUE at the bottom of the window. To save and return to the master survey screen, click SAVE AND CLOSE. You can always revisit the translation screen by clicking the “+ MANAGE TRANSLATIONS” button from the left panel of the Edit survey section. You can also add multiple translations to a single survey by selecting another language from the Add New Translation dropdown and clicking ADD.
+
+When you have completed the translation(s) of your survey, from the bottom left panel, click Publish. This will display a pop-up window confirming your survey has been published, and instructing to you visit the MESSAGES tab to confirm when this is complete. If you have any unsaved changes, you will first see a warning to Save first.
+
+Once the survey has been published, create a new survey assignment specifying the new survey and all devices that should receive it.
+
+**Navigate and display translations on device:**
+
+Once you have loaded the survey with translations onto a device, you can select any of the available languages and conduct surveys in them. To display one or more translations for a survey, first tap the survey icon for your survey from the field survey app home screen. This will open the survey.
+
+From here, tap your device’s menu button, which will prompt a set of options to slide up from the bottom of the screen. Select Languages. This will display all of the available translations (ie, the ones you entered on the dashboard) for all the surveys on the device.
+
+[Insert image of selecting Languages after pressing Menu on device about here]
+
+[Insert image of languages list on device about here]
+
+Tick one or more of the language boxes. Ticking just one language will display just that language for the survey. Ticking more than one will display multiple languages in different colors. The question text, question options, and tooltips will display in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
+
+Complete the survey and click the Submit button at the end. The notifications bar across the top of the phone screen will tell you when the survey data has been successfully submitted. You can also check this from the Survey Status icon from the app home screen, from Review Submitted Surveys.
+
+
 
 
 
