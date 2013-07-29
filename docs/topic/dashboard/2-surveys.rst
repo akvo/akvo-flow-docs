@@ -62,7 +62,7 @@ For a new survey, click on “Create a new survey” in the upper right hand cor
 To edit an existing survey, hover over the name of the survey with your mouse cursor and click the Edit button that appears below the survey details.
 
 Working with question groups
-++++++++++++++++++++++++++++ (3rd level header)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Surveys consist of questions organized into question groups, so first create the question groups for your survey, and then add questions to them.
 
@@ -70,26 +70,26 @@ To add or edit a question group:
 
 Click on "+ Insert group here." Group #, New group - please change name” appears in the group title spot. Click Edit Group Name to change the name of the group and click Save. 
 
-To view the questions within a question group:
+**View the questions within a question group:**
 
 Click Show Questions next to the question group and all the questions in that group will appear below. You can only have the questions showing for one survey group at a time. Click Hide Questions to hide the questions again, or just click Show Questions for another group.
 
-To delete a question group:
+**To delete a question group:**
 
 Click Delete next to the question group. You'll be asked to confirm whether you'd like to delete the group. 
 
 Note: You cannot delete a question group that contains one or more survey questions.
 
-To change the position of a question group (move):
+**To change the position of a question group (move):**
 
 You can rearrange the position of question groups after you've created them by clicking the Move button next to a survey group. This will show you a Move Group Here button in each new possible location. Click the Move Group Here button where you'd like the new position to be. The group will move accordingly and all the groups will re-number.
 
-To copy a question group within a survey:
+**To copy a question group within a survey:**
 
 Click the copy button next to the group name. Paste Group Here buttons will appear in all of the available places to paste a copy of the question group. Click the Paste Group Here button where you'd like to position the question group copy, and it will copy to that location along with all the question within it.
 
 Creating and editing survey questions
-+++++++++++++++++++++++++++++++++++++ (3rd level header)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 After creating at least one survey group, click Show Questions next to the survey group. Click Add New Question in the position you want the new question, or click Edit next to an existing question.
 
@@ -117,7 +117,6 @@ Deleting a Survey
 To delete a survey, hover your mouse cursor over the survey name in the Survey Overview and click Delete. You will be asked to confirm whether you want to delete the survey.
 
 Note: You cannot delete a survey that contains one or more questions, or that has had any data collected with it.
-
 
 Manage Notifications
 --------------------
