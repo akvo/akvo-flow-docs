@@ -18,15 +18,25 @@ When you have made your selections, click Build Chart, and the chart will displa
 Exporting data and reports
 --------------------------
 
+There are several different options for report formats. The simplest and most verstaile are the raw data report and raw text file. The comprehenive report includes some basic graphical and statistical analysis, and the printable survey form is a blank survey in Excel format, for printing and distribution if needed.
+
+To run any report, first select a survey group and survey from the top dropdown menus and click the appropriate export button. Once you do, the report will begin running and be delivered via your browser's download settings. Each report will be saved by its type and survey ID number.
+
 Raw data report
 ~~~~~~~~~~~~~~~
+The raw data report exports all submitted raw data for a single survey to an Excel spreadsheet (.xlsx). This report contains all responses submitted for the survey. 
 
 Comprehensive report
 ~~~~~~~~~~~~~~~~~~~~
+The comprehensive report exports all raw data along with optional summarized survey data for geographic areas and optional charts to an Excel spreadsheet (.xlsx). Because these reports contain analysis and graphs, they may take a long time and generate a large report, depending on the amount of data collected with the selected survey.
+
+The top sheet of a comprehensive report is a full raw data report, and subsequent sheets contain analysis and graphs, broken down by geographic area if you have made that selection when you exported the report and the survey contains geographic areas. By default, comprehensive reports run with geographic summaries and graphs.
 
 Raw text file
 ~~~~~~~~~~~~~
+The raw text file exports all submitted raw data for a single survey to a tab delimited text file (TSV) that can be opened in any text or spreadsheet editor. 
 
 Printable survey form
 ~~~~~~~~~~~~~~~~~~~~~
+The printable survey form is a blank survey form in Excel format (.xlsx) that can be used to distribute a blank survey form or conduct a paper-based survey if needed.
 
