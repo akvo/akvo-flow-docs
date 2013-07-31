@@ -1,6 +1,8 @@
 Data
 ====
 
+The Data tab is where you can view, edit, import and clean data from FLOW surveys. 
+
 Viewing and editing data
 ------------------------
 
@@ -13,6 +15,8 @@ Text
 
 Cleaning data
 -------------
+
+
 
 Text
 
