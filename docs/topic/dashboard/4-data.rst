@@ -4,7 +4,8 @@ Data
 The Data tab is where you can view, edit, import and clean data from FLOW surveys. 
 
 
-:ref:`navigating_the_map`
+`Navigating the map <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/6-maps#navigating-the-map.html>`_ 
+
 
 Inspect Data
 ------------
