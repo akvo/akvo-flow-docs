@@ -15,7 +15,7 @@ When you click a point icon on the map, a window will slide out from the right t
 
 [insert shot of map with window out about here]
 
-
+.. _navigating_the_map:
 Navigating the map
 ------------------
 
