@@ -1,9 +1,17 @@
 Maps
 ====
 
-The map on your FLOW dashboard shows all the public data collected on your dashboard. Public data include those collected with surveys of type 'point' and 'public institution'. 
+The map on your FLOW dashboard shows any data collected with a GPS location from a FLOW survey. 
 
-When you click a point icon on the map, a window will slide out from the right that contains photos and data collected at that point. The collection date and point code are listed on the top of the map, below that the photo(s) and below that the survey questions and their responses. You can hide the window by clicking the Hide button in the upper right, or click on a new point to view data. The point whose data is showing in the window is highlighted on the map.
+There are two versions of the map: the one you see when you are logged in to your dashboard or web browser, and the one anyone can see via the public URL for your map.
+
+For a given dashboard, the public URL is the dashboard name, without the "/admin." So, for example, the public map for www.training.akvoflow.org/admin can be found at www.training.akvoflow.org. Anyone with a web browser can view this page.
+
+The map you see when you are logged in to your dashboard or web browser displays all data, regardless of type, as long as it was collected with a GPS location. 
+
+The public map displays all public data on your dashboard, which includes those collected with surveys of type 'point' and 'public institution'. 
+
+When you click a point icon on the map, a window will slide out from the right that contains photos and data collected at that point. The collection date and point code are listed on the top of the map, below that the photo(s) and below that the survey questions and their responses. You can hide the window by clicking the Hide button in the upper right, or click on a new point to view data. The point whose data are showing in the window is highlighted on the map.
 
 [insert shot of map with window out about here]
 
