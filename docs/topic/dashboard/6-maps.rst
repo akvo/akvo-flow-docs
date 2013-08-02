@@ -11,7 +11,7 @@ When you click a point icon on the map, a window will slide out from the right t
 Navigating the map
 ------------------
 
-There are panning and zoom level tools on the left side of the map. You can also jump around to different countries where your dashboard has data by selecting from the Country dropdown menu in the upper left. If you need a new country added to your FLOW map, contact a member of the the AKvo staff through our support site.
+There are panning and zoom level tools on the left side of the map. You can also jump around to different countries where your dashboard has data by selecting from the Country dropdown menu in the upper left. If you need a new country added to your FLOW map, contact a member of the the Akvo staff through our support site.
 
 
 Downloading a photo
