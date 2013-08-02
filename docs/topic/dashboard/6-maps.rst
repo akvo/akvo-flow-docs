@@ -5,7 +5,7 @@ The map on your FLOW dashboard shows any data collected with a GPS location from
 
 There are two versions of the map: the one you see when you are logged in to your dashboard or web browser, and the one anyone can see via the public URL for your map.
 
-For a given dashboard, the public URL is the dashboard name, without the "/admin." So, for example, the public map for www.training.akvoflow.org/admin can be found at www.training.akvoflow.org. Anyone with a web browser can view this page.
+For a given dashboard, the public URL is the dashboard name, without the "/admin." So, for example, the public map for http://training.akvoflow.org/admin can be found at http://training.akvoflow.org. Anyone with a web browser can view this page.
 
 The map you see when you are logged in to your dashboard or web browser displays all data, regardless of type, as long as it was collected with a GPS location. 
 
