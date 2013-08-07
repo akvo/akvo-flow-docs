@@ -121,7 +121,7 @@ Click the Assignments List section, and you’ll see a list of the existing assi
 
 [insert image of 01 details about here]
 
-.. figure:: img/3-devices_editassignments_01details.png
+.. figure:: img/3-devices_editassignment_01details.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -136,7 +136,7 @@ You’ll see the survey(s) you selected appear to the right in “Preview Survey
 
 [insert image of 02 select surveys about here]
 
-.. figure:: img/3-devices_editassignments_02surveys.png
+.. figure:: img/3-devices_editassignment_02surveys.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -149,7 +149,7 @@ Select one or more devices from the list by clicking to highlight and then click
 
 [insert image of 03 select devices about here]
 
-.. figure:: img/3-devices_editassignments_03devices.png
+.. figure:: img/3-devices_editassignment_03devices.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
