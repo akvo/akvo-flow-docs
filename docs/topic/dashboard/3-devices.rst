@@ -23,6 +23,11 @@ To confirm that the device has connected successfully, visit the Devices tab on 
    :alt: image of dashboard
    :align: center  
 
+    .. figure:: img/3-devices_deviceslist.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
 **Elements in the Devices List**
 
 * IMEI - an identifying number unique to each device that helps to identify it in our database
