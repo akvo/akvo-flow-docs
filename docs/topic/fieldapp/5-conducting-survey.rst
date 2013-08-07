@@ -39,6 +39,8 @@ Before you begin collecting data, you must understand that each survey contains 
 Question types
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+LINK TO DASHBOARD SECTION INSTEAD?
+
 Surveys can consist of a number of different question types.
 
 - **Free text question** – The answer to the question is entered by the user in free text.
