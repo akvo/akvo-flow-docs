@@ -18,12 +18,6 @@ To confirm that the device has connected successfully, visit the Devices tab on 
 
 [insert image of devices list about here]
 
-.. figure:: img/3-devices_deviceslist.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center
-
-
  .. figure:: img/3-devices_deviceslist_highres.tiff
    :width: 600 px
    :alt: image of dashboard
