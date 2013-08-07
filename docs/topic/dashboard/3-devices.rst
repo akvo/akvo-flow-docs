@@ -110,7 +110,7 @@ Click the Assignments List section, and you’ll see a list of the existing assi
 
 [insert image of Edit assignment screen about here]
 
-.. figure:: img/3-devices_editassignments.png
+.. figure:: img/3-devices_editassignment.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
