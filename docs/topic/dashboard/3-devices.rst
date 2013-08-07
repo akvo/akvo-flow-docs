@@ -23,6 +23,7 @@ To confirm that the device has connected successfully, visit the Devices tab on 
    :alt: image of dashboard
    :align: center
 
+
  .. figure:: img/3-devices_deviceslist_highres.tiff
    :width: 600 px
    :alt: image of dashboard
