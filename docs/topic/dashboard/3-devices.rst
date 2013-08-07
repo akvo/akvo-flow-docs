@@ -90,11 +90,11 @@ Viewing and creating survey assignments
 All survey assignments are listed in the Assignments List section. You can also create new survey assignments here.
 
 .. figure:: img/3-devices_assignmentslist.png
-:width: 600 px
-:alt: image of dashboard
-:align: center
+  :width: 600 px
+  :alt: image of dashboard
+  :align: center 
 
-	The Assignments List.
+  The Assignments List.
 
 The Assignments List contains the Name, Start Date and End Date for every assignment created on your dashboard. You can edit or delete  assignments using the buttons in the Action column in the far right of the table.
 
