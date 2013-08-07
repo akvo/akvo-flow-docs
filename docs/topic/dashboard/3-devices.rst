@@ -16,6 +16,13 @@ From inside the app, set a User (link to article) and Device ID (link to getting
 
 To confirm that the device has connected successfully, visit the Devices tab on the dashboard and check for the device in the Devices List.
 
+[insert image of devices list about here]
+
+.. figure:: img/3-devices-deviceslist.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center
+
 **Elements in the Devices List**
 
 * IMEI - an identifying number unique to each device that helps to identify it in our database
@@ -27,7 +34,7 @@ To confirm that the device has connected successfully, visit the Devices tab on 
 
 Managing device groups
 ----------------------
-Device groups allow you to organize the devices attached to your FLOW Dashboard into smaller groups, so that when you create Assignments you can select a device group instead of having to select the devices individually. Each device attached to your dashboard can belong to only one device group, or you can leave a device unassigned.
+Device groups allow you to organize the all devices attached to your FLOW Dashboard into smaller groups, so that when you create Assignments you can select a device group instead of having to select the devices individually. Each device attached to your dashboard can belong to only one device group, or you can leave a device unassigned.
 
 **To create, change or delete a device group:**
 
