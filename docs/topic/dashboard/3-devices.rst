@@ -89,14 +89,12 @@ Viewing and creating survey assignments
 
 All survey assignments are listed in the Assignments List section. You can also create new survey assignments here.
 
-[insert image of assignments list about here]
-
 .. figure:: img/3-devices_assignmentslist.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-	The Assignments List.
+   The Assignments List.
 
 The Assignments List contains the Name, Start Date and End Date for every assignment created on your dashboard. You can edit or delete  assignments using the buttons in the Action column in the far right of the table.
 
@@ -108,25 +106,21 @@ Once your survey has been published, navigate to the DEVICES tab and confirm tha
 
 Click the Assignments List section, and you’ll see a list of the existing assignments on this dashboard. Click the Create New Assignment button.
 
-[insert image of Edit assignment screen about here]
-
 .. figure:: img/3-devices_editassignment.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Caption.
+   Add surveys and devices to an assignment to send it to devices for data collection.
 
 *In 01. Assignment details*, enter the assignment name, start date and expiration date. The assignment name will be used to display the assignment in the Assignments List once you save it. The start date and expiration date will determine the period of time the survey receives auto-updates on the device when the survey is modified and re-published on the dashboard, but the survey will download to the selected device(s) right away once you save the assignment.
-
-[insert image of 01 details about here]
 
 .. figure:: img/3-devices_editassignment_01details.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Caption.
+   Give the assignment a name and start and end dates.
 
 *In 02. Select survey*, select the survey group where you stored the survey(s) you want to assign. Once you make a selection in the dropdown, you’ll see all the published surveys from that group appear in the text box to the right. 
 
@@ -134,27 +128,23 @@ Select one or more surveys from the list by clicking to highlight and then click
 
 You’ll see the survey(s) you selected appear to the right in “Preview Survey selection.” You can select multiple surveys from one survey group, or select surveys from several different survey groups and add them. You'll see everything you've selected so far in Preview Survey selection.
 
-[insert image of 02 select surveys about here]
-
 .. figure:: img/3-devices_editassignment_02surveys.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Caption.
+   Select surveys on the left and add them to the assignment.
 
 *In 03. Select devices*, select the device group from the dropdown that contains the devices to which you want to send the assignment. When you make a selection in the dropdown, all the devices from that group will appear in the box to the right. You can also select "all unassigned devices" from the dropdown to see all the devices that haven't been assigned to a group. 
 
 Select one or more devices from the list by clicking to highlight and then click “+ add selected devices” below the box. You’ll see the device(s) you selected appear to the right in Preview Device selection.
-
-[insert image of 03 select devices about here]
 
 .. figure:: img/3-devices_editassignment_03devices.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Caption.
+   Select devices on the left and add them to the assignment.
 
 In both Preview sections, you can clear the individual selections you've made by clicking the delete icon next to an item, or Clear All with the button below.
 
@@ -177,14 +167,12 @@ Manual Survey Transfer (formerly known as bootstrap) allows you to generate a fi
 
 **To create a survey file:**
 
-[insert image of manual survey transfer screen about here]
-
 .. figure:: img/3-devices_manualsurveytransfer.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Caption.
+   Select a survey and enter the notification details to send a survey file via email to a user.
 
 *In 01. Select survey*, select the survey group where you stored the survey for which you want to create a file. Once you make a selection in the dropdown, you’ll see all the published surveys from that group appear in the text box to the right. 
 
