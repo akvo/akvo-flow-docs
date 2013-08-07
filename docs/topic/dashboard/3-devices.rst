@@ -18,15 +18,12 @@ To confirm that the device has connected successfully, visit the Devices tab on 
 
 [insert image of devices list about here]
 
- .. figure:: img/3-devices_deviceslist_highres.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center  
-
  .. figure:: img/3-devices_deviceslist.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
+
+   The Devices List.
 
 **Elements in the Devices List**
 
@@ -47,13 +44,56 @@ Click the Manage Device Groups button. It will display a pop-up that gives you t
 
 [insert image of Manage device groups pop up about here]
 
+ .. figure:: img/3-devices_managedevices_pop.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Caption.
+
 **To add a device or change the device group:**
 
 Find the device(s) in the Devices List and tick the box next to each device in the first column in the table. Click "Add to device group" in the upper right of the Device List. From the pop-up window that appears, select a device group from the dropdown and click OK to save changes, or Cancel to discard changes. You will see the name of the Device Group you just selected in the device row(s) in the Devices List.
 
+[insert image of add to group button about here]
+
+ .. figure:: img/3-devices_addtogroup_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Caption.
+
+[insert image of add to group pop up window about here]
+
+ .. figure:: img/3-devices_addtogroup_pop.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Caption.
+
 **To remove a device from a device group:**
 
 Find the device(s) in the Devices List and tick the box next to each device in the first column in the table. Click "Remove from device group" in the upper right of the Device List. The pop-up window that appears will ask you to confirm the removal. Click OK to remove the device, Cancel to keep the device in it's current group. You will see the name of the Device Group you just removed disappear from the device row(s) in the Devices List.
+
+[insert image of remove from group button about here]
+
+ .. figure:: img/3-devices_removefromgroup_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Caption.
+
+[insert image of remove from group confirm pop up about here]
+
+ .. figure:: img/3-devices_removefromgroup_pop.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Caption.
 
 
 Viewing and creating survey assignments
