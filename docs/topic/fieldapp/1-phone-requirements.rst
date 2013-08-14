@@ -23,7 +23,7 @@ When in doubt, please consult with Akvo before purchasing devices to run FLOW, e
 	Operating System			Android 2.2 or higher
 ======================================  ===========================================================================================================================
 
-
+Akvo FLOW currently doesn't support tablets, because this has not been tested yet. 
 
 
 	
