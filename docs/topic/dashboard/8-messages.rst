@@ -1,7 +1,7 @@
 Messages
 ========
 
-The Messages tab lists messages on your dashboard related to activity with FLOW surveys and data processing activity. The messages table lists the date and time of message, the survey ID, the survey, the message type, the contents of the message and the user performing the activity that generated the message. You can sort the table by clicking the arrows in the column headings.
+The Messages tab lists messages on your dashboard related to activity with FLOW surveys and data processing activity. The messages table lists the date and time of message, the survey ID, the survey, the message type, the contents of the message and the user performing the activity that generated the message. You can sort the table by clicking the text in the column headings.
 
  .. figure:: img/8-messages_main.png
    :width: 600 px
