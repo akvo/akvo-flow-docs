@@ -1,8 +1,23 @@
 Troubleshooting
 ===============
 
-Survey structure in FLOW
-------------------------
+**Discussions**
+http://flowhelp.akvo.org/discussions/
+
+If you have a question about how something works, chances are someone else has asked that question before. Search Akvo FLOW Discussions for answers, or just to talk to other users about their experiences. Discussions are fully searchable with keywords.
+
+And if you don't find your answer, you can start a new discussion (public or private!) and an Akvo staff member will help you.
+
+- Problems: 
+- Questions
+- Suggestions
+
+
+**Training materials**
+
+
+At http://www.akvo.org/web/support/flow 
+
 
 **Survey Groups**
 
