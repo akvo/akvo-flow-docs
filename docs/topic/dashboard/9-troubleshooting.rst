@@ -8,19 +8,17 @@ If you have a question about how something works, chances are someone else has a
 
 And if you don't find your answer, you can start a new discussion (public or private!) and an Akvo staff member will help you.
 
-- Problems: 
-- Questions
-- Suggestions
+- Problems: Having some issues? Something not quite working right? Post your problems here and we'll try and get to them as soon as possible.
+- Questions: Have a question on how something should work? Ask your question here and we'll help you out.
+- Suggestions: Do you have a suggestion? Maybe a feature you'd like to see implemented, or a suggestion on how an existing feature should work. Let us know what you think, we're always glad to hear opinions!
 
 
 **Training materials**
 
+Here (INSERT URL WHERE YOU CAN FIND THE TRAINING MATERIALS) you can find our training materials and presentations. 
 
-At http://www.akvo.org/web/support/flow 
+English
 
 
-**Survey Groups**
+Part of our materials are also available in french and spanish. (INSERT LINKS)
 
-Surveys on the dashboard are kept in Survey Groups to help stay organized. Survey groups can be organized by any way you'd like - for example, by country, type, organization or year. They are displayed in alphabetical order in the left panel of the Surveys tab.
-
-**Question Groups**
