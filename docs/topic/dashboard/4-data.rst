@@ -10,7 +10,14 @@ Example of a page link:
 Inspect Data
 ------------
 
-The Inspect Data table is a live feed of all the data submitted from devices connected to your FLOW dashboard. Its default view contains all data, with the most recent records at the top. You can page through the data using the Next and Previous buttons at the bottom of the table, or filter based on a collected of parameters.
+The Inspect Data table is a live feed of all the data submitted from devices connected to your FLOW dashboard. Its default view contains all data, with the most recent records at the top. You can page through the data using the Next and Previous buttons at the bottom of the table, or filter based on a collection of parameters.
+
+ .. figure:: img/4-data_inspectdata.jpg
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The Inspect Data table.
 
 For each data record submitted, the table contains:
 
@@ -31,20 +38,28 @@ Editing data
 
 To edit a data record, locate it in the data table and click Edit in the Action column. The Edit Answers window will appear.
 
-[Insert screenshot of Edit answers window about here]
+ .. figure:: img/4-data_editdata_pop.jpg
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
-The Edit Answers window contains a list of the questions and their responses for that record. Fields that are editable have blue text. When you click on blue text you can edit the answer to that question, clicking Save when you are done, or Cancel to discard the changes. Free text and number questions will display a text field, option questions will display a dropdown menu with the available reponse options, and date question will display a date picker. 
+   The Edit answers window, where you can view and edit responses to a survey that has been submitted to the dashboard.
 
-[insert screen shot of in-progress edit of text field and option question]
+The Edit Answers window contains a list of the questions and their responses for that data record. Fields that are editable have blue text. When you click on blue text you can edit the answer to that question, clicking Save when you are done, or Cancel to discard the changes. Free text and number questions will display a text field, option questions will display a dropdown menu with the available reponse options, and date question will display a date picker. 
+
+ .. figure:: img/4-data_editdata_inprogress.jpg
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
 For photo questions, clicking "Open photo" will open the photo in a new browser window, where you can view or save the photo.
 
-Note: Once you change an answer, this permanently changes the answer in the database and you cannot go back or undo the changes.
+Note: Once you change or delete an answer, this permanently changes the answer in the database and you cannot go back or undo the changes.
 
 Deleting data
 ~~~~~~~~~~~~~
 
-You can delete individual data records by locating a record in the data table and clicking Delete in the Action column.
+You can delete individual data records by locating a record in the data table and clicking Delete in the Action column, or by clicking the Delete button at the top of the Edit answers window for that data record..
 
 Note: Only Admin level users have the Delete option available. This action permanently deletes the data record from the FLOW database and cannot be undown.
 
