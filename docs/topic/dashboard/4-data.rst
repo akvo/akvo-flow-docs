@@ -12,7 +12,7 @@ Inspect Data
 
 The Inspect Data table is a live feed of all the data submitted from devices connected to your FLOW dashboard. Its default view contains all data, with the most recent records at the top. You can page through the data using the Next and Previous buttons at the bottom of the table, or filter based on a collection of parameters.
 
- .. figure:: img/4-data_inspectdata.jpg
+ .. figure:: img/4-data_inspectdata.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -38,7 +38,7 @@ Editing data
 
 To edit a data record, locate it in the data table and click Edit in the Action column. The Edit Answers window will appear.
 
- .. figure:: img/4-data_editdata_pop.jpg
+ .. figure:: img/4-data_editdata_pop.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -47,7 +47,7 @@ To edit a data record, locate it in the data table and click Edit in the Action 
 
 The Edit Answers window contains a list of the questions and their responses for that data record. Fields that are editable have blue text. When you click on blue text you can edit the answer to that question, clicking Save when you are done, or Cancel to discard the changes. Free text and number questions will display a text field, option questions will display a dropdown menu with the available reponse options, and date question will display a date picker. 
 
- .. figure:: img/4-data_editdata_inprogress.jpg
+ .. figure:: img/4-data_editdata_inprogress.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
