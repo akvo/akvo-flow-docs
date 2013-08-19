@@ -71,7 +71,7 @@ Bulk upload data
 
 The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data have been collected offline due to limited connectivity circumstances in the field. The tool imports the selected device data zip and image jpeg files and stores them in the database with the appropriate survey.
 
- .. figure:: img/4-data-bulkupload.png
+ .. figure:: img/4-data_bulkupload.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
