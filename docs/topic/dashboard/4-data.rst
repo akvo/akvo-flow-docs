@@ -92,11 +92,20 @@ After you drop or select the files, you will see a progress bar below informing 
 Data cleaning
 -------------
 
-After data have come in from the field they sometimes require cleaning to correct things like errors or mis-spellings. In data cleaning, you can export a raw data report into Excel, clean the data as necessary, and then re-import the spreadsheet. This action will permanently overwrite the existing data in the database with the cleaned data you import. The spreadsheet you import must by in .xls or .xlsx format.
+After data have come in from the field they sometimes require cleaning to correct things like errors or mis-spellings. In data cleaning, you can export a raw data report into Excel, clean the data as necessary, and then re-import the spreadsheet. This action will permanently overwrite the existing data in the database with the cleaned data you import.
+
+ .. figure:: img/4-data_datacleaning.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The data cleaning section of the Data tab.
+
+The spreadsheet you import must by in .xls or .xlsx format.
 
 To export the raw data report, first select a survey group and survey from the dropdown menus. Click Raw Data Report under Export raw data report and the report will download through your browser. Perform a "Save As" on the report to preserve the original download, and clean the data in the new version.
 
-When you are ready to re-import the cleaned data spreadsheet, select the survey group and survey from the dropdown menus. Click Choose File under Import cleaned survey data, and select the spreadsheet from the location where you saved it on your computer. You'll see the file name appear next to Choose File after you've selected it. Click Import Clean Data and the spreadsheet will begin to import.
+When you are ready to re-import the cleaned data spreadsheet, return to the page and select the survey group and survey from the dropdown menus. Click Choose File under Import cleaned survey data, and select the spreadsheet from the location where you saved it on your computer. You'll see the file name appear next to Choose File after you've selected it. Click Import Clean Data and the spreadsheet will begin to import.
 
 A progress bar will appear below informing you of the content and status of the import. When the import is complete, you'll see a confirmation message. After the initial import, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
 
