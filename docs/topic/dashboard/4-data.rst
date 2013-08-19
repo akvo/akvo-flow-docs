@@ -71,7 +71,16 @@ Bulk upload data
 
 The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data have been collected offline due to limited connectivity circumstances in the field. The tool imports the selected device data zip and image jpeg files and stores them in the database with the appropriate survey.
 
-To load files into the bulk uploader, either drag and drop them into the box on the dashboard, which will start the upload right away, or click "select from computer" and select the files to upload.
+ .. figure:: img/4-data-bulkupload.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The bulk upload section of the Data tab.
+
+There are two ways to load files into the bulk uploader. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
+
+The files you upload must be .zip or .jpg files. 
 
 For instructions on how to pull files off devices and prepare them for upload when the data were collected offline, see the [link to Field Survey app section on this].
 
