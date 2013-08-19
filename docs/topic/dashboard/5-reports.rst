@@ -23,7 +23,14 @@ When you have made your selections, click Build Chart, and the chart will displa
 Exporting data and reports
 --------------------------
 
-There are several different options for report formats. The simplest and most verstaile are the raw data report and raw text file. The comprehenive report includes some basic graphical and statistical analysis, and the printable survey form is a blank survey in Excel format, for printing and distribution if needed.
+There are several different options for report formats. The simplest and most verstaile are the raw data report and raw text file. The comprehensive report includes some basic graphical and statistical analysis, and the printable survey form is a blank survey in Excel format, for printing and distribution if needed.
+
+ .. figure:: img/5-reports_exportreports.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The options for reports of FLOW data.
 
 To run any report, first select a survey group and survey from the top dropdown menus and click the appropriate export button. Once you do, the report will begin running and be delivered via your browser's download settings. Each report will be saved by its type and survey ID number.
 
