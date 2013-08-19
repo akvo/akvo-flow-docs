@@ -6,11 +6,16 @@ The Reports tab in FLOW gives you several options for viewing and exporting data
 Charts
 ------
 
-The FLOW Chart Builder is a data visualization tool for viewing individual survey results quickly on the dashboard in graphical form. The basis for Chart Builder are individual survey question responses from option questions. 
+The FLOW Chart Builder is a data visualization tool for viewing individual survey results quickly on the dashboard in graphical form. The basis for the charts are individual survey question responses to option questions from FLOW surveys submitted to the dashboard.
 
-To use chart builder, first select a survey group, survey, and question from the dropdown menus. Next select the chart type. Three chart types are available -- doughnut charts (like a pie chart), vertical bar charts and horizontal bar charts. If you would like for the smallest items to be grouped together for better viewing, tick the box next to "Group smaller items."
+ .. figure:: img/5-reports_chartbuilder.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
-[insert chart image about here]
+   Chart Builder showing a doughnut chart built from a FLOW survey question.
+
+To use chart builder, first select a survey group, survey, and question from the dropdown menus. Next select the chart type. Three chart types are available -- doughnut charts (like a pie chart), vertical bar charts and horizontal bar charts. If you would like for the smallest items to be grouped together for better viewing, tick the box next to "Group smaller items." This is good if you have a lot of different reponses in small amounts, since it groups everything under 5 percent, and then breaks those items out for you on the right.
 
 When you have made your selections, click Build Chart, and the chart will display below. If you'd like to select a different question or another type of chart, just revisit your selections and press Build Chart to generate a new chart.
 
