@@ -51,6 +51,8 @@ The Edit Answers window contains a list of the questions and their responses for
    :width: 600 px
    :alt: image of dashboard
    :align: center 
+   
+   The Edit answers window, with the editing fields open for a free text question and an option question. For option questions, the edit answers window pre-fills the response options.
 
 For photo questions, clicking "Open photo" will open the photo in a new browser window, where you can view or save the photo.
 
