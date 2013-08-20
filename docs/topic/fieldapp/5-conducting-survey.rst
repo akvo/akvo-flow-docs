@@ -39,29 +39,7 @@ Before you begin collecting data, you must understand that each survey contains 
 Question types
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-LINK TO DASHBOARD SECTION INSTEAD?
-
-Surveys can consist of a number of different question types.
-
-- **Free text question** – The answer to the question is entered by the user in free text.
-
-- **Option question** – The respondent can chose between several answer options proposed. For example: Yes/ No/ Maybe. You can set the number of answers allowed. When limiting it to one specific answer, the options are visible through small selectable circles. If you allow multiple answers, the options will be visible as tickable items. 
-
-- **Dependent questions** – Based on the answer to a question, additional questions are displayed or hidden.
-
-- **Mandatory questions** – A survey cannot be submitted without all the mandatory questions being answered. 
-
-- **Number question** – The answer to the question needs to be a number.  You can choose to allow signs or decimal signs and can also set minimum and maximum values to prevent mistyping. 
-
-- **Geo-location questions** - use the device’s GPS chip to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions.
-
-- **Photo questions** – present the option to take a photo or video to supplement your data. Click the Take Photo or Take Video buttons to use the phone camera. A green check mark appears beside the photo question to indicate that a photo has been taken. *Note: To preview the photo, long-click the checkmark. Press the back button to close the preview. If you wish to replace the photo, click Take Photo again to retake the picture.*
-
-- **Video questions** – It will launch the video camera and instruct the surveyor take a video. (Keep in mind that photos and videos take up a lot of memory when deciding to put in these types of questions).
-
-- **Date** – This will record the date.
-
-- **Barcode** – It will launch the barcode reader app of your phone (You will need to have download it on your smartphone before) and instruct you to scan the barcode of a facility.
+Each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the device screen. The different question types are explianed in detial in the Akvo FLOW dashbaord section about surveys.
 
 
 Help options
