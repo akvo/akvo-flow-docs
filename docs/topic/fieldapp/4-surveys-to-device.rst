@@ -80,4 +80,4 @@ Before you start, you need the ID of the survey. On the dashboard, you can find 
 
 Manual transfer (bootstrap)
 ---------------------------
-REFER TO DASHBOARD PART CAETIE??????
+Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network. How to do this is described in the Manual survey transfer section of the Akvo FLOW dashboard documentation.
