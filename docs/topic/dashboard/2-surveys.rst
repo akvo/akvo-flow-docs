@@ -195,7 +195,7 @@ You can rearrange the position of question groups after you've created them by c
 
 **To copy a question group within a survey:**
 
-Click the copy button next to the group name. Paste Group Here buttons will appear in all of the available places to paste a copy of the question group. Click the Paste Group Here button where you'd like to position the question group copy, and it will copy to that location along with all the question within it.
+Click the copy button next to the group name. Paste Group Here buttons will appear in all of the available places to paste a copy of the question group. Click the Paste Group Here button where you'd like to position the question group copy, and it will copy and paste to that location along with all the question within it.
 
  .. figure:: img/2-surveys_copyquestiongroup_button.png
    :width: 600 px
@@ -216,9 +216,9 @@ Click the copy button next to the group name. Paste Group Here buttons will appe
    :alt: image of dashboard
    :align: center 
 
-   The question group will be copied to the selected position and the groups will re-number.
+   The question group will be copied and pasted to the selected position and the groups will re-number.
    
-The difference between moving and copying a question group is that for a *move*, the question group just changes position in the survey, whereas for a *copy*, the group remains in its current location and a copy (that includes the questions within the group) is placed in the new selected location.
+The difference between moving and copying a question group is that for a *move*, the question group just changes position in the survey, whereas for a *copy*, the group remains in its current location and a copy (that includes the questions within the group) is pasted in the new selected location.
 
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
