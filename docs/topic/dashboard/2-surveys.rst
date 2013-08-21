@@ -437,7 +437,9 @@ Enter the recipient's email address, select an Event type, Option and expiration
    The notification details appear below after you click Add.
 
 **Email address** - the email address to which the notification should be sent. Does not need to be a registered FLOW user.
+
 **Event**
+
 * Raw data reports (nightly) - generates and sends a raw data report each night if new data are submitted for the survey
 Survey submission - send a notifcation each time a survey is submitted from the field (note: this can product a high volume of emails) 
 * Survey approval - send a notification each time a survey is approved
