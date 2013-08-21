@@ -101,7 +101,30 @@ Click on the SURVEYS tab from the top menu. This is also the home page when you 
 
 Click on a survey group from the Survey Groups list on the left. Surveys contained within that group will load in the main body of the page (this is the Survey Group Overview). 
 
-For a new survey, click on “Create a new survey” in the upper right hand corner of the Survey Group Overview. The Edit survey window will appear in the main body of the page. Enter the required elements in the left bar: Title and Type. Click Save, which will causes the Id number to be filled in with the Survey ID number.
+For a new survey, click on “Create a new survey” in the upper right hand corner of the Survey Group Overview. 
+
+ .. figure:: img/2-surveys_createnewsurvey_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Create a new survey.
+
+The Edit survey window will appear in the main body of the page. Enter the required elements in the left bar: Title and Type. Click Save, which will causes the Id number to be filled in with the Survey ID number.
+
+ .. figure:: img/2-surveys_enternewsurveydetails.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   After clicking Create New Survey, enter the details for the survey in the left panel. The Title and Type are required. The default Master Language is English. You can also edit these details anytime from this panel.
+   
+ .. figure:: img/2-surveys_versionnumber.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   After you enter the survey details and click Save, the ID number for the survey will appear in the left panel.
 
 To edit an existing survey, hover over the name of the survey with your mouse cursor and click the Edit button that appears below the survey details.
 
