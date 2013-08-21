@@ -137,9 +137,30 @@ To add or edit a question group:
 
 Click on "+ Insert group here." Group #, New group - please change name” appears in the group title spot. Click Edit Group Name to change the name of the group and click Save. 
 
+ .. figure:: img/2-surveys_insertquestiongroup_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Insert a new question group.
+   
+ .. figure:: img/2-surveys_editquestiongroupname.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Edit the question group name and click Save.
+
 **View the questions within a question group:**
 
 Click Show Questions next to the question group and all the questions in that group will appear below. You can only have the questions showing for one survey group at a time. Click Hide Questions to hide the questions again, or just click Show Questions for another group.
+
+ .. figure:: img/2-surveys_showquestions.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Show the questions in a question group.
 
 **To delete a question group:**
 
@@ -151,9 +172,51 @@ Note: You cannot delete a question group that contains one or more survey questi
 
 You can rearrange the position of question groups after you've created them by clicking the Move button next to a survey group. This will show you a Move Group Here button in each new possible location. Click the Move Group Here button where you'd like the new position to be. The group will move accordingly and all the groups will re-number.
 
+ .. figure:: img/2-surveys_movequestiongroup_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Move a question group button
+   
+ .. figure:: img/2-surveys_movequestiongroup.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Move a question group
+   
+ .. figure:: img/2-surveys_movequestiongroup_result.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Move a question group result
+
 **To copy a question group within a survey:**
 
 Click the copy button next to the group name. Paste Group Here buttons will appear in all of the available places to paste a copy of the question group. Click the Paste Group Here button where you'd like to position the question group copy, and it will copy to that location along with all the question within it.
+
+ .. figure:: img/2-surveys_copyquestiongroup_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Copy a question group button
+   
+ .. figure:: img/2-surveys_copyquestiongroup.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Copy a question group
+   
+ .. figure:: img/2-surveys_copyquestiongroup_result.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Copy a question group result
 
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
