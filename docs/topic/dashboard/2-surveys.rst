@@ -226,7 +226,7 @@ Creating and editing survey questions
 Editing survey questions
 ++++++++++++++++++++++++
 
-After creating at least one survey group, click Show Questions next to the survey group. Click Add New Question in the position you want the new question, or click Edit next to an existing question.
+After creating at least one survey group, click Show Questions next to the survey group. Click Add New Question in the position you want the new question, or click Edit next to an existing question, and you will see the question details screen.
 
  .. figure:: img/2-surveys_editquestionscreen.png
    :width: 600 px
