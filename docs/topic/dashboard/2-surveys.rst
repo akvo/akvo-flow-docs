@@ -246,7 +246,7 @@ In the question details screen that appears, you can fill out the core parameter
    
 Selecting option and number question types will display additional elements for you to fill out. 
 
-For option questions, you will enter options in the text box that appears below, entering each option on a seperate line. On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". You can allow device users to enter an Other option by ticking the box next to "Allow other".
+For option questions, you will enter options in the text box that appears below, entering each option on a seperate line. On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
 
  .. figure:: img/2-surveys_editquestion_optiondetails.png
    :width: 600 px
@@ -255,7 +255,7 @@ For option questions, you will enter options in the text box that appears below,
 
    The additional details you can enter for option questions.
 
-For number questions, there are a few additional settings you can enable. All of these settings are optional. By default, device users cannot enter a positive or negative sign or decimal poinr for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
+For number questions, there are a few additional settings you can enable. All of these settings are optional. By default, device users cannot enter a positive or negative sign or decimal point for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
 
 You can also set minumum and/or maximum values for the numbers that the device user can enter. This will prevent them from being able to submit responses outside the specified range.
 
@@ -278,21 +278,21 @@ You can build FLOW surveys that are adaptive to the answers provided by the resp
 
 Dependent questions operate on option questions that preceed the dependent question. 
 
-To set a dependency, tick the box next to "Dependent" in the question detail screen. This will display a dropdown list that contains all the option questions that preceed the current question. Select the question upon which you want the current question to be dependent. The possible responses to that question will appear below. Tick the box next to the response, and the current question will only appear on the device if that responses is selected. You can also select more than one response.
+To set a dependency, tick the box next to "Dependent" in the question detail screen. This will display a dropdown list that contains all the option questions that preceed the current question. Select the question upon which you want the current question to be dependent. The possible responses to that question will appear below. Tick the box next to the response, and the current question will only appear on the device if that response is selected. You can also select more than one response.
 
  .. figure:: img/2-surveys_editquestion_settingdependency.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Setting dependency question
+   Setting the dependent question.
    
  .. figure:: img/2-surveys_editquestion_settingdependencyresponse.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Setting dependency answer
+   Setting the dependent question response.
 
 When you are finished, click Save Question at the bottom of the question details screen, which will return you to the list of questions for that group and you can continue building or editing the survey. 
 
@@ -307,14 +307,14 @@ At any point, you can preview a survey by clicking the preview button on the bot
    :alt: image of dashboard
    :align: center 
 
-   Preview button from the survey screen
+   The Preview button from the survey screen.
    
  .. figure:: img/2-surveys_preview_surveygroup.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   Preview button from the survey group screen
+   The Preview button from the survey group screen.
 
 The survey preview shows you the survey as it currently stands. It will show you all of the questions in the survey, but if you begin to fill it out and there are dependent questions, the survey display will adapt to the responses. Any responses filled in the preview screen will be discarded when you close the preview window.
 
@@ -323,7 +323,7 @@ The survey preview shows you the survey as it currently stands. It will show you
    :alt: image of dashboard
    :align: center 
 
-   Preview button from the survey group screen
+   A survey preview.
 
 
 Publishing a survey
