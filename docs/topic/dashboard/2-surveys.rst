@@ -413,17 +413,36 @@ Notifications are either tied to certain events (survey approval, survey submiss
 
 From the left panel of the Edit Survey screen, click on "+ Manage Notifications". This will bring up a screen where you can enter the details of each notification.
 
-[insert screenshot of Notifications screen about here]
+ .. figure:: img/2-surveys_managenotifications_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The Manage Notifications button.
+   
+ .. figure:: img/2-surveys_managenotifications.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Enter the notification details: email address, event type, option type and expiration date; and click Add.
 
 Enter the recipient's email address, select an Event type, Option and expiration date. Click Add and you will see the details appear below.
 
-Email address - the email address to which the notification should be sent. Does not need to be a registered FLOW user.
-Event - 
-Raw data reports (nightly) - generates and sends a raw data report each night if new data are submitted for the survey
+ .. figure:: img/2-surveys_managenotifications_result.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   The notification details appear below after you click Add.
+
+**Email address** - the email address to which the notification should be sent. Does not need to be a registered FLOW user.
+**Event**
+* Raw data reports (nightly) - generates and sends a raw data report each night if new data are submitted for the survey
 Survey submission - send a notifcation each time a survey is submitted from the field (note: this can product a high volume of emails) 
-Survey approval - send a notification each time a survey is approved
-Option - choose whether to include a download link in the email, or to send any file as an attachment
-Expires - choose the end date for notification. After this date the user will no longer receive emails for the selected survey event.
+* Survey approval - send a notification each time a survey is approved
+* Option - choose whether to include a download link in the email, or to send any file as an attachment
+* Expires - choose the end date for notification. After this date the user will no longer receive emails for the selected survey event.
 
 If you want multiple event notifications sent to the same user, you must enter them individually.
 
