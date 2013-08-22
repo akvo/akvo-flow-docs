@@ -11,7 +11,8 @@ When you click the **survey** icon
    :width: 200 px
    :alt: image of phone
    :align: center
-for the survey you wish to open, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
+   
+For the survey you wish to open, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
 
 From within the survey, clicking the **Menu** button will display a menu from which you can select your desired survey language(s) and change the question text size. Other options available from this menu are **Clear** which will erase all survey responses from the screen and **Save and Start New** which will save the current answers WITHOUT sending them to the server and start a new survey.  Once a survey is completed the **Submit** button should always be used to send the data to the central database.
 
@@ -37,20 +38,37 @@ Navigating a survey
 Before you begin collecting data, you must understand that each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab.  
 
 Question types
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~
 
 Each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the device screen. The different question types are explianed in detial in the Akvo FLOW dashbaord section about surveys.
 
 
 Help options
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
 
 Surveys can be configured to include help options. Help can take the form of text, a series of images or a video. If help is available for a specific question the **help** icon IMAGE help_icon.png is displayed next to the question text. Click this icon to open the help tool.
 
 Language
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
 
-TEXT ABOUT LANGUAGE FEATURES> BLOG CAETIE BASIC INSTRUCTIONS???
+If you've created surveys with translations on the dashbaord and assigned them to your devices, you can access those translations on the device for conducting surveys in the field.
+
+**Navigate and display translations on device:**
+
+To display one or more translations for a survey, first tap the survey icon for your survey from the field survey app home screen. This will open the survey.
+
+From here, tap your device’s menu button, which will prompt a set of options to slide up from the bottom of the screen. Select Languages. This will display all of the available translations (ie, the ones you entered on the dashboard) for all the surveys on the device.
+
+ .. figure:: img/5-conducting-surveys_devicelanguages.jpg
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+   Selecting a language for survey display.
+   
+Tick one or more of the language boxes. Ticking just one language will display just that language for the survey. Ticking more than one will display multiple languages in different colors. The question text, question options, and tooltips will display in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
+
+Complete the survey and click the Submit button at the end. The notifications bar across the top of the phone screen will tell you when the survey data has been successfully submitted. You can also check this from the Survey Status icon from the app home screen, from Review Submitted Surveys.
 
 
 Submitting a survey
