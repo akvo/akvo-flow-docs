@@ -456,11 +456,16 @@ To delete a notification, locate it in the list of existing notifications and cl
 Manage Translations
 -------------------
 
-cmo note: we may want this to be it's own page
-
 FLOW allows users to enter alternate translations for surveys on the dashboard, and then make those available on the Field Survey app. This allows data collectors in the field to conduct surveys in their local language.
 
-Survey translations work in the FLOW dashboard version 1.6.0 and higher, and FLOW field survey app version 1.11.0 and higher. Akvo updates your dashboard automatically, but You need to update your field survey app to the latest version to use translations and other new features. If you don’t update the app, you’ll still be able to enter translations on the dashboard, but you won’t see them when you access the languages list on the field survey app.
+Survey translations work in the FLOW dashboard version 1.6.0 and higher, and FLOW field survey app version 1.11.0 and higher. Akvo updates your dashboard automatically, but you need to update your field survey app to the latest version to use translations and other new features. If you don’t update the app, you’ll still be able to enter translations on the dashboard, but you won’t see them when you access the languages list on the field survey app.
+
+ .. figure:: img/2-surveys_translationsurveyplusphone.jpg
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
+
+   Survey translations in Akvo FLOW.
 
 To build survey translations into a FLOW survey, you follow the same core workflow, but will use the Master Language and Manage Translations tools in the left panel of the Edit Survey screen.
 
@@ -476,16 +481,26 @@ From the SURVEYS tab, select a survey group from the left panel in which you’d
 
 If it’s a new survey, in the Edit survey panel that appears on the left, enter a title for the survey and select a type (both required). Here is where you set the master language for the survey: if you want to change it to something other than English (the default) do that from the MASTER LANGUAGE dropdown. You should not change the master language after you’ve begun to collect data with the survey, so make sure your selection is correct.
 
-[insert image of left panel with master language and manage translations highlighted about here]
+ .. figure:: img/2-surveys_managetranslations_button.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
+   To work with survey translations, first set the Master Language, then click +Manage Translations.
+   
 Click Save at the bottom of the left panel. You’ll see a number appear next to ID Number in the left panel after you do this. This is the survey ID.
 
 If you are creating a new survey, you’ll create question groups, and then add questions to them. If not, you’ll simply enter translations for the existing questions.
 
 First complete and save the survey in the master language. When you are satisfied, click the “+ MANAGE TRANSLATIONS” button in the left panel. This will bring up the Survey translation screen for the survey. Here you can add one or more translations to your survey. Along the top you’ll see the default (master) language, the existing translations (if you’ve created any) and an ADD NEW TRANSLATION dropdown. Below, you’ll see the master survey details on the left, and the details for the translation on the right, with text boxes to enter a translation for each item.
 
-[Insert image of Survey Translation screen about here]
+ .. figure:: img/2-surveys_translationscreen.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
+   The screen for entering and managing survey translations.
+   
 Select a language from the ADD NEW TRANSLATION dropdown along the top of the Survey translation section. Two buttons, ADD and CANCEL, will appear to the right of the dropdown when you do this. Click ADD to proceed with entering a translation for that language. “Survey details in [selected language]” will appear as the heading for the right-hand translation section.
 
 Enter translations for each survey question, tooltip, and question option (if it’s an option question). The translations for survey title, survey description and question group name will not be visible on the device in this version, but they will be in future versions, so you can enter them as well.
