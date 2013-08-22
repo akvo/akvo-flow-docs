@@ -511,19 +511,7 @@ When you have completed the translation(s) of your survey, from the bottom left 
 
 Once the survey has been published, create a new survey assignment specifying the new survey and all devices that should receive it.
 
-**Navigate and display translations on device:**
 
-Once you have loaded the survey with translations onto a device, you can select any of the available languages and conduct surveys in them. To display one or more translations for a survey, first tap the survey icon for your survey from the field survey app home screen. This will open the survey.
-
-From here, tap your device’s menu button, which will prompt a set of options to slide up from the bottom of the screen. Select Languages. This will display all of the available translations (ie, the ones you entered on the dashboard) for all the surveys on the device.
-
-[Insert image of selecting Languages after pressing Menu on device about here]
-
-[Insert image of languages list on device about here]
-
-Tick one or more of the language boxes. Ticking just one language will display just that language for the survey. Ticking more than one will display multiple languages in different colors. The question text, question options, and tooltips will display in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
-
-Complete the survey and click the Submit button at the end. The notifications bar across the top of the phone screen will tell you when the survey data has been successfully submitted. You can also check this from the Survey Status icon from the app home screen, from Review Submitted Surveys.
 
 
 
