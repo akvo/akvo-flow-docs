@@ -511,6 +511,18 @@ When you have completed the translation(s) of your survey, from the bottom left 
 
 Once the survey has been published, create a new survey assignment specifying the new survey and all devices that should receive it.
 
+Read about conducting surveys using translations in the device section [link to fieldapp/5-conducting-surveys.rst]
+
+**Check data on the dashboard and run reports**
+
+Once you have submitted data from the device, return to the dashboard and visit the DATA tab. From the Inspect Data table, you will see a live feed of the data submitted from all devices connected to your FLOW dashboard.
+
+To view an individual data record, click Edit from the Action column on the far right of the Inspect Data table. Here you will see the questions and data you submitted in the master language of your survey. Free text answers will of course appear however they were typed into the device.
+
+To run a data report for your survey, go to the REPORTS tab and to the Export Reports section. Select the survey group that contains your survey from the Select Survey Group dropdown, and then select your survey from the Select Survey dropdown once it populates with the surveys from the selected survey group.
+
+Click the Raw Data Report button. The Loading icon will appear while your report runs. Depending on which browser you are using, the browser will notify you when the report is ready. Open it in Excel and you will see all the questions and data submitted to date in the master language of your test survey. The data do not currently export in any of the translations, only in the master language.
+
 
 
 
