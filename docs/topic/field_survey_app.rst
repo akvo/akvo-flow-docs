@@ -14,8 +14,7 @@ Contents:
    
    fieldapp/1-phone-requirements
    fieldapp/2-preparing-device
-   fieldapp/3-getting-surveys-on-device
-   fieldapp/4-conducting-survey
-   fieldapp/91-settings-and-preferences
-   fieldapp/92-troubleshooting
-   fieldapp/EXAMPLE
+   fieldapp/3-launching-app
+   fieldapp/4-surveys-to-device
+   fieldapp/5-conducting-survey
+   fieldapp/6-post-survey
