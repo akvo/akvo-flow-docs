@@ -4,7 +4,7 @@
    contain the root `toctree` directive
 
 ----------------------------------------------
-The Dashboard
+Training Materials
 ----------------------------------------------
 
 Contents:
@@ -12,14 +12,7 @@ Contents:
 .. toctree::
    :maxdepth: 4
    
-   dashboard/1-overview
-   dashboard/2-surveys
-   dashboard/3-devices
-   dashboard/4-data
-   dashboard/5-reports
-   dashboard/6-maps
-   dashboard/7-users
-   dashboard/8-messages
-   dashboard/9-troubleshooting
+   training/1-overview
+
    
    
