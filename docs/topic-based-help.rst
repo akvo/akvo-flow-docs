@@ -14,4 +14,5 @@ Contents:
    
    topic/field_survey_app
    topic/dashboard
+   topic/training
    
