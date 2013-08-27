@@ -10,9 +10,11 @@ The devices tab is mission central for managing all the devices connected with y
 Connecting and viewing a device on the dashboard
 ------------------------------------------------
 
-First install the latest version of the Field Survey app on your device (link to Getting Phone Ready). While connected to a wireless or mobile network, open the app on the device, which will send a ping to the corresponding dashboard to connect it.
+First install the latest version of the Field Survey app on your device. While connected to a wireless or mobile network, open the app on the device, which will send a ping to the corresponding dashboard to connect it.
 
-From inside the app, set a User (link to article) and Device ID (link to getting phone ready).
+From inside the app, set a User and Device ID.
+
+Read more about `Preparing your devices for FLOW <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html>`_ and `Launching and setting up the Field Survey app <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/3-launching-app.html>`_.
 
 To confirm that the device has connected successfully, visit the Devices tab on the dashboard and check for the device in the Devices List.
 
@@ -156,9 +158,6 @@ Saving an assignment will trigger the surveys you selected to download onto the 
 
 Find it in the Assignments List and click the Edit icon in the Action column for that assignment.
 
-Back up options: (should figure out where to put these)
-If they do not download within a few minutes, from the Field Survey app home screen tap Settings > Download Survey. You will be promoted for the admin passcode (12345) and then for the survey ID for the survey you wish to download. You can find this ID on the Dashboard in the Edit survey page in the left panel for your test survey.
-
 
 Manual survey transfer
 ----------------------
@@ -180,10 +179,6 @@ Select a survey from the list by clicking to highlight and then click “+ add s
 
 *In 02. Notification details*, enter the email address to which you'd like to send the survey file. You can enter just one email address. 
 
-Once you are finished, click the Send File button. You'll see a confirmation pop-up. Check your email for an email from "FLOW" with the subject line "FLOW bootstrap file." The email will contain a link to download the bootstrap file. Click the link to download the file to your computer.
-
-**To transfer the file on to to your device:**
-
-Link to app section on this
+Once you are finished, click the Send File button. You'll see a confirmation pop-up. Check your email for an email from "FLOW" with the subject line "FLOW bootstrap file." The email will contain a link to download the bootstrap file. Click the link to download the file to your computer. Once you've done that, you can transfer the file to your device by connecting it to the same computer where you downloaded the survey file.
 
 
