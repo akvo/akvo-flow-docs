@@ -59,7 +59,7 @@ Deleting data
 
 You can delete individual data records by locating a record in the data table and clicking Delete in the Action column, or by clicking the Delete button at the top of the Edit answers window for that data record..
 
-Note: Only Admin level users have the Delete option available. This action permanently deletes the data record from the FLOW database and cannot be undown.
+Note: Only Admin level users have the Delete option available. This action permanently deletes the data record from the FLOW database and cannot be undone.
 
 
 Bulk upload data
@@ -74,11 +74,9 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
    The bulk upload section of the Data tab.
 
-There are two ways to load files into the bulk uploader. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
+There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
 
 The files you upload must be .zip or .jpg files. 
-
-For instructions on how to pull files off devices and prepare them for upload when the data were collected offline, see the [link to Field Survey app section on this].
 
 Note: Navigating away from the page while the upload is in progress, either by navigating elsewhere on the dashboard or closing the browser window will interrupt and cancel the upload in progress.
 
@@ -104,13 +102,5 @@ To export the raw data report, first select a survey group and survey from the d
 When you are ready to re-import the cleaned data spreadsheet, return to the page and select the survey group and survey from the dropdown menus. Click Choose File under Import cleaned survey data, and select the spreadsheet from the location where you saved it on your computer. You'll see the file name appear next to Choose File after you've selected it. Click Import Clean Data and the spreadsheet will begin to import.
 
 A progress bar will appear below informing you of the content and status of the import. When the import is complete, you'll see a confirmation message. After the initial import, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
-
-
-sample link callout
-
-
-Example of a page link:
-`Navigating the map <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/6-maps#navigating-the-map.html>`_ 
-
 
 
