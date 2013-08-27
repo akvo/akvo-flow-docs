@@ -19,13 +19,13 @@ Access to each tool menu is limited by permissions so not all functions will be 
 
 All Dashboard pages are contained and displayed within your organizations Dashboard URL. This means that clicking your browser's "Back" arrow button will take you away from the Dashboard to whatever webpage you had previously visited before starting your Dashboard session. Instead, clicking on **Dashboard** will always bring you back to the Dashboard home. 
    
-The Akvo FLOW Development Team frequently updates the Dashboard with new or enhanced features, so check our roadmap page for updates at www.akvo.org/web/flow [insert correct link]
+The Akvo FLOW Development Team frequently updates the Dashboard with new or enhanced features, so check our github page for updates at https://github.com/akvo/akvo-flow/releases. 
 
  
    
 Getting started with the Dashboard
------------------
+----------------------------------
 
 Gmail account
-^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 The Dashboard is controlled by permissions and a free Gmail account is required in order to access the Dashboard. If you do not already have a Gmail account, go to https://www.google.com/accounts/NewAccount and create one and then email your Gmail username to a FLOW administrator and they will give you access to the Dashboard. 
