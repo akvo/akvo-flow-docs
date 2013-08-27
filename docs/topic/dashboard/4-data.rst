@@ -106,7 +106,11 @@ When you are ready to re-import the cleaned data spreadsheet, return to the page
 A progress bar will appear below informing you of the content and status of the import. When the import is complete, you'll see a confirmation message. After the initial import, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
 
 
+sample link callout
 
+
+Example of a page link:
+`Navigating the map <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/6-maps#navigating-the-map.html>`_ 
 
 
 
