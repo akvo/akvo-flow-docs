@@ -511,7 +511,8 @@ When you have completed the translation(s) of your survey, from the bottom left 
 
 Once the survey has been published, create a new survey assignment specifying the new survey and all devices that should receive it.
 
-Read about conducting surveys using translations in the device section [link to fieldapp/5-conducting-surveys.rst]
+Read about using translations on the device in the `conducting surveys section <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/5-conducting-surveys.html>`_.
+
 
 **Check data on the dashboard and run reports**
 
