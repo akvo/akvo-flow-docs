@@ -164,7 +164,7 @@ You may first need to change a security setting to allow apps for a source other
 1.	Open the Gmail app on your phone 
 
 .. figure:: img/2-2gmail_icon.png
-   :width: 30 px
+   :width: 90 px
    :alt: image of phone
    :align: center
 
