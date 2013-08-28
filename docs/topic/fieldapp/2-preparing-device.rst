@@ -5,7 +5,7 @@ Before you install the Field Survey App
 ------------------------------------------
 Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
 
-• 	Configure Gmail on the phone
+• 	`Configure Gmail on the phone <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-gmail-on-phone.html>`_  
 •	Configure Android settings for software download
 •	Set up Wi-Fi
 •	Set Access Point Name (APN)
