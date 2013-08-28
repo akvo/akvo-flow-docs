@@ -48,6 +48,10 @@ Help options
 
 Surveys can be configured to include help options. Help can take the form of text, a series of images or a video. If help is available for a specific question the **help** icon IMAGE help_icon.png is displayed next to the question text. Click this icon to open the help tool.
 
+.. figure:: img/help_icon.png
+   :width: 200 px
+   :align: center
+
 Language
 ~~~~~~~~
 
