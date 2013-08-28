@@ -5,14 +5,14 @@ Conducting a FLOW survey
 
 Surveys that are assigned to your phone appear on the Field Survey home screen when you launch the application. 
 
-When you click the **survey** icon 
+Click the **survey** icon 
 
 .. figure:: img/survey_icon.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
-For the survey you wish to open, the survey opens, allowing you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
+for the survey you wish to open. The survey opens and allows you to enter responses to the questions. When you finish entering responses, you submit the survey and the data is sent to the FLOW dashboard, where it will be stored and analysed.
 
 From within the survey, clicking the **Menu** button will display a menu from which you can select your desired survey language(s) and change the question text size. Other options available from this menu are **Clear** which will erase all survey responses from the screen and **Save and Start New** which will save the current answers WITHOUT sending them to the server and start a new survey.  Once a survey is completed the **Submit** button should always be used to send the data to the central database.
 
