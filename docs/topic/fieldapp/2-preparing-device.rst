@@ -11,7 +11,7 @@ Before you install the Field Survey App on your phone, ensure that your phone is
 •	`Set Access Point Name (APN) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_ 
 •	`Calibrate GPS <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_ 
 
-How to do this is described below.
+How to do this is described in the sections below.
 
 
 Configure Gmail on phone
