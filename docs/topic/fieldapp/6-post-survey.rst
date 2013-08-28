@@ -13,7 +13,7 @@ Check transmission history
 
 Check SD card status
 --------------------
-After data collection, you need to check if there is enough space available on your SD card for your next field visit. How to do this, see Check SD card status.
+After data collection, you need to check if there is enough space available on your SD card for your next field visit. How to do this, see `Check SD card status <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/3-launching-app.html#check-sd-card-status.html>`_ .     
 
 
 Clearing devices of data 
