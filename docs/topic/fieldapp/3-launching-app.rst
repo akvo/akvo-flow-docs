@@ -2,8 +2,8 @@ Launching the Field Survey app
 ==============================
 Before you start using the Field Survey App, you must do the following on your phone:
 
-•	Connect the phone to a Wi-Fi network or mobile data connection.
-•	Set the Access Point Name (APN) 
+•	`Connect the phone to a Wi-Fi network or mobile data connection.
+•	`Set the Access Point Name (APN) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_  
 
 **To start the application:**
 
