@@ -8,7 +8,7 @@ Surveys that are assigned to your phone appear on the Field Survey home screen w
 Click the **survey** icon for the survey you wish to open.
 
 .. figure:: img/survey_icon.png
-   :width: 200 px
+   :width: 90 px
    :alt: image of phone
    :align: center
    
@@ -99,7 +99,7 @@ Surveys responses are automatically saved as you answer them. If you want to sav
 When you have to stop a survey midway and then continue it later, you can retrieve the partly filled survey using the Review Saved Surveys feature. 
 
 .. figure:: img/5-3review_saved_surveys.png
-   :width: 200 px
+   :width: 90 px
    :align: center
 (For example, you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the survey.)  
 
