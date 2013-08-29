@@ -45,7 +45,7 @@ Working with survey groups
 The Survey Overview page for each survey group shows all the surveys in that group. To see the overview page, click on a Survey Group name in the list on the left. Each survey in the overview shows the date the survey was created, date it was last modified, type and master language. Hovering over the survey name with your mouse cursor will show four action options: Edit, Preview, Delete and Copy.
 
  .. figure:: img/2-surveys_highlightsurvey.png
-   :width: 600 px
+   :width: 300 px
    :alt: image of dashboard
    :align: center 
 
@@ -56,7 +56,7 @@ The Survey Overview page for each survey group shows all the surveys in that gro
 Click Add New Group in the left panel. A text field will appear below. Type the name of the new survey group in here, and press Save to add it to the list below, or Cancel to discard the change.
 
  .. figure:: img/2-surveys_createsurveygroup.png
-   :width: 600 px
+   :width: 300 px
    :alt: image of dashboard
    :align: center 
 
@@ -71,14 +71,14 @@ Click on the survey group in the left panel. The surveys in that group will disp
    :alt: image of dashboard
    :align: center 
 
-   Click Edit Group Name next to the survey group name. The box below will appear, with the current name pre-filled.
+Click Edit Group Name next to the survey group name. The box below will appear, with the current name pre-filled.
 
  .. figure:: img/2-surveys_editsurveygroupname_entertext.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
-   Enter the new name for the survey group and click Save.
+Enter the new name for the survey group and click Save.
 
 **To delete a survey group:**
 
@@ -113,14 +113,14 @@ For a new survey, click on “Create a new survey” in the upper right hand cor
 The Edit survey window will appear in the main body of the page. Enter the required elements in the left bar: Title and Type. Click Save, which will causes the Id number to be filled in with the Survey ID number.
 
  .. figure:: img/2-surveys_enternewsurveydetails.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
    After clicking Create New Survey, enter the details for the survey in the left panel. The Title and Type are required. The default Master Language is English. You can also edit these details anytime from this panel.
    
  .. figure:: img/2-surveys_versionnumber.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
@@ -249,7 +249,7 @@ Selecting option and number question types will display additional elements for 
 For option questions, you will enter options in the text box that appears below, entering each option on a seperate line. On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
 
  .. figure:: img/2-surveys_editquestion_optiondetails.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
@@ -281,14 +281,14 @@ Dependent questions operate on option questions that preceed the dependent quest
 To set a dependency, tick the box next to "Dependent" in the question detail screen. This will display a dropdown list that contains all the option questions that preceed the current question. Select the question upon which you want the current question to be dependent. The possible responses to that question will appear below. Tick the box next to the response, and the current question will only appear on the device if that response is selected. You can also select more than one response.
 
  .. figure:: img/2-surveys_editquestion_settingdependency.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
    Setting the dependent question.
    
  .. figure:: img/2-surveys_editquestion_settingdependencyresponse.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
@@ -359,7 +359,7 @@ Click the MESSAGES tab from the top menu to move over to the Messages page to co
 When you return to the Edit survey screen, you'll see the version number of the survey in the left panel.
 
  .. figure:: img/2-surveys_publish_published.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
@@ -414,7 +414,7 @@ Notifications are either tied to certain events (survey approval, survey submiss
 From the left panel of the Edit Survey screen, click on "+ Manage Notifications". This will bring up a screen where you can enter the details of each notification.
 
  .. figure:: img/2-surveys_managenotifications_button.png
-   :width: 600 px
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 
