@@ -359,7 +359,7 @@ Click the MESSAGES tab from the top menu to move over to the Messages page to co
 When you return to the Edit survey screen, you'll see the version number of the survey in the left panel.
 
  .. figure:: img/2-surveys_publish_published.png
-   :width: 400 px
+   :width: 200 px
    :alt: image of dashboard
    :align: center 
 
