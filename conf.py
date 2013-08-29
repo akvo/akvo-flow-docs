@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'FLOW'
-copyright = u'2012, Mark Tiele Westra, Caetie Ofiesh'
+copyright = u'2013, Mark Tiele Westra, Caetie Ofiesh, Laura Roverts'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -186,7 +186,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'FLOW.tex', u'FLOW Documentation',
-   u'Mark Tiele Westra, Caetie Oafiesh', 'manual'),
+   u'Mark Tiele Westra, Caetie Ofiesh', 'Laura Roverts', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
