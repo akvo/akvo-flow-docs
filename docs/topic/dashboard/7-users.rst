@@ -35,7 +35,7 @@ Editing or deleting a user
 To edit or delete an existing user, locate the user in the table and in that row, click the Edit or Delete icon in the Action column.
 
  .. figure:: img/actioncolumn.png
-   :width: 600 px
+   :width: 300 px
    :alt: image of dashboard
    :align: center 
 
