@@ -14,12 +14,12 @@ Contents:
    
    dashboard/1-overview
    dashboard/2-surveys
-   dashboard/3-assigning_surveys
-   dashboard/4-data_management
+   dashboard/3-devices
+   dashboard/4-data
    dashboard/5-reports
-   dashboard/6-analysis
-   dashboard/7-mapping
-   dashboard/8-users
-   dashboard/9-admin
+   dashboard/6-maps
+   dashboard/7-users
+   dashboard/8-messages
+   dashboard/9-troubleshooting
    
    

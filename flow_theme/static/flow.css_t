@@ -8,10 +8,6 @@
  font-size:110%;
  }
  
- a.current.reference.internal{
- color: #ffffff;
- }
- 
 .toctree-l3 a {
  font-size:100%;
  }
@@ -51,6 +47,26 @@ div.bodywrapper {
 
 div.sphinxsidebar {
 width: 300px;
+}
+
+div.document {
+  background-color: #F8F8F8;
+}
+
+div.sphinxsidebar a {
+  color: #5897C2;
+}
+
+div.sphinxsidebar h3 {
+  color: #355f7c;
+}
+
+div.sphinxsidebar h3 a {
+  color: #355f7c;
+}
+
+div.sphinxsidebar input {
+  border-color: #355f7c;
 }
 
 ol.arabic li {

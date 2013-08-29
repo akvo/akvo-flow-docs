@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive
  
------------------------------------------------- 
+--------------------
 The FLOW Android App
-------------------------------------------------
+--------------------
 
 Contents:
 
@@ -13,15 +13,8 @@ Contents:
    :maxdepth: 4
    
    fieldapp/1-phone-requirements
-   fieldapp/2-preparing-phone
-   fieldapp/3-installing-survey-app
-   fieldapp/4-updating-survey-app
-   fieldapp/5-launching-survey-app
-   fieldapp/6-getting-survey-on-phone
-   fieldapp/7-managing-users
-   fieldapp/8-opening-and-filling-survey
-   fieldapp/9-submitting-survey
-   fieldapp/91-checking-survey-data-submission
-   fieldapp/92-settings-and-preferences
-   fieldapp/93-troubleshooting
-   fieldapp/EXAMPLE
+   fieldapp/2-preparing-device
+   fieldapp/3-launching-app
+   fieldapp/4-surveys-to-device
+   fieldapp/5-conducting-survey
+   fieldapp/6-post-survey
