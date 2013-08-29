@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-================================
+=============
 Welcome pages
-================================
+=============
 
-Welcome to Akvo FLOW! 
+Welcome to the documentation for Akvo FLOW! 
  
-This documentation is under construction. This section will contain a series of pages that are meant to introduce users to the Akvo FLOW application and make the initial experience favorable. It will guide the user through the initial setup and then offer common tasks to do in the application, offer tutorials, samples, links to online resources, news etc.
+This site will introduce users to the Akvo FLOW application and explain its major features. It guides you through the initial setup and then offers common tasks to do in the application, tutorials, samples, and links to online resources.
+
+For more information about Akvo FLOW partnerships, support and training, visit http://akvo.org.
