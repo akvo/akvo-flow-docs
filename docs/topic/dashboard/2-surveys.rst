@@ -414,7 +414,7 @@ Notifications are either tied to certain events (survey approval, survey submiss
 From the left panel of the Edit Survey screen, click on "+ Manage Notifications". This will bring up a screen where you can enter the details of each notification.
 
  .. figure:: img/2-surveys_managenotifications_button.png
-   :width: 400 px
+   :width: 200 px
    :alt: image of dashboard
    :align: center 
 
