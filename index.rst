@@ -12,6 +12,7 @@ Contents:
 .. toctree::
    :maxdepth: 5
    
-   docs/welcome
-   docs/topic-based-help
+   docs/welcome   
+   docs/field_survey_app
+   topic/dashboard
    docs/development
