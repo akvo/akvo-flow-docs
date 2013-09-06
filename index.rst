@@ -14,5 +14,4 @@ Contents:
    
    docs/welcome   
    docs/field_survey_app
-   topic/dashboard
-   docs/development
+   docs/dashboard
