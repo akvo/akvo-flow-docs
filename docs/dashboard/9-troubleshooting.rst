@@ -3,7 +3,7 @@ Troubleshooting
 
 Discussions
 -------------------------
-In the `public discussion area <http://flowhelp.akvo.org/discussions//>`_ , you can read and respond to discussions other people have posted, or create your own discussion in the category of your choice. In the public discussion area you can choose between three options:
+In the `public discussion area <http://flowhelp.akvo.org/discussions/>`_ , you can read and respond to discussions other people have posted, or create your own discussion in the category of your choice. In the public discussion area you can choose between three options:
 
 - **Problems**: If you are having any issues or problems, if something doesn't quite work right, you can post your problems here and the Akvo support team tries and get to them as soon as possible.You can also browse through discussions, since chances are someone else has asked that question before.
 - **Questions**: Have a question on how something should work? Ask your question here and the Akvo support team will help you out.
