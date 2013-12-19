@@ -14,15 +14,6 @@ On the home screen, click on the **Field Survey** icon.
    :alt: image of phone
    :align: center
 
-Updating the Field Survey Application 
-Whenever a software update becomes available, it is recommended that you download and install the update on your phone.  
-To install the update:
-1.	Get the latest version of the APK file through email as described above, and click Install. 
-2.	You are prompted to specify whether you want to replace the existing Field Survey application. Choose OK.
-3.	Click Install. The new version of the application is installed. 
-4.	A confirmation message appears. Click Done.
-
-
 Set up device ID
 ----------------
 Provide a name (Device ID) for the phone. This name will be used to identify the phone on the FLOW Dashboard. 
@@ -64,6 +55,13 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
    :alt: image of phone
    :align: center
 
+Updating the Field Survey Application 
+Whenever a software update becomes available, it is recommended that you download and install the update on your phone.  
+To install the update:
+1.	Get the latest version of the APK file through email as described above, and click Install. 
+2.	You are prompted to specify whether you want to replace the existing Field Survey application. Choose OK.
+3.	Click Install. The new version of the application is installed. 
+4.	A confirmation message appears. Click Done.
 
 Set up users
 ------------
