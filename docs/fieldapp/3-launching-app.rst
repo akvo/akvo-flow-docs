@@ -34,21 +34,21 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
    :alt: image of phone
    :align: center
 
-2.	Click the **device identifier** option. 
+3.	Click the **device identifier** option. 
 
 .. figure:: img/5-launching-app-5-arrow.gif
    :width: 200 px
    :alt: image of phone
    :align: center
 
-3. You will be asked for authentication, which is "12345". 
+4. You will be asked for authentication, which is "12345". 
 
 .. figure:: img/5-launching-app-6.png
    :width: 200 px
    :alt: image of phone
    :align: center
 
-4.	Provide a name that will help you find back the phone in the Dashboard. Click "Ok". Click **ok**.
+5.	Provide a name that will help you find back the phone in the Dashboard. Click "Ok". Click **ok**.
 
 .. figure:: img/5-launching-app-7.png
    :width: 200 px
@@ -60,6 +60,7 @@ Updating the Field Survey Application
 
 Whenever a software update becomes available, it is recommended that you download and install the update on your phone.  
 To install the update:
+
 1. Get the latest version of the APK file through email as described above, and click Install. 
 2. You are prompted to specify whether you want to replace the existing Field Survey application. Choose OK.
 3. Click Install. The new version of the application is installed. 
