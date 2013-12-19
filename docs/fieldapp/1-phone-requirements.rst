@@ -1,14 +1,3 @@
-How this manual should be used
-=============================
-
-This manual describes the Field Survey app in detail. However, what you need to know depends on if you are the project manager who manages the data collection and the phones, or if you are an enumerator. If you are an enumerator, you can probably start reading at chapter 5 "Getting started with the Field Survey App".
-
-Overview
-=============================
-
-Akvo FLOW is a monitoring platform that enables the effective collection, presentation, and analysis of survey data. Survey data is collected through the Field Survey app, which runs on smart phones. The data is then transmitted to a central database called the FLOW Dashboard. The phones can collect a wide variety of data including pictures, GPS coordinates, surveys, and bar code scans. Collected data is displayed on the FLOW Dashboard for review, on Google Earth maps and several other report formats.
-This documentation describes how to set up the Android phones to use the Field Survey app, and how to install and use the software to collect and upload survey data.
-
 Phone requirements and models
 =============================
 
