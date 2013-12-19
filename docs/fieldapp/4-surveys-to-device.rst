@@ -1,12 +1,14 @@
 Getting FLOW surveys onto the device
 =====================================
 
-Before you start using the Field Survey application, you must do the following on your phone:
+Before you start using the Field Survey application, you must:
+
 •	Connect the phone to a Wi-Fi network or mobile data connection.
 •	Set the Access Point Name (APN) 
 •	Calibrate GPS 
 
 Connect to a Wi-Fi Network
+
 In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
  In situations where an internet or data connection is unavailable, see to Handling Network Connectivity Issues for off-line alternatives.
 
