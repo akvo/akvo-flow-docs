@@ -1,4 +1,4 @@
-Getting FLOW surveys on to the device
+Getting FLOW surveys onto the device
 =====================================
 If you have successfully `installed the Field Survey App on the phone <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#installing-field-survey-app.html>`_  and have internet or network connectivity, your phone is ready to receive surveys. 
 
