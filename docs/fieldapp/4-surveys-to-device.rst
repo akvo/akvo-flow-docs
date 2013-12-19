@@ -11,6 +11,7 @@ In order for the phone to update surveys, receive new surveys or transmit submit
  In situations where an internet or data connection is unavailable, see to Handling Network Connectivity Issues for off-line alternatives.
 
 To connect the phone to a Wi-Fi network:
+
 1.	On the home screen of the phone, press Settings. 
 2.	Under Wireless and Network, the default setting for Wi-Fi is OFF. Tap on OFF to change it to ON. 
 3.	Select Wi-Fi. A list of available Wi-Fi networks displays. 
