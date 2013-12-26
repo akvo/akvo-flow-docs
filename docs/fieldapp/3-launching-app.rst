@@ -179,7 +179,7 @@ Whenever a software update becomes available, it is recommended that you downloa
 3.	Scroll down to About. Click **About**.
 4.	Here you can see which **version** is currently installed.
 
-If you are using an old APK version, you need too **install the update**:
+If you are using an old APK version, you need to **install the update**:
 
 1.	Get the latest version of the APK file through email as described here, and click **Install**. 
 2.	You are prompted to specify whether you want to replace the existing Field Survey App. Choose **OK**.
