@@ -7,7 +7,7 @@ Automatic download of surveys
 
 2. Every time the Field Survey app is launched, the application checks for new surveys assigned to it, or updates of existing surveys. If there are new or updated surveys available, it will download them automatically. When new or updated surveys have been downloaded, the status bar will show a notification. 
 
-.. figure:: img/6-getting-survey-1-arrow.gif
+.. figure:: ../img/6-getting-survey-1-arrow.gif
    :width: 200 px
    :align: center
    
