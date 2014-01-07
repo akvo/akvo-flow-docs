@@ -13,13 +13,13 @@ Automatic download of surveys
    
 You can see the full notification by drawing down the status bar (put your finger on the top of the screen and slide downwards. Slide upwards again to close the notification screen).
 
-.. figure:: img/6-getting-survey-2-arrow.gif
+.. figure:: ../img/6-getting-survey-2-arrow.gif
    :width: 200 px
    :align: center
    
 3. The surveys are not displayed immediately. You need to close the application and reopen it. After reopening, the downloaded survey will be shown in the main menu. Sometimes you will need a few attempts before the surveys show up.   
 
-.. figure:: img/6-getting-survey-3-arrow.png
+.. figure:: ../img/6-getting-survey-3-arrow.png
    :width: 200 px
    :align: center
    
@@ -38,37 +38,37 @@ If there is no wifi available or you have trouble with the connectivity, you can
 
 3. Select "Generate Bootstrap File" from the list.
 
-.. figure:: img/6-getting-surveys-4-arrow.png
+.. figure:: ../img/6-getting-surveys-4-arrow.png
    :width: 400 px
    :align: center
 
 4. In the Select surveys for inclusion window, select the survey group containing the survey you want to transfer. 
 
-.. figure:: img/6-getting-surveys-5-arrow.png
+.. figure:: ../img/6-getting-surveys-5-arrow.png
    :width: 550 px
    :align: center
 
 5. The surveys in the survey group will be displayed in a dropdown list. Choose the survey you want to transfer. You can select multiple surveys by using the Control-key (on a mac, use the Command-key). After you have made your selection, click "Add selected".
 
-.. figure:: img/6-getting-surveys-6-arrow.png
+.. figure:: ../img/6-getting-surveys-6-arrow.png
    :width: 550 px
    :align: center
 
 6. The selected surveys will now be shown in the "File Contents" window. Surveys can be removed again by selecting them and clicking "Remove Selected".
 
-.. figure:: img/6-getting-surveys-7-arrow.png
+.. figure:: ../img/6-getting-surveys-7-arrow.png
    :width: 550 px
    :align: center
 
 7. Enter the email address that will receive the Bootstrap file into the box next to "Notification Email". 
 
-.. figure:: img/6-getting-surveys-8-arrow.png
+.. figure:: ../img/6-getting-surveys-8-arrow.png
    :width: 550 px
    :align: center
 
 8. Click 'Generate' to create the boostrap file. The file will be send to the email address you provided. You will see a Request submitted pop-up window. Click OK, and then check your email for the Bootstrap file.
 
-.. figure:: img/6-getting-surveys-9.png
+.. figure:: ../img/6-getting-surveys-9.png
    :width: 250 px
    :align: center
 
