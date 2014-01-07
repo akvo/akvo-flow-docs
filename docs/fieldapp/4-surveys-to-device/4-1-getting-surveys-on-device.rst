@@ -79,7 +79,7 @@ If there is no wifi available or you have trouble with the connectivity, you can
 
 2. Locate the phone folder on your computer's hard drive. It may be called NO NAME. Open this folder. This folder has the content of the SD card on your phone. Select the subfolder "fieldsurvey"
 
-.. figure:: img/9-submit-manual-4-arrow.gif
+.. figure:: ../img/9-submit-manual-4-arrow.gif
    :width: 647 px
    :align: center
 
@@ -90,7 +90,7 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 
 1. Get the SD card out of the phone. Please consult your phone manual on how to do this. Usually, phones have a micro-SD card, for which you need an adapter. What you need depends on your computer. If your computer has an SD card slot, you need a "micro-SD to SD-card" adapter. If your computer does not have such a slot, you need a "micro-SD to USB" adapter. The photo below shows both types of adapters. 
 
-.. figure:: img/9-submit-manual-7.jpg
+.. figure:: ../img/9-submit-manual-7.jpg
    :width: 250 px
    :align: center
    
@@ -98,7 +98,7 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 
 2. Connect the SD card to your computer, either using the SD card slot, or through a USB port.
 
-.. figure:: img/9-submit-manual-6-arrow.jpg
+.. figure:: ../img/9-submit-manual-6-arrow.jpg
    :width: 500 px
    :align: center
    
@@ -110,20 +110,20 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 *********************************
 1. Download the Bootstrap .zip file by clicking on the link contained in the email. Put the file on your computer somewhere.
 
-.. figure:: img/6-getting-surveys-9a-arrow.png
+.. figure:: ../img/6-getting-surveys-9a-arrow.png
    :width: 450 px
    :align: center
 
 
 2. Locate the phone folder on your computer's hard drive. It may be called NO NAME. Open this folder. Select the subfolder "fieldsurvey". In this folder there will be an empty folder "bootstrap".
 
-.. figure:: img/6-getting-surveys-9b-arrow.png
+.. figure:: ../img/6-getting-surveys-9b-arrow.png
    :width: 450 px
    :align: center
 
 3. Copy the bootstrap .zip file to the "bootstrap" folder.
 
-.. figure:: img/6-getting-surveys-9c-arrow.png
+.. figure:: ../img/6-getting-surveys-9c-arrow.png
    :width: 500 px
    :align: center
 
@@ -131,13 +131,13 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 
 5. After you disconnect the phone, open the Field Survey app. The phone notification bar will first read "Loading survey data from SD card", and then "Done loading survey data from SD card". 
 
-.. figure:: img/6-getting-surveys-9d-arrow.png
+.. figure:: ../img/6-getting-surveys-9d-arrow.png
    :width: 200 px
    :align: center
 
 
 6. After you see the second message, leave the Field Survey app by pressing the "Back" key on the phone, and open the Field Survey app again. The new surveys will now be added to your home screen. You can now use these surveys to collect data in the field.
 
-.. figure:: img/6-getting-surveys-9e-arrow.png
+.. figure:: ../img/6-getting-surveys-9e-arrow.png
    :width: 200 px
    :align: center
