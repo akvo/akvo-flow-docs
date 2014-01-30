@@ -74,7 +74,7 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
    The bulk upload section of the Data tab.
 
-1) Find the phone
+1) Find the phone.
 2) Go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
 3) Connect the phone to a computer, so you can see the contents of the sd card.
 4) Navigate to the 'fieldsurvey' folder. In there, there will be a 'surveyal' folder. This contains all the exported data. Copy this entire folder to your computer.
