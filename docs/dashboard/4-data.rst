@@ -67,7 +67,7 @@ Bulk upload data
 
 The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data have been collected offline due to limited connectivity circumstances in the field. The tool imports the selected device data zip and image jpeg files and stores them in the database with the appropriate survey.
 
-1) Go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
+1) On your mobile device, go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
 2) Connect the phone to a computer, so you can see the contents of the sd card.
 3) Navigate to the 'fieldsurvey' folder. In there, there will be a 'surveyal' folder. This contains all the exported data. Copy this entire folder to your computer.
 4) On your computer select the entire folder, and create a zip file out of it. This should result in one zip file, which has all the content of the surveyal folder.
