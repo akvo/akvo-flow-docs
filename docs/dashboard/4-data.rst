@@ -74,6 +74,8 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
    The bulk upload section of the Data tab.
 
+There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
+
 1) Find the phone.
 2) Go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
 3) Connect the phone to a computer, so you can see the contents of the sd card.
@@ -82,10 +84,6 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 6) Go to the FLOW Dashboard of the instance you want to upload the data to. Go to the 'Data', tab, and select 'Bulk Upload' 
 7) select the zip file you created or drag it into the dropzone.
 8) the upload will then be automatic. Give it a few minutes, and then check if the data has been uploaded by going to the messages tab, or going to the data tab.
-
-There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
-
-The files you upload must be .zip or .jpg files. 
 
 Note: Navigating away from the page while the upload is in progress, either by navigating elsewhere on the dashboard or closing the browser window will interrupt and cancel the upload in progress.
 
