@@ -72,8 +72,8 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 3) Navigate to the 'fieldsurvey' folder. In there, there will be a 'surveyal' folder. This contains all the exported data. Copy this entire folder to your computer.
 4) On your computer select the entire folder, and create a zip file out of it. This should result in one zip file, which has all the content of the surveyal folder.
 5) Go to the FLOW Dashboard of the instance you want to upload the data to. Go to the 'Data', tab, and select 'Bulk Upload' 
-6) select the zip file you created or drag it into the dropzone.
-7) the upload will then be automatic. Give it a few minutes, and then check if the data has been uploaded by going to the messages tab, or going to the data tab.
+6) Select the zip file you created or drag it into the dropzone.
+7) The upload will then be automatic. Give it a few minutes, and then check if the data has been uploaded by going to the messages tab, or going to the data tab.
 
  .. figure:: img/4-data_bulkupload.png
    :width: 600 px
