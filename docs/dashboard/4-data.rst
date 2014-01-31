@@ -82,10 +82,6 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
    The bulk upload section of the Data tab.
 
-There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. 
-
-Second, you can click "select from computer" and select the files to upload.
-
 Note: Navigating away from the page while the upload is in progress, either by navigating elsewhere on the dashboard or closing the browser window will interrupt and cancel the upload in progress.
 
 After you drop or select the files, you will see a progress bar below informing you of the upload contents and status. When the upload is complete, you'll see a confirmation message. After the initial upload, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
