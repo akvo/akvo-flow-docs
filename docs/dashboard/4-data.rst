@@ -67,6 +67,14 @@ Bulk upload data
 
 The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data have been collected offline due to limited connectivity circumstances in the field. The tool imports the selected device data zip and image jpeg files and stores them in the database with the appropriate survey.
 
+1) Go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
+2) Connect the phone to a computer, so you can see the contents of the sd card.
+3) Navigate to the 'fieldsurvey' folder. In there, there will be a 'surveyal' folder. This contains all the exported data. Copy this entire folder to your computer.
+4) On your computer select the entire folder, and create a zip file out of it. This should result in one zip file, which has all the content of the surveyal folder.
+5) Go to the FLOW Dashboard of the instance you want to upload the data to. Go to the 'Data', tab, and select 'Bulk Upload' 
+6) select the zip file you created or drag it into the dropzone.
+7) the upload will then be automatic. Give it a few minutes, and then check if the data has been uploaded by going to the messages tab, or going to the data tab.
+
  .. figure:: img/4-data_bulkupload.png
    :width: 600 px
    :alt: image of dashboard
@@ -77,14 +85,6 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. 
 
 Second, you can click "select from computer" and select the files to upload.
-
-1) Go to the preferences and click 'Export data'. This will export all the data to a directory on the phone.
-2) Connect the phone to a computer, so you can see the contents of the sd card.
-3) Navigate to the 'fieldsurvey' folder. In there, there will be a 'surveyal' folder. This contains all the exported data. Copy this entire folder to your computer.
-4) On your computer select the entire folder, and create a zip file out of it. This should result in one zip file, which has all the content of the surveyal folder.
-5) Go to the FLOW Dashboard of the instance you want to upload the data to. Go to the 'Data', tab, and select 'Bulk Upload' 
-6) select the zip file you created or drag it into the dropzone.
-7) the upload will then be automatic. Give it a few minutes, and then check if the data has been uploaded by going to the messages tab, or going to the data tab.
 
 Note: Navigating away from the page while the upload is in progress, either by navigating elsewhere on the dashboard or closing the browser window will interrupt and cancel the upload in progress.
 
