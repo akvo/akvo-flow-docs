@@ -249,3 +249,63 @@ The resolution of the photos determines how much time it will take to upload. Th
    :align: center   
    
 4.	In addition, there is a setting in the preferences that you can use to shrink photos automatically. This can be used in addition to the resolution setting. To do this, from the Field Survey home screen, select **settings**, then **preferences**. Scroll all the way down, and enable the setting **Shrink large photos**. This will automatically shrink photos to 320 x 240 pixels before upload.   
+
+
+Updating the Field Survey app
+-----------------------------
+
+Starting on version 1.13.0, Akvo FLOW APK can be automatically updated from within the app. It can, of course, be updated just as before, sending the APK file to the device and following the installation steps, but this new feature will make it updates much easier.
+
+Update Steps
+~~~~~~~~~~~~
+
+1. Whenever a new Akvo FLOW update is available, the app will display a notification, asking the user to update the app:
+
+.. figure:: img/2-3new-version-available.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole APK has to be downloaded. Users should try to proceed with the update with a WiFi connection, if possible. This decision is very important, as if the download is unsuccessful, the corrupted file will not be able to be installed. When the user clicks the notification, the download will start, displaying the progress of the download
+
+.. figure:: img/2-3new-version-download.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+3. After the download is completed, the app will display a new notification, requesting the user to install the app. This is done by simply clicking that new notification
+
+.. figure:: img/2-3new-version-downloaded.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+If the user ignores this notification, the app will prompt a dialog the next time it's opened, requesting the user to install the new APK.
+
+.. figure:: img/2-3new-version-popup.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+4. A Permission will be requested to replace the existing app. Authorize the update, and then click 'Install'
+
+.. figure:: img/2-3new-version-replace.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+.. figure:: img/2-3new-version-permissions.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+5. The new version of the Akvo FLOW app will now be installed and ready to use
+
+.. figure:: img/2-3new-version-ready.png
+    :width: 200 px
+    :alt: image of phone
+    :align: center
+
+Update Troubleshooting
+~~~~~~~~~~~~~~~~~~~~~~
+   The initial version introducing this feature (v1.13.0), contains a bug (now fixed), that prevents unsuccessfully downloaded APK files (i.e. if the connection breaks) from being automatically cleaned. If this situation occurs, the folder called 'apk', located in the sdcard's fieldsurvey directory, has to be deleted. Since this is a delicate step, make sure only 'apk' is removed, leaving the other folders unchanged. After wiping this folder, the app can retry the update process. This issue was fixed, and Akvo FLOW app versions larger than 1.13.0 will not suffer from this problem.
