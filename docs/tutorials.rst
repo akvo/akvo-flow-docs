@@ -3,16 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive
 
- 
-Welcome to the documentation site for Akvo FLOW!
-================================================
+----------------------------------------------
+Tutorials
+----------------------------------------------
 
 Contents:
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 4
    
-   docs/welcome   
-   docs/field_survey_app
-   docs/dashboard
-   docs/tutorials
+   tutorials/monitoring
+   
+   
