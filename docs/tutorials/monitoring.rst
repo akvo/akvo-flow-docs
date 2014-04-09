@@ -1,6 +1,6 @@
 Monitoring - tracking things over time
 =======================================
-Taking a survey of something, be it a water point, a tree, or a school, is usually a one-time thing. You collect data, analyse the data, take action, and that's it. But in many cases, you also want to go back at a later date, and do a follow-up: is this pump still working? Has the tree grown? Has that schools' latrine been repaired? This is what we call monitoring: observing facts about something, some 'entity' (machine, pump, person, etc), which has an identity and can be tracked over time. An identity is a set of attributes (id, serial number, name, etc) that *uniquely* identify an entity. 
+Taking a survey of something, be it a water point, a tree, or a school, is usually a one-time event. You collect data, analyse the data, take action, and that's it. But in many cases, you also want to go back at a later date, and do a follow-up: is this pump still working? Has the tree grown? Has that schools' latrine been repaired? This is what we call monitoring: observing facts about something, some 'entity' (machine, pump, person, etc), which has an identity and can be tracked over time. An identity is a set of attributes (id, serial number, name, etc) that *uniquely* identify an entity. 
 
 The core idea of monitoring is to create 'records', to which information about a monitored entity can be added. Multiple survey forms can be created on the dashbaord, which together capture different aspects of a monitored entity. One form is used to create a new record, and the other forms are used to add additional information to an existing record. This can be visualised by comparing it with record files containing paper forms: a special 'registration' form creates the record file, and other forms can be added to an existing record file. 
 
@@ -9,7 +9,7 @@ The core idea of monitoring is to create 'records', to which information about a
    :alt: Illustration of monitoring
    :align: left
 
-Existing records can be downloaded to the phone, so they can be updated with new information. On the phone, records can be searched by distance, id, or record name. The enumerator can either create a new record using the special registration form, or can add information to an existing record. The device can download records created by other enumerators. This makes it possible to capture how properties of the entity change over time, or to collect new properties.
+Existing records can be downloaded to the mobile device, so they can be updated with new information. On the device, records can be searched by distance, id, or record name. The enumerator can either create a new record using the special registration form, or can add information to an existing record. The device can download records created by other enumerators. This makes it possible to capture how properties of the entity change over time, or to collect new properties.
 
 This tutorial shows how a monitoring project is set up, and how the monitoring features work on the FLOW dashboard and the FLOW app. We start by introducting a real-life example.
 
@@ -46,7 +46,7 @@ A monitoring project consists of a set of survey forms. To create a monitoring p
 
 4. Publish the surveys
 
-5. After the surveys are created, select one of them using the dropdown box in the survey group overview. This survey gets the special role of 'registration survey', and is capable of creating new records on the phone.
+5. After the surveys are created, select one of them using the dropdown box in the survey group overview. This survey gets the special role of 'registration survey', and is capable of creating new records on the device.
 
 .. container:: clearer
 
@@ -136,7 +136,7 @@ Searching for an existing record
 +++++++++++++++++++++++++++
 To find a record, follow one of these steps:
 
-1. By default, the list of records is sorted by distance, with the nearest record shown first. For this to work, the GPS of the phone needs to be active. To select a record, click it. By clicking the 'more' icon (three vertical dots) and selecting 'order by', you can also order the records by date, with the most recently changed first.
+1. By default, the list of records is sorted by distance, with the nearest record shown first. For this to work, the GPS of the device needs to be active. To select a record, click it. By clicking the 'more' icon (three vertical dots) and selecting 'order by', you can also order the records by date, with the most recently changed first.
 
 2. By clicking the 'map' tab, a map is shown with all the records, centered on your present location. If you click a record marker it will show the display name and the identifier. If you click that text, the record will be selected.
 
@@ -151,7 +151,7 @@ Adding information to an existing record
 +++++++++++++++++++++++++++++++++++++++++
 When you have selected a record, the record display name and identifier are displayed, plus a list of available surveys. To add information to the selected record, select a survey, fill it, and submit it.
 
-If the record already contains a previous filled-in version of that survey, the phone will prompt the user if he/she wants to prefill the new, empty survey with the previously collected values. If the users selects 'ok', a fresh copy of the survey is opened, with the previous values filled in. 
+If the record already contains a previous filled-in version of that survey, the mobile device will prompt the user if he/she wants to prefill the new, empty survey with the previously collected values. If the users selects 'ok', a fresh copy of the survey is opened, with the previous values filled in. 
 
  .. figure:: img-monitoring/9-monitoring.png
    :width: 1000 px
