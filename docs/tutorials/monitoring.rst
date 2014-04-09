@@ -7,17 +7,21 @@ The core idea of monitoring is to create 'records', to which information about a
  .. figure:: img-monitoring/1-monitoring.png
    :width: 500 px
    :alt: Illustration of monitoring
-   :align: center 
+   :align: left
 
 Existing records can be downloaded to the phone, so they can be updated with new information. On the phone, records can be searched by distance, id, or record name. The enumerator can either create a new record using the special registration form, or can add information to an existing record. The device can download records created by other enumerators. This makes it possible to capture how properties of the entity change over time, or to collect new properties.
 
 This tutorial shows how a monitoring project is set up, and how the monitoring features work on the FLOW dashboard and the FLOW app. We start by introducting a real-life example.
 
+.. container:: clearer
+
+    .. image:: /img/spacer.png
+
 Real-life examples
 ------------------
 A municipality in a large city manages a set of 40.000 water meters, which need to be visited every 4 months. Each water meter has an identification number, and an address. 
 
-They want to use different forms to collect data on the water meters: a *register new water meter* form, that is filled in with customer information and the meter id when a new water meter is registered, an *update registration details* form, which is used when the registration information needs to be changed, a *current meter reading* form, which is used to capture a reading plus an image of the meter, and a 'decomission water meter' form, which is filled in when a water meter is broken, or closed off. 
+They want to use different forms to collect data on the water meters: a *register new water meter* form, that is filled in with customer information and the meter id when a new water meter is registered, a *current meter reading* form, which is used to capture a reading plus an image of the meter, and a 'decomission water meter' form, which is filled in when a water meter is broken, or closed off. 
 
 The enumerators need to be able to see a list of watermeters on their device based on proximity, and to be able to filter on name or street. On the dashboard, the financial department wants to be able to export a list of all customers with the current meter readings, so they can prepare the bills. 
 
@@ -35,9 +39,18 @@ A monitoring project consists of a set of survey forms. To create a monitoring p
    a. The first one is *Use in record display*, which is shown on free text questions. When this is checked, the answer to this question will become part of the 'name' of the record. This will be shown in lists on the device, and can be used to search records. By default, this is off. This should only be enabled for one or two questions which will help to identify the record, such as an id, or a name. Multiple values will be added together separated by a dash '-'.
    b. The second one is *Use as record location*, which is shown on geolocation questions. When this is checked, the location captured by this question will be used as the main location of the record. By default, this is turned on.
 
+ .. figure:: img-monitoring/2-monitoring.png
+   :width: 500 px
+   :alt: Illustration of monitoring
+   :align: left
+
 4. Publish the surveys
 
 5. After the surveys are created, select one of them using the dropdown box in the survey group overview. This survey gets the special role of 'registration survey', and is capable of creating new records on the phone.
+
+.. container:: clearer
+
+    .. image:: /img/spacer.png
 
 Structuring your survey forms
 ++++++++++++++++++++++++++++++
@@ -51,6 +64,11 @@ Viewing record data
 ++++++++++++++++++++
 To see which records are available for a monitoring project, open the 'Monitoring' subtab on the 'Data' tab. There, you can select the survey group that contains the monitoring project, and you will see a table with the records within that project. The table shows 'identifier', 'display name', and 'last update'. The identifier is the unique identifier of the record. The display name is derived from answers to questions in the 'registration' form. The setting 'display in record list on device' on free text questions determines if answers to that question become part of the display name.
 
+ .. figure:: img-monitoring/3-monitoring.png
+   :width: 800 px
+   :alt: Illustration of monitoring
+   :align: center
+
 When you click 'view details' on any one of the records in the table, you will see the survey responses that are part of a single record. For each submitted survey response, the survey, submitter, device, and collection data are displayed.
 
 When you click 'view details' on a survey response, you will see the individual answers given to the questions in that response.
@@ -58,6 +76,11 @@ When you click 'view details' on a survey response, you will see the individual 
 Exporting record data
 ++++++++++++++++++++++
 To export data, go to the 'Reports' tab, and select the 'Export reports' subtab. Here, you can select a survey group and survey form, and . If you select a survey group that is also a monitored group, a checkbox 'Export only last collection' will be displayed. When this is enabled, only the latest collected data for that survey will be exported. For example, if you have collected water several meter readings for a single water meter, and this checkbox is selected, only the last one will be exported. 
+
+ .. figure:: img-monitoring/4-monitoring.png
+   :width: 800 px
+   :alt: Illustration of monitoring
+   :align: center
 
 The exported file will contain the record identifier and the display name as the first two columns. 
 
@@ -68,7 +91,18 @@ In the mean time, you can use an excel technique to match data accross different
 
 Monitoring - FLOW app
 ----------------------
+ .. figure:: img-monitoring/5-monitoring.png
+   :width: 200 px
+   :alt: Illustration of monitoring
+   :align: left
+
 When the app is opened for the first time, it will sync with the server and display the survey groups that contain surveys that have been assigned to the device. Normal survey groups just contain surveys, which can be used to collect data as usual. A survey group which is also a monitoring group is different: it contains both the records for a monitored entitiy, and the survey forms which are used to create new forms or add additional information to them.
+
+
+
+.. container:: clearer
+
+    .. image:: /img/spacer.png
 
 Syncing records
 ++++++++++++++++++++++
@@ -80,6 +114,11 @@ To sync records, first make sure that you have a good wifi or 3G connectivity. D
 
 3. The records will be synced, and a message in the notification bar will show the progress and how many records have been synced.
 
+ .. figure:: img-monitoring/6-monitoring.png
+   :width: 1000 px
+   :alt: Illustration of monitoring
+   :align: center
+
 The syncing process is optimised to only download the latest information — any records that have not changed since the last download will not be downloaded again.
 
 Syncing records is not an automatic process, so it needs to be manually performed whenever the enumerator needs the latest updates from the server.
@@ -87,6 +126,11 @@ Syncing records is not an automatic process, so it needs to be manually performe
 Creating a new record
 ++++++++++++++++++++++
 A new record can be created by clicking the '+' icon, which is shown on the top of the list of records. When a new record is first created, only the special 'registration' form can be selected. This is needed to capture the identifying information for the new record. When this first form has been submitted, other forms become available.
+
+ .. figure:: img-monitoring/7-monitoring.png
+   :width: 1000 px
+   :alt: Illustration of monitoring
+   :align: center
 
 Searching for an existing record
 +++++++++++++++++++++++++++
@@ -98,16 +142,31 @@ To find a record, follow one of these steps:
 
 3. If you click the 'search' icon and start typing, a list of filtered records will be shown. The text you type is compared to both the display text and the identifier. 
 
+ .. figure:: img-monitoring/8-monitoring.png
+   :width: 600 px
+   :alt: Illustration of monitoring
+   :align: center
+
 Adding information to an existing record
 +++++++++++++++++++++++++++++++++++++++++
 When you have selected a record, the record display name and identifier are displayed, plus a list of available surveys. To add information to the selected record, select a survey, fill it, and submit it.
 
 If the record already contains a previous filled-in version of that survey, the phone will prompt the user if he/she wants to prefill the new, empty survey with the previously collected values. If the users selects 'ok', a fresh copy of the survey is opened, with the previous values filled in. 
 
+ .. figure:: img-monitoring/9-monitoring.png
+   :width: 1000 px
+   :alt: Illustration of monitoring
+   :align: center
+
 It is important to understand that the previous values will not be overwritten — only new information will be added. This is true in general: only new facts are created and stored, old values are never overwritten. This protects data against human error.
 
 Updating information collected by the 'registration' form
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Usually, the registration form is only used once, when the record is first created. That is why by default, this form is greyed out and unavailable in an existing record.
+ .. figure:: img-monitoring/10-monitoring.png
+   :width: 300 px
+   :alt: Illustration of monitoring
+   :align: left
 
-However, sometimes data collected by this survey needs to be updated, for example in the case of a spelling mistake. In that case, the survey can be accessed by long-clicking on the survey. The registration information can then be updated by making the required changes and submitting the survey.
+Usually, the registration form is only used once, when the record is first created. That is why that survey is shown in a different (red) color.
+
+However, sometimes data collected by this survey needs to be updated, for example in the case of a spelling mistake. That is why the survey can still be accessed. When the enumerator clicks this survey, a warning message is displayed. When the enumerator accepts this, they can prefill the survey with the existing values, and update them by making the required changes and submitting the survey.
