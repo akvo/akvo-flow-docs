@@ -254,7 +254,7 @@ The resolution of the photos determines how much time it will take to upload. Th
 Updating the Field Survey app
 -----------------------------
 
-Starting on version 1.13.0, Akvo FLOW APK can be automatically updated from within the app. It can, of course, be updated just as before, sending the APK file to the device and following the installation steps, but this new feature will make it updates much easier.
+Starting with version 1.13.0, the Akvo FLOW app can be automatically updated from within the app. The original method of sending the APK file to the device by email and installing it from there will remain available, but this new feature will make updating the app much easier.
 
 Update Steps
 ~~~~~~~~~~~~
