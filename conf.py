@@ -327,7 +327,9 @@ pdf_default_dpi = 172
 # you need vectorpdf for better sphinx's graphviz support
 #pdf_extensions = ['vectorpdf']
 
-extensions = ['sphinx.ext.autodoc','rst2pdf.pdfbuilder']
+# Enable the following line if you want to create pdf files.
+# Readthedocs doesn't like it if this is present, so we disable it here
+# extensions = ['sphinx.ext.autodoc','rst2pdf.pdfbuilder']
 
 # Page template name for "regular" pages
 #pdf_page_template = 'cutePage'
