@@ -4,18 +4,14 @@
    contain the root `toctree` directive
 
 ----------------------------------------------
-Akvo FLOW Dashboard
+Data collection project management
 ----------------------------------------------
 
 .. toctree::
    :maxdepth: 4
    
-   dashboard/1-creatingusers
-   dashboard/2-creatingproject
-   dashboard/3-managingdevices
-   dashboard/4-managingdata
-   dashboard/5-chartsandexport
-   dashboard/6-maps
-   
+   rolesandresp/1-ethics
+   rolesandresp/2-roles
+   rolesandresp/3-enumeratormanagement
    
    

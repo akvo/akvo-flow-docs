@@ -4,18 +4,19 @@
    contain the root `toctree` directive
 
 ----------------------------------------------
-Akvo FLOW Dashboard
+Akvo FLOW app
 ----------------------------------------------
 
 .. toctree::
    :maxdepth: 4
    
-   dashboard/1-creatingusers
-   dashboard/2-creatingproject
-   dashboard/3-managingdevices
-   dashboard/4-managingdata
-   dashboard/5-chartsandexport
-   dashboard/6-maps
-   
+   device/1-basicskills
+   device/2-installapp
+   device/3-settingsapp
+   device/4-manageusers
+   device/5-gettingforms
+   device/6-datapoints
+   device/7-fillforms
+   device/8-uploaddata
    
    

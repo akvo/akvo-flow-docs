@@ -4,15 +4,19 @@
    contain the root `toctree` directive
 
  
-Welcome to the documentation site for Akvo FLOW!
-================================================
+Akvo FLOW documentation
+=======================
 
-Contents:
+Welcome to the documentation for Akvo FLOW!
+
+This site forms the online manual of the Akvo FLOW data collection platform. If you want support from an actual human, please visit http://flowhelp.akvo.org/discussions/. For more information about Akvo FLOW partnerships, support and training, please visit http://akvo.org.
+
+
 
 .. toctree::
    :maxdepth: 5
    
-   docs/welcome   
-   docs/field_survey_app
+   docs/gettingstarted  
    docs/dashboard
-   docs/tutorials
+   docs/device
+   docs/rolesandresp

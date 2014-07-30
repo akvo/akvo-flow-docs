@@ -4,18 +4,15 @@
    contain the root `toctree` directive
 
 ----------------------------------------------
-Akvo FLOW Dashboard
+Getting started with Akvo FLOW
 ----------------------------------------------
 
 .. toctree::
    :maxdepth: 4
    
-   dashboard/1-creatingusers
-   dashboard/2-creatingproject
-   dashboard/3-managingdevices
-   dashboard/4-managingdata
-   dashboard/5-chartsandexport
-   dashboard/6-maps
-   
+   gettingstarted/1-overview
+   gettingstarted/2-dashboard
+   gettingstarted/3-requirements
+   gettingstarted/4-prepareproject
    
    
