@@ -14,5 +14,6 @@ Contents:
    
    docs/welcome   
    docs/field_survey_app
+   docs/field_survey_app2.0
    docs/dashboard
    docs/tutorials
