@@ -1,84 +1,11 @@
-Preparing your device for FLOW 
-=================================
-
-Before you install the Field Survey App
-------------------------------------------
-Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
-
-• 	`Configure Gmail on the phone <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-gmail-on-phone.html>`_  
-•	`Configure Android settings for software download <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-android-settings-for-software-download.html>`_ 
-•	`Set up Wi-Fi <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-up-wi-fi.html>`_ 
-•	`Set Access Point Name (APN) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_ 
-•	`Calibrate GPS <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_ 
-
-How to do this is described in the sections below.
-
-
-Configure Gmail on phone
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A free Gmail account is necessary to install the Field Survey App, and to receive updates.  
-
-It is best to use a dedicated email address for communication with the phone. If you intend to use multiple phones with the Field Survey App, use the same email address for all the phones, so that you can send software updates to all the phones simultaneously. If you are an enumerator, it is likely that the phone is already set up correctly.
-
-**To configure Gmail on the phone:**
-
-1. From the home screen of the phone, go to the **settings** menu by clicking on the menu button on the phone (usually at the bottom left, but can be in different places depending on the model of the phone). 
-
-.. figure:: img/2-1settings_from_homescrean.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-2. Under **Accounts & Sync** or **Accounts**, press **Add account**.
-
-.. figure:: img/2-1add_gmail_account.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-3. From the list of options, select **Google**. 
-
-.. figure:: img/2-1add_gmail_select_google.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-4. You are prompted to specify whether you want to create a new Google account or use an existing one. If you already have a Gmail account that can be dedicated for communication with the FLOW server, choose **Use an existing one**. Otherwise, choose **New**.  
-
-.. figure:: img/2-1add_gmail_add_new_google_account.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-5. Follow onscreen prompts to create your Google account.
-
-The new account will now be visible under **Applications > Email**.
-
-
-Configure Android settings for software download
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Your phone must be configured to allow download and installation of third-party software, so that you can download and install the Field Survey App, and other recommended software.
-
-**To enable software download:**
-
-1.	Under **Settings**, select **Security**.
-
-.. figure:: img/2-1settings_security.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-2.	Enable **Unknown Sources**. If you cannot find the **Unknown Sources** option under **Security**, check under **Applications**.
-
-.. figure:: img/2-1enable_unknown_sources.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
+Before you install the Akvo FLOW app
+====================================
+Before you install the Akvo FLOW app on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
 
 
 Set up Wi-Fi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi internet connection is the easiest way to connect to the FLOW server for data exchange.
+------------
+In order for the phone to update surveys, receive new surveys or transmit submitted surveys, the phone must have a cellular plan with data or must be connected to Wi-Fi. A Wi-Fi Internet connection is the easiest way to connect to the FLOW server for data exchange.
 
 **To connect the phone to a Wi-Fi network:**
 
@@ -97,11 +24,11 @@ In order for the phone to update surveys, receive new surveys or transmit submit
    :alt: image of phone
    :align: center
 
-*Note: In situations where an internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
+*Note: In situations where an Internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
 
 
 Set Access Point Name (APN)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 Depending on your situation, this section may not be necessary. If your data plan is already working for your phone, you can skip this.
 
 Local Internet service providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. When you purchase the SIM cards, ask the Internet Service Provider to give you the correct APN settings for the SIM Card.
@@ -140,9 +67,9 @@ Local Internet service providers use APN settings to activate data plans using S
    
 6.	Press the **Home** key when you are done.   
    
-   
+
 Setting data and time on the phone
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 Before you start collecting data, it is important to check it the date and time are set correct. The date and time stamp on each data submission takes this information from the phone. If it is set incorrectly, you will get errant date/time stamps. 
 
 **To set date and time:**
@@ -152,100 +79,115 @@ Before you start collecting data, it is important to check it the date and time 
 3.	Check if the date and time are correct, otherwise change. 
 
 
+Installing the Akvo FLOW app
+============================
 
-Installing Field Survey App
-------------------------------
-To install the Field Survey App on the phone, you need the latest available version of the installer file. The file extension of the installer file is **.apk**. The project manager will send this file as an email attachment to the email address you set up in the previous step.
+This document describes two ways of installing the Akvo FLOW app on a phone or tablet: a simple way that can be used if there is Wi-Fi or 3G available, and a more technical way that can be used when no such Internet connection is available. In most cases, the first option (installation by direct download) will work, and is the preferred method. Before installing, the device needs to be prepared.
 
-**To install the Field Survey App:**
 
-You may first need to change a security setting to allow apps for a source other than Android Market (Play Store) to be installed. To do this, tap on the Menu button and select **Settings**. Select **Applications**, and enable **Unknown Sources**. Sometimes, this setting is found under **Security**.
+Preparing the phone
+-------------------
 
-1.	Open the Gmail app on your phone 
+Before the FLOW app can be installed, the device must be configured to allow download and installation of third-party software. Follow these steps to do this:
 
-.. figure:: img/2-2gmail_icon.png
-   :width: 90 px
-   :alt: image of phone
+1. Under Settings, select Security. 
+
+.. figure:: img/2-settings-security.png
+   :width: 200 px
+   :alt: Settings > Security
    :align: center
 
-2.	Check if the email with the app has arrived
+2. Enable the setting *Unknown sources* (If you cannot find the Unknown sources option under Security, check under Applications).
 
-.. figure:: img/2-2check_email_for_application.png
+.. figure:: img/2-unknownsources.png
    :width: 200 px
-   :alt: image of phone
-   :align: center
-
-3.	Open the email and scroll down. You should see a button **Install**.
-
-.. figure:: img/2-2install_application.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-4.	Click **Install**. Click **Ok** to allow the app to be installed on the phone.
-
-*Note: If you receive an error during installation, you may have to uninstall the existing application before replacing it with the new one.*
-
-
-Create shortcut
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For easy access, create a shortcut to the Field Survey App on the home screen. 
-
-**To create a shortcut:**
-
-1.	Click on the **Applications** icon on the phone home screen. 
-
-2.	From the list of applications, press and hold on the **Field Survey** icon. 
-
-.. figure:: img/2-2create_shortcut_application.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-3. 	The shortcut to the Field Survey App icon now appears on your home screen.
-
-.. figure:: img/2-2shortcut_at_homescreen.png
-   :width: 200 px
-   :alt: image of phone
+   :alt: Enable Unknown sources option
    :align: center
 
 
-Install recommended applications
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-It is recommended that you install certain applications in addition to the Field Survey App, in order to enhance productivity. These are several such useful applications available for **free download** on the internet. 
+Installation by direct download
+-------------------------------
 
-Recommended applications:
+Follow these steps to download the app directly to the device:
 
-•	`ASTRO File Manager <https://play.google.com/store/apps/details?id=com.metago.astro/>`_. - can be used as a backup option to install and update the Field Survey App, when the email method does not work. 
-•	`GPS Status & toolbox <http://www.androiddrawer.com/203/download-gps-status-toolbox-3-8-1-app-apk/#.Ue-XIhY72p2/>`_ - enables you to monitor and check the GPS function of the phone. 
-•	`Quickmark <http://download.pandaapp.com/android-app/quickmark-barcode-scanner4.1.2-id5129.html#.Ue-XVBY72p0/>`_ or `ZXing Barcode Scanner <https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en/>`_ - required if barcodes are part of your survey. 
+1. Open the browser on the device. The browser app might be called *Internet* or *Browser*, or it could otherwise be an specific browser name (i.e. Chrome, Firefox, etc)
 
-You can install these apps by going to 'Google Play', search for the apps, and install them.
+2. In the browser address bar, type the address of your Akvo FLOW dashboard, and add '/app2'. For example, if your organisation is called 'care', this would usually be 'care.akvoflow.org/app2'. Please check with your project manager to get the right dashboard location.
 
-
-Adjust camera resolution
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The resolution of the photos determines how much time it will take to upload. The smaller the size, the better. Choose the lowest setting that is available on your phone. Here is how to do that:
-
-1.	Go to the **Camera app**
-
-.. figure:: img/2-2camera.png
+.. figure:: img/2-downloadapp.png
    :width: 200 px
-   :alt: image of phone
+   :alt: Type in the app URL
    :align: center
 
-2.	In the Camera app, go to the **settings** menu. 
+3. When you have typed the address, including the '/app2', click 'Go' on the keyboard. This will download the latest version of the FLOW app directly. You will see the download icon in the notification bar at the top of the screen.
 
-.. figure:: img/2-2camera_settings.png
-   :width: 200 px
-   :alt: image of phone
+.. figure:: img/2-downloadicon.png
+   :width: 50 px
+   :alt: Download icon
    :align: center
-   
-3.	Use the buttons on the right to find the **Resolution** setting, and set it to the lowest your phone supports (in this case, 640x480, but sometimes also 320x240).    
-   
-.. figure:: img/2-2camera_resolution.png
+
+4. When the download is complete, draw down the notification bar from the top of the screen. If the download succeeded, you will see *flow-2.x.x.apk, download complete*. Click on the notification, and click *Install*.
+
+.. figure:: img/2-downloaded.png
    :width: 200 px
-   :alt: image of phone
-   :align: center   
-   
-4.	In addition, there is a setting in the preferences that you can use to shrink photos automatically. This can be used in addition to the resolution setting. To do this, from the Field Survey home screen, select **settings**, then **preferences**. Scroll all the way down, and enable the setting **Shrink large photos**. This will automatically shrink photos to 320 x 240 pixels before upload.   
+   :alt: Download icon
+   :align: center
+
+
+Installation by putting the app on the phone directly
+-----------------------------------------------------
+
+When Internet is not available, there is an alternative way to install the app:
+
+1. While in a place where Internet is available, get the Akvo FLOW app APK file. You can get it by opening a web browser, and in the address bar, type the address of your Akvo FLOW dashboard, and add '/app2'. For example, if your organisation is called 'care', this would usually be 'care.akvoflow.org/app2'. Please check with your project manager to get the right dashboard location. Save the APK file to your computer.
+
+2. In the location without Internet connection, connect the device to a computer, so you can see the contents of the SD card. On the SD card, create a temporary folder, for example called 'temp'.
+
+3. Copy the FLOW app .apk file to this temporary folder.
+
+4. Disconnect the device from the computer.
+
+5. On the device, open the app called 'My Files', and locate the temporary folder that holds the APK on the device.
+
+6. Click the APK to install it.
+
+
+Note: If *My Files* app is not available in the device, you can use any other app capable of browsing the file system (i.e File Manager).
+
+
+Create a shortcut on the home screen
+------------------------------------
+
+For easy access, create a shortcut to the Field Survey app on the home screen. 
+
+To create a shortcut:
+
+1. Click on the Applications icon on the phone home screen. 
+
+2. From the list of applications, press and hold on the Akvo FLOW app icon. 
+
+.. figure:: img/2-allapps.png
+   :width: 200 px
+   :alt: All apps
+   :align: center
+
+3. The shortcut to the Akvo FLOW app now appears on your home screen.
+
+.. figure:: img/2-shortcut.png
+   :width: 200 px
+   :alt: Akvo FLOW app shortcut
+   :align: center
+
+   After long-clicking on the Field Survey app, the icon is placed on the home screen
+
+
+Installing GPS tools
+--------------------
+
+In addition to the Akvo FLOW app, we recommend using an app that allows you to calibrate and monitor the GPS. A free, suitable app is *GPS Status & Toolbox*.
+
+Obtaining and using GPS Status & Toolbox:
+
+1. Use the direct download method described above. In the browser, go to xxxx.akvoflow.org/gps. (replace xxxx with the flow instance name) This will download the GPS Status app. In the notification bar, click on the app to install it, as described above.
+
+2. When the app is installed, open it. The app will automatically try to download the AGPS data it needs.
