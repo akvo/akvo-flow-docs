@@ -1,5 +1,0 @@
-0.5 Overview
-=============================
-
-Akvo FLOW is a monitoring platform that enables the effective collection, presentation, and analysis of survey data. Survey data is collected through the Field Survey app, which runs on smart phones. The data is then transmitted to a central database called the FLOW Dashboard. The phones can collect a wide variety of data including pictures, GPS coordinates, surveys, and bar code scans. Collected data is displayed on the FLOW Dashboard for review, on Google Earth maps and several other report formats.
-This documentation describes how to set up the Android phones to use the Field Survey app, and how to install and use the software to collect and upload survey data.
