@@ -74,6 +74,29 @@ When Internet is not available, there is an alternative way to install the app:
 Note: If *My Files* app is not available in the device, you can use any other app capable of browsing the file system (i.e File Manager).
 
 
+Updating the Akvo FLOW app
+--------------------------
+
+Starting with version 1.13.0, the Akvo FLOW app can be automatically updated from within the app. The original method of sending the APK file to the device by email and installing it from there will remain available, but this new feature will make updating the app much easier.
+
+1. Whenever a new Akvo FLOW app update is available, the app will display a pop-up, asking the user to update the app.
+
+.. figure:: img/update-available.png
+   :width: 200 px
+   :alt: App update available pop-up
+   :align: center
+
+2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole APK has to be downloaded. Users should try to proceed with the update with a WiFi connection, if possible. This decision is very important, as if the download is unsuccessful, the corrupted file will not be able to be installed. If you are ready to install the update, click **Download & Install**.
+
+3. After the download is complete, click 'Install'.
+
+.. figure:: img/install-update.png
+   :width: 200 px
+   :alt: Install the latest version
+   :align: center
+
+The new version of the Akvo FLOW app will now be installed and ready to use. Note that all collected data will still remain in the device.
+
 Create a shortcut on the home screen
 ------------------------------------
 

@@ -77,3 +77,44 @@ Before you start collecting data, it is important to check it the date and time 
 1.	On the home screen, press **Settings**. 
 2.	Click **date and time**.
 3.	Check if the date and time are correct, otherwise change. 
+
+
+Calibrate GPS
+-------------
+Every time the phones are moved more than 600 miles (500 kilometers) from the last location where they were calibrated, the GPS system needs to be re-calibrated to ensure GPS coordinates are accurate. The calibration can be done with or without a SIM card in the phone.
+
+If the SIM cards and APN are set correctly on the phone, the calibration process takes only a few minutes. If these are not set correctly, it can take up to 30 minutes.
+ 
+You need to install the free App ‘GPS Status & Toolbox’ from the Playstore. 
+
+**To calibrate GPS:**
+
+1.	Take the phone outside to a location where there is a clear view of the sky. It makes no difference whether the sky is cloudy or clear.
+2.	On the phone home screen, click the GPS Status icon 
+
+.. figure:: img/3-3GPS_icon.png
+   :width: 30 px
+   :alt: image of phone
+   :align: center
+
+3.	If your GPS is disabled, you are prompted to enable GPS. Select **Use GPS Satellites** and then return to the previous screen. The GPS application appears.
+
+.. figure:: img/3-3GPS_screen.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+4.	Wait until the margin of error appears and is between 5 and 10 meters. This can take anywhere from 30 seconds to 30 minutes. 
+
+
+Check SD card status
+--------------------
+Before you start data collection, you need to check if there is enough space available on your SD card. 
+
+We recommend that at least 2 GB is available. However, 4 GB will be better if you need to collect photos as well. 
+
+**To check how much space is left on your SD card:**
+
+1.	In the home screen click **Settings**, and then **Preferences**.
+2.	Click **SD card and storage**.
+3.	Here you can see how much is the **total space** and **available space**.
