@@ -1,5 +1,5 @@
-Setting up the Akvo FLOW app
-============================
+Setup
+=====
 Before you start using the Akvo FLOW app, you must do the following on your phone:
 
 •	`Connect the phone to a Wi-Fi network or mobile data connection. <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-up-wi-fi.html>`_  

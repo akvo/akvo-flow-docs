@@ -70,7 +70,7 @@ From within a Data Point, we have access to *Forms*, *History*, and *Map* tabs, 
 Forms
 ^^^^^
 
-Note: *Form* and *Survey* are equivalent terms, and can be used interchangeably.
+*Note: 'Form' and 'Survey' are equivalent terms, and can be used interchangeably.*
 
 **Forms** tab contains the forms for a particular Data Point. Given the aforementioned description, we may encounter many forms (monitored Data Point), or a single one (non-monitored Data Point).
 

@@ -1,5 +1,5 @@
-Installing the Akvo FLOW app
-============================
+Installation
+============
 
 This document describes two ways of installing the Akvo FLOW app on a phone or tablet: a simple way that can be used if there is Wi-Fi or 3G available, and a more technical way that can be used when no such Internet connection is available. In most cases, the first option (installation by direct download) will work, and is the preferred method. Before installing, the device needs to be prepared.
 
