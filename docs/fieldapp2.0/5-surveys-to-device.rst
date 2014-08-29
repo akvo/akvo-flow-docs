@@ -9,12 +9,10 @@ Every time the Akvo FLOW app is launched, it checks for newly assigned forms and
 
 When you launch the application, the phone sends a signal to the web-based FLOW Dashboard to indicate that your device is available for form assignments. On the Dashboard, the project manager can assign a form or set of forms to the device. Assigned forms are automatically downloaded from the FLOW server when your phone is turned on, provided you have internet or network connectivity.
 
-.. figure:: img/4-1automatic_download_installed_surveys_updated.png
+.. figure:: img/surveys-updated.png
    :width: 200 px
    :alt: image of phone
    :align: center
-
-   TODO: Replace image
 
 Manual download from settings menu
 ----------------------------------
@@ -23,37 +21,31 @@ Manual download from settings menu
 Before you start, you need the ID of the form. On the dashboard, you can find this if you view the details of the form. 
 1.   On the Akvo FLOW app home screen, click **Settings**. 
 
-.. figure:: img/settings.png
+.. figure:: img/settings-icon.png
    :width: 200 px
    :alt: Settings
    :align: center
 
 2.   From the list, select **Download Survey**.
 
-.. figure:: img/4-3download_survey.png
+.. figure:: img/download-survey.png
    :width: 200 px
    :alt: image of phone
    :align: center
-
-   TODO: Replace image
 
 3.   Enter the Authorization passcode **12345** and click **OK**.
 
-.. figure:: img/4-3authorization_passcode.png
+.. figure:: img/passcode.png
    :width: 200 px
    :alt: image of phone
    :align: center
-
-   TODO: Replace image
 
 4.   Enter the Survey ID of the form you wish to download and click **OK**.
 
-.. figure:: img/4-3enter_survey_ID.png
+.. figure:: img/surveyid.png
    :width: 200 px
    :alt: image of phone
    :align: center
-
-   TODO: Replace image
 
 Manual transfer (bootstrap)
 ---------------------------

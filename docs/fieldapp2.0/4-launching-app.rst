@@ -9,7 +9,7 @@ Before you start using the Akvo FLOW app, you must do the following on your phon
 
 In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcut in the home screen, you can also launch the app clicking it.
 
-.. figure:: img/2-shortcut.png
+.. figure:: img/homescreen-shortcut.png
    :width: 200 px
    :alt: Akvo FLOW app shortcut
    :align: center
@@ -22,7 +22,7 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
 
 1.	Click on the **Settings** icon on the main screen.
 
-.. figure:: img/settings.png
+.. figure:: img/settings-icon.png
    :width: 200 px
    :alt: App Settings
    :align: center
@@ -105,7 +105,7 @@ Remembering user
 
 If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. Then click the **Settings** icon on the main screen. 
 
-.. figure:: img/settings.png
+.. figure:: img/settings-icon.png
    :width: 200 px
    :alt: Settings
    :align: center

@@ -11,14 +11,14 @@ Before the FLOW app can be installed, the device must be configured to allow dow
 
 1. Under Settings, select Security. 
 
-.. figure:: img/2-settings-security.png
+.. figure:: img/settings-security.png
    :width: 200 px
    :alt: Settings > Security
    :align: center
 
 2. Enable the setting *Unknown sources* (If you cannot find the Unknown sources option under Security, check under Applications).
 
-.. figure:: img/2-unknownsources.png
+.. figure:: img/security-unknownsources.png
    :width: 200 px
    :alt: Enable Unknown sources option
    :align: center
@@ -47,7 +47,7 @@ Follow these steps to download the app directly to the device:
 
 4. When the download is complete, draw down the notification bar from the top of the screen. If the download succeeded, you will see *flow-2.x.x.apk, download complete*. Click on the notification, and click *Install*.
 
-.. figure:: img/2-downloaded.png
+.. figure:: img/download-notification.png
    :width: 200 px
    :alt: Download icon
    :align: center
@@ -81,7 +81,7 @@ Starting with version 1.13.0, the Akvo FLOW app can be automatically updated fro
 
 1. Whenever a new Akvo FLOW app update is available, the app will display a pop-up, asking the user to update the app.
 
-.. figure:: img/update-available.png
+.. figure:: img/upgrade-popup.png
    :width: 200 px
    :alt: App update available pop-up
    :align: center
@@ -90,7 +90,7 @@ Starting with version 1.13.0, the Akvo FLOW app can be automatically updated fro
 
 3. After the download is complete, click 'Install'.
 
-.. figure:: img/install-update.png
+.. figure:: img/upgrade-install.png
    :width: 200 px
    :alt: Install the latest version
    :align: center
@@ -105,17 +105,10 @@ For easy access, create a shortcut to the Field Survey app on the home screen.
 To create a shortcut:
 
 1. Click on the Applications icon on the phone home screen. 
-
 2. From the list of applications, press and hold on the Akvo FLOW app icon. 
-
-.. figure:: img/2-allapps.png
-   :width: 200 px
-   :alt: All apps
-   :align: center
-
 3. The shortcut to the Akvo FLOW app now appears on your home screen.
 
-.. figure:: img/2-shortcut.png
+.. figure:: img/homescreen-shortcut.png
    :width: 200 px
    :alt: Akvo FLOW app shortcut
    :align: center
@@ -133,4 +126,3 @@ Obtaining and using GPS Status & Toolbox:
 1. Use the direct download method described above. In the browser, go to xxxx.akvoflow.org/gps. (replace xxxx with the flow instance name) This will download the GPS Status app. In the notification bar, click on the app to install it, as described above.
 
 2. When the app is installed, open it. The app will automatically try to download the AGPS data it needs.
-
