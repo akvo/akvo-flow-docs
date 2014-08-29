@@ -14,7 +14,10 @@ From within the form's menu, we have access to a few set of settings:
 * **Clear:** Clears all the responses collected so far, without sending them to the server. To clear the response to a particular question, long-click the question text and click OK. 
 * **Languages:** Allows you to select one or more languages in which you want the form questions to appear, if the form was configured to support multiple languages. 
 
-*Insert menu screenshot here*
+.. figure:: img/survey-menu.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 Navigating a form 
 -----------------
@@ -31,7 +34,10 @@ Question Types
 * **Date** - Displays a date picker to select a date in DD-MM-YYYY format.
 * **Barcode** - Displays the option to scan a barcode from the device and record the barcode number in the form. Click the **Scan Barcode** button to trigger the scan reader app. *Note: Requires an external barcode scanning-app to be installed on the device.*
 
-*Insert different questions screenshot*
+.. figure:: img/questions.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 Dependent questions
 ^^^^^^^^^^^^^^^^^^^
@@ -41,17 +47,20 @@ Mandatory questions
 ^^^^^^^^^^^^^^^^^^^
 Questions marked with an asterisk(*) in the title are mandatory. This means that the form cannot be submitted if any of its mandatory questions is not answered yet. The *Submit* tab will display a list with all mandatory questions that are still unanswered.
 
-*Insert invalid question list screenshot*
+.. figure:: img/invalid-questions.png
+   :width: 200 px
+   :alt: image of phone
+   :align: center
 
 Help text
 ^^^^^^^^^
 Forms can be configured to include help text. If help is available for a specific question the **help** icon is displayed next to the question text. Click this icon to open the help tool.
 
-.. figure:: img/help_icon.png
-   :width: 80 px
+.. figure:: img/help.png
+   :width: 200 px
    :align: center
 
-   TODO: Replace image
+   Help icon displays a pop-up with the question help text
 
 Language
 ^^^^^^^^
@@ -60,12 +69,12 @@ If you've created forms with translations on the dashboard and assigned them to 
 
 To display one or more translations for a form, select *Languages* in the form menu. This will display all of the available translations (i.e. the ones you entered on the dashboard) for all the forms on the device.
 
-.. figure:: img/5-conducting-surveys_devicelanguages.jpg
+.. figure:: img/languages.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
-   TODO: Replace image
+   You can tick as many languages as you want
    
 Tick one or more of the language boxes. Ticking one language will display just that language for the form. Ticking more than one will display multiple languages in different colours. Question text, question options, and help text will be displayed in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
 
@@ -77,11 +86,11 @@ When you complete a form, you must submit it for upload to the FLOW server for s
 
 To submit a form, navigate to the **Submit** tab, which is the last tab in the form. If there are unanswered mandatory questions, or invalid answers, the Submit tab lists these questions. The **Submit** button is disabled until all invalid questions are handled.
 
-.. figure:: img/9-submit-manual-10.png
+.. figure:: img/submit.png
    :width: 200 px
    :align: center
 
-   TODO: Replace image
+   Once all the questions are filled in, you can submit the form
 
 
 When you click **Submit** at the end of a form, the form is locked to prevent further editing, and uploaded to the FLOW server immediately. If network connectivity is not available, the form is queued in the phone until connectivity is restored. The data will automatically be sent to the server. This connection can be via Wi-Fi or over mobile network. 
@@ -92,7 +101,7 @@ If you want more in-depth information, you can long-click any submitted form to 
 
 *Note: It is always better to submit data from the device right away over the network. If users store data on their devices while waiting for an opportunity to import it later, there is always the danger of permanent data loss if the device is damaged or lost.*
 
-*Note: Ensure that the `date and time setting <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_  on your phone is correct before you submit a form.*
+*Note: Ensure that the 'date and time' setting on your phone is correct before you submit a form.*
 
 Saving and reviewing a form
 ---------------------------

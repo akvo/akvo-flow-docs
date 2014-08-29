@@ -58,48 +58,6 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
 *Note: In situations where an Internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
 
-
-Set Access Point Name (APN)
----------------------------
-Depending on your situation, this section may not be necessary. If your data plan is already working for your phone, you can skip this.
-
-Local Internet service providers use APN settings to activate data plans using SIM cards on phones that were purchased abroad. Every service provider has different APN settings and they change these settings periodically for security reasons. When you purchase the SIM cards, ask the Internet Service Provider to give you the correct APN settings for the SIM Card.
-
-**To set the Access Point name:**
-
-1.	On the home screen, press **Settings**. 
-
-2.	From the options, choose **More…** and then select **Mobile Networks**.
-
-.. figure:: img/2-1set_APN_select_more_from_settings.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-3.	Select **Access Point Name**.
-
-.. figure:: img/2-1set_access_point_name.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
-4.	Press the **Menu** button and select **New APN**.
-
-.. figure:: img/2-1select_new_APN.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-5.	Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
-
-.. figure:: img/2-1fill_in_required_APN_settings.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
-6.	Press the **Home** key when you are done.   
-   
-
 Setting data and time on the phone
 ----------------------------------
 Before you start collecting data, it is important to check it the date and time are set correct. The date and time stamp on each data submission takes this information from the phone. If it is set incorrectly, you will get errant date/time stamps. 
@@ -122,22 +80,15 @@ You need to install the free App ‘GPS Status & Toolbox’ from the Playstore.
 **To calibrate GPS:**
 
 1.	Take the phone outside to a location where there is a clear view of the sky. It makes no difference whether the sky is cloudy or clear.
-2.	On the phone home screen, click the GPS Status icon 
-
-.. figure:: img/3-3GPS_icon.png
-   :width: 30 px
-   :alt: image of phone
-   :align: center
-
+2.	Open the GPS Status app
 3.	If your GPS is disabled, you are prompted to enable GPS. Select **Use GPS Satellites** and then return to the previous screen. The GPS application appears.
 
-.. figure:: img/3-3GPS_screen.png
+.. figure:: img/gps-status.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
 4.	Wait until the margin of error appears and is between 5 and 10 meters. This can take anywhere from 30 seconds to 30 minutes. 
-
 
 Check SD card status
 --------------------
