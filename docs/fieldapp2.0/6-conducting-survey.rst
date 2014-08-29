@@ -20,10 +20,31 @@ Navigating a form
 -----------------
 Before you begin collecting data, you must understand that each form contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab. To switch between tabs, you can either swipe the screen, or click in the tab title.
 
+Question Types
+^^^^^^^^^^^^^^
+
+* **Free text** - Plain text question. Text can be letters, numbers and symbols.
+* **Option** - Displays a set of preset options to select from. Option questions can be single or multiple answer.
+* **Number** - Allows only numbers to be typed into the answer entry field.
+* **Geolocation** - Uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the **Check Geo Location** button to start searching for the position.
+* **Photo** and **Video** - Displays the option to take a photo or video as part of the survey. Click the **Take Photo** or **Take Video** buttons on the device to access the device camera.
+* **Date** - Displays a date picker to select a date in DD-MM-YYYY format.
+* **Barcode** - Displays the option to scan a barcode from the device and record the barcode number in the form. Click the **Scan Barcode** button to trigger the scan reader app. *Note: Requires an external barcode scanning-app to be installed on the device.*
+
+*Insert different questions screenshot*
+
+Dependent questions
+^^^^^^^^^^^^^^^^^^^
+Some questions are dependent on the answer from any preceding option question in the same form. The form will be adapted (hiding/showing dependent questions) while conducting the form.
+
+Mandatory questions
+^^^^^^^^^^^^^^^^^^^
+Questions marked with an asterisk(*) in the title are mandatory. This means that the form cannot be submitted if any of its mandatory questions is not answered yet. The *Submit* tab will display a list with all mandatory questions that are still unanswered.
+
+*Insert invalid question list screenshot*
 
 Help text
 ^^^^^^^^^
-
 Forms can be configured to include help text. If help is available for a specific question the **help** icon is displayed next to the question text. Click this icon to open the help tool.
 
 .. figure:: img/help_icon.png
