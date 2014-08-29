@@ -12,19 +12,19 @@ Once the form is opened, you can enter responses to the questions. When you fini
 From within the form's menu, we have access to a few set of settings:
 
 * **Clear:** Clears all the responses collected so far, without sending them to the server. To clear the response to a particular question, long-click the question text and click OK. 
-* **Languages:** Allows you to select one or more languages in which you want the survey questions to appear, if the survey was configured to support multiple languages. 
+* **Languages:** Allows you to select one or more languages in which you want the form questions to appear, if the form was configured to support multiple languages. 
 
 *Insert menu screenshot here*
 
-Navigating a survey 
--------------------
-Before you begin collecting data, you must understand that each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab. To switch between tabs, you can either swipe the screen, or click in the tab title.
+Navigating a form 
+-----------------
+Before you begin collecting data, you must understand that each form contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the screen. You can fill in the questions in any order, moving from tab to tab. To switch between tabs, you can either swipe the screen, or click in the tab title.
 
 
 Help text
 ^^^^^^^^^
 
-Surveys can be configured to include help text. If help is available for a specific question the **help** icon is displayed next to the question text. Click this icon to open the help tool.
+Forms can be configured to include help text. If help is available for a specific question the **help** icon is displayed next to the question text. Click this icon to open the help tool.
 
 .. figure:: img/help_icon.png
    :width: 80 px
@@ -35,9 +35,9 @@ Surveys can be configured to include help text. If help is available for a speci
 Language
 ^^^^^^^^
 
-If you've created surveys with translations on the dashboard and assigned them to your devices, you can access those translations on the device for conducting surveys in the field.
+If you've created forms with translations on the dashboard and assigned them to your devices, you can access those translations on the device for conducting forms in the field.
 
-To display one or more translations for a survey, select *Languages* in the form menu. This will display all of the available translations (i.e. the ones you entered on the dashboard) for all the surveys on the device.
+To display one or more translations for a form, select *Languages* in the form menu. This will display all of the available translations (i.e. the ones you entered on the dashboard) for all the forms on the device.
 
 .. figure:: img/5-conducting-surveys_devicelanguages.jpg
    :width: 200 px
@@ -46,7 +46,7 @@ To display one or more translations for a survey, select *Languages* in the form
    
    TODO: Replace image
    
-Tick one or more of the language boxes. Ticking one language will display just that language for the survey. Ticking more than one will display multiple languages in different colours. Question text, question options, and help text will be displayed in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
+Tick one or more of the language boxes. Ticking one language will display just that language for the form. Ticking more than one will display multiple languages in different colours. Question text, question options, and help text will be displayed in all of the translations you’ve selected if they’ve been entered and published from the dashboard.
 
 After completing all the questions, we are ready to *submit* the form.
 
@@ -71,7 +71,7 @@ If you want more in-depth information, you can long-click any submitted form to 
 
 *Note: It is always better to submit data from the device right away over the network. If users store data on their devices while waiting for an opportunity to import it later, there is always the danger of permanent data loss if the device is damaged or lost.*
 
-*Note: Ensure that the `date and time setting <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_  on your phone is correct before you submit a survey.*
+*Note: Ensure that the `date and time setting <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_  on your phone is correct before you submit a form.*
 
 Saving and reviewing a form
 ---------------------------
@@ -79,4 +79,4 @@ Form responses are automatically saved as you answer them. You can leave as many
 
 Under the *History* tab, you can also review the responses of a submitted form, just selecting the form and opening it in *read-only* mode. No further editing will be available for such a form.
 
-Icons next to each survey will depict at what stage of transmission it is in. Refer to the **Projects and Data Points** section for more details.
+Icons next to each form will depict at what stage of transmission it is in. Refer to the **Projects and Data Points** section for more details.

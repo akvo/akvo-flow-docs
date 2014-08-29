@@ -4,7 +4,7 @@ Projects and Data Points
 Projects
 --------
 
-Unlike previous versions of the Akvo FLOW app, surveys are now grouped into projects, which act as containers to group surveys with a similar nature. All available projects are presented in the main screen of the app, and are automatically created when synchronising surveys into the device (more on survey synchronisation later). In order to interact with a project, **you must have a user selected**. Please, refer to the *Manage Users* section to learn how to create and select users.
+Unlike previous versions of the Akvo FLOW app, forms are now grouped into projects, which act as containers to group forms with a similar nature. All available projects are presented in the main screen of the app, and are automatically created when synchronising forms into the device (more on form synchronisation later). In order to interact with a project, **you must have a user selected**. Please, refer to the *Manage Users* section to learn how to create and select users.
 
 
 *Insert project list screenshot here*
@@ -28,21 +28,21 @@ We can also see an overview of the data collection statistics, by clicking the *
 
 *Insert stats screenshot*
 
+*Note:* The current version of Akvo FLOW does not allow project synchronisation or download. Projects are **automatically created** with each form synchronisation.
+
 Data Points
 -----------
 
-A Data Point contains all the information collected for a particular *entity*. Some Data Points hold more than one survey, and all their responses will be part of the same Data Point. This is particularly useful when the goal is to track data changes over time, and a given point needs to be checked out on a periodical basis. This allows us to effectively relate survey responses to the same point, even collecting multiple responses of the same survey.
+A Data Point contains all the information collected for a particular *entity*. Some Data Points hold more than one form, and all their responses will be part of the same Data Point. This is particularly useful when the goal is to track data changes over time, and a given point needs to be checked out on a periodical basis. This allows us to effectively relate form responses to the same point, even collecting multiple responses of the same form.
 
-Each Data Point has a unique identifier, along with a meaningful name (automatically created based on survey responses) and a geolocation. To select a Data Point, click on its row in the *Data Points* tab, or browse the *Map* tab to find it. You can alternatively use the *search* functionality, simply clicking the search icon and typing the Data Point name or ID.
+Each Data Point has a unique identifier, along with a meaningful name (automatically created based on form responses) and a geolocation. To select a Data Point, click on its row in the *Data Points* tab, or browse the *Map* tab to find it. You can alternatively use the *search* functionality, simply clicking the search icon and typing the Data Point name or ID.
 
 *Insert map tab screenshot*
-
-// Before we dive into surveys, we need to make a subtle difference between the two types of Data Points we might find in the app.
 
 Monitored Data Points
 ^^^^^^^^^^^^^^^^^^^^^
 
-A monitored Data Point is one that contains multiple surveys within it. Typically, one of this surveys will be the *Registration form*, which will collect basic data about the entity being surveyed. This normally involves collecting the name, location, etc -- In essence, attributes that **do not** change over time. All surveys responded in a Monitored Data Point will be appended to the history tab. This will let us browse any data collected for a particular point.
+A monitored Data Point is one that contains multiple forms within it. Typically, one of this forms will be the *Registration form*, which will collect basic data about the entity being surveyed. This normally involves collecting the name, location, etc -- In essence, attributes that **do not** change over time. All forms responded in a Monitored Data Point will be appended to the history tab. This will let us browse any data collected for a particular point.
 
 *Insert history tab screenshot*
 
@@ -63,9 +63,9 @@ Once the synchronisation is finished, the notification will show the total amoun
 Non-monitored Data Points
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Non-monitored Data Points behave pretty much like the monitored ones, except with one difference: they only contain one survey. Furthermore, Projects holding non-monitored Data Points cannot be synchronised. Only locally collected data will be available in the device.
+Non-monitored Data Points behave pretty much like the monitored ones, except with one difference: they only contain one form. Furthermore, Projects holding non-monitored Data Points cannot be synchronised. Only locally collected data will be available in the device.
 
-From within a Data Point, we have access to *Forms*, *History*, and *Map* tabs, which represent survey definitions, responses, and point location, respectively.
+From within a Data Point, we have access to *Forms*, *History*, and *Map* tabs, which represent form definitions, responses, and point location, respectively.
 
 Forms
 ^^^^^
