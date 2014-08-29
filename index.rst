@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 5
    
    docs/welcome   
+   docs/dashboard
    docs/field_survey_app
    docs/field_survey_app2.0
-   docs/dashboard
    docs/tutorials

@@ -18,3 +18,4 @@ Contents:
    fieldapp/4-surveys-to-device
    fieldapp/5-conducting-survey
    fieldapp/6-post-survey
+git

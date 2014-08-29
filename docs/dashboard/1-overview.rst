@@ -26,6 +26,6 @@ The Akvo FLOW Development Team frequently updates the Dashboard with new or enha
 Getting started with the Dashboard
 -----------------------------------------
 
-Gmail account
+Google account
 ^^^^^^^^^^^^^^^^^^^
-The Dashboard is controlled by permissions and a free Gmail account is required in order to access the Dashboard. If you do not already have a Gmail account, go to https://www.google.com/accounts/NewAccount and create one and then email your Gmail username to a FLOW administrator and they will give you access to the Dashboard. 
+The Dashboard is controlled by permissions and a free Google account is required in order to access the Dashboard. Many people have a Gmail account they use for this purpose, but you can also create a Google account and couple it to a different email address. If you do not already have a Google account, go to https://www.google.com/accounts/NewAccount and create one. Once you have an email address coupled to a Google account, you can send it to a Akvo staff member who can give you access to your dashboard.
