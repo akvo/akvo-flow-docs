@@ -38,6 +38,21 @@ Raw data report
 ~~~~~~~~~~~~~~~
 The raw data report exports all submitted raw data for a single survey to an Excel spreadsheet (.xlsx). This report contains all responses submitted for the survey. 
 
+Exporting data point data
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+To export data, go to the 'Reports' tab, and select the 'Export reports' subtab. Here, you can select a survey group and survey form, and . If you select a survey group that is also a monitored group, a checkbox 'Export only last collection' will be displayed. When this is enabled, only the latest collected data for that survey will be exported. For example, if you have collected water several meter readings for a single water meter, and this checkbox is selected, only the last one will be exported. (see :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.)
+
+ .. figure:: img/4-monitoring.png
+   :width: 800 px
+   :alt: Illustration of monitoring
+   :align: center
+
+The exported file will contain the data point identifier and the display name as the first two columns. 
+
+In a real-life situation, you might want to export a report which combines answers from different forms. For example, if you are monotoring water meters, you might want to export a file which has the customer name and address, plus the latest value of the water meter reading. At the moment, this type of exporting is not yet possible, but it will be made available in a future version of FLOW.
+
+In the mean time, you can use an excel technique to match data accross different files, based on the identifier of each data point. This uses the VLOOKUP function, as described `in this article <http://howtovlookupinexcel.com/vlookup-between-two-workbooks>`_  and `this instruction movie <https://www.youtube.com/watch?v=809m6kLTfgI>`_. If you need help in implementing this, please contact us as support@akvoflow.org
+
 Comprehensive report
 ~~~~~~~~~~~~~~~~~~~~
 The comprehensive report exports all raw data along with optional summarized survey data for geographic areas and optional charts to an Excel spreadsheet (.xlsx). Because these reports contain analysis and graphs, they may take a long time and generate a large report, depending on the amount of data collected with the selected survey.

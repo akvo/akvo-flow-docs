@@ -103,4 +103,17 @@ When you are ready to re-import the cleaned data spreadsheet, return to the page
 
 A progress bar will appear below informing you of the content and status of the import. When the import is complete, you'll see a confirmation message. After the initial import, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
 
+Viewing data point data
+------------------------
+
+To see which data points are available for a monitoring project, open the 'Monitoring' subtab on the 'Data' tab. There, you can select the survey group that contains the monitoring project, and you will see a table with the data points within that project. The table shows 'identifier', 'display name', and 'last update'. The identifier is the unique identifier of the data point. The display name is derived from answers to questions in the 'registration' form. The setting 'display in data point list on device' on free text questions determines if answers to that question become part of the display name. (ssee :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.)
+
+ .. figure:: img/3-monitoring.png
+   :width: 800 px
+   :alt: Illustration of monitoring
+   :align: center
+
+When you click 'view details' on any one of the data points in the table, you will see the survey responses that are part of a single data point. For each submitted survey response, the survey, submitter, device, and collection data are displayed.
+
+When you click 'view details' on a survey response, you will see the individual answers given to the questions in that response.
 
