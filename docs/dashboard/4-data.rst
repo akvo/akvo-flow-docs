@@ -61,11 +61,12 @@ You can delete individual data records by locating a record in the data table an
 
 Note: Only Admin level users have the Delete option available. This action permanently deletes the data record from the FLOW database and cannot be undone.
 
+.. _bulk_upload_data:
 
 Bulk upload data
 ----------------
 
-The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data have been collected offline due to limited connectivity circumstances in the field. The tool imports the selected device data zip and image jpeg files and stores them in the database with the appropriate survey.
+The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data has been collected offline due to limited connectivity in the field. The bulk uploader is situated on the 'Bulk Upload Data' subtab in the data tab.
 
  .. figure:: img/4-data_bulkupload.png
    :width: 600 px
@@ -74,9 +75,17 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
    The bulk upload section of the Data tab.
 
-There are two ways to load files into the bulk uploader once you've copied them onto a computer from your device. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
+The first step is to get the data from the device. To do this, follow these steps:
 
-The files you upload must be .zip or .jpg files. 
+1. Connect the device to a computer using a USB cable, so you can see the contents of the sd-card.
+
+2. Go to the folder where the data is stored. When using FLOW app with version below 2.0, this is the 'surveyal' folder, inside the 'fieldsurvey' folder. For FLOW apps with version larger than 2.0, this is the 'data' folder inside the 'akvoflow' folder.
+
+3. Create a single zip file of the entire folder (so the 'surveyal' or the 'data' folder).
+
+4. Move the zip file to the computer.
+
+Secondly, you need to upload the data using the dashboard. There are two ways to do this. First, you can drag and drop them into the box on the dashboard, which will start the upload right away. Second, you can click "select from computer" and select the files to upload.
 
 Note: Navigating away from the page while the upload is in progress, either by navigating elsewhere on the dashboard or closing the browser window will interrupt and cancel the upload in progress.
 

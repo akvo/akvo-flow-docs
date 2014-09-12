@@ -85,6 +85,7 @@ Find the device(s) in the Devices List and tick the box next to each device in t
 
    Click OK to confirm that you'd like to remove the device from the group.
 
+.. _create_survey_assignment:
 
 Viewing and creating survey assignments
 ---------------------------------------
@@ -158,6 +159,7 @@ Saving an assignment will trigger the surveys you selected to download onto the 
 
 Find it in the Assignments List and click the Edit icon in the Action column for that assignment.
 
+.. _manual_survey_transfer:
 
 Manual survey transfer
 ----------------------
@@ -179,6 +181,14 @@ Select a survey from the list by clicking to highlight and then click “+ add s
 
 *In 02. Notification details*, enter the email address to which you'd like to send the survey file. You can enter just one email address. 
 
-Once you are finished, click the Send File button. You'll see a confirmation pop-up. Check your email for an email from "FLOW" with the subject line "FLOW bootstrap file." The email will contain a link to download the bootstrap file. Click the link to download the file to your computer. Once you've done that, you can transfer the file to your device by connecting it to the same computer where you downloaded the survey file.
+Once you are finished, click the Send File button. You'll see a confirmation pop-up. Check your email for an email from "FLOW" with the subject line "FLOW bootstrap file." The email will contain a link to download the bootstrap file. Click the link to download the file to your computer. Do NOT unzip the file. 
 
+Once you've done that, follow these steps:
 
+1. Connect your device to a computer using a USB cable, so you can see the contents of the SD card. 
+
+2. Go to the folder akvoflow/inbox
+
+3. Copy the survey zip file to the inbox folder
+
+4. Disconnect the device, and start the FLOW app. The new form will automatically be found.

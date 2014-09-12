@@ -1,7 +1,9 @@
 Collecting Data
 ===============
 
-*Note: If you have used your phone in a previous data collection exercise, it is important to clear all the data off of the phone before you begin the next exercise so that you do not run the risk of exceeding the storage limits of your phone’s SD card and potentially losing data. If you use your phone for ongoing data collection, it is important to clear the phone of data at regular intervals.*
+*Note: If you have used your phone in a previous data collection exercise, it is important to clear all the data off of the phone before you begin the next exercise so that you do not run the risk of exceeding the storage limits of your phone’s SD card and potentially losing data.
+
+
 
 Before filling out a form, we need to select the Data Point for which the data collection is associated to. Refer to the 'Projects and Data Points' section to learn how to create new Data Points.
 

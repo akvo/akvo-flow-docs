@@ -1,7 +1,7 @@
-Installation
-============
+Installation of FLOW app
+========================
 
-This document describes two ways of installing the Akvo FLOW app on a phone or tablet: a simple way that can be used if there is Wi-Fi or 3G available, and a more technical way that can be used when no such Internet connection is available. In most cases, the first option (installation by direct download) will work, and is the preferred method. Before installing, the device needs to be prepared.
+This document describes two ways of installing the Akvo FLOW app on a phone or tablet: a simple way that can be used if there is Wi-Fi or 3G available, and a more technical way that can be used when no internet connection is available. In most cases, the first option (installation by direct download) will work, and is the preferred method. Before installing, the device needs to be prepared.
 
 
 Preparing the phone
@@ -56,11 +56,11 @@ Follow these steps to download the app directly to the device:
 Installation by putting the app on the phone directly
 -----------------------------------------------------
 
-When Internet is not available, there is an alternative way to install the app:
+When internet is not available, there is an alternative way to install the app:
 
-1. While in a place where Internet is available, get the Akvo FLOW app APK file. You can get it by opening a web browser, and in the address bar, type the address of your Akvo FLOW dashboard, and add '/app2'. For example, if your organisation is called 'care', this would usually be 'care.akvoflow.org/app2'. Please check with your project manager to get the right dashboard location. Save the APK file to your computer.
+1. Get the Akvo FLOW app APK file on your pc or laptop. For this, you need to be connected to the internet. You can get the file by opening a web browser, and in the address bar type the address of your Akvo FLOW dashboard, and add '/app2'. For example, if your organisation is called 'care', this would usually be 'care.akvoflow.org/app2'. Please check with your project manager to get the right dashboard location. Save the APK file to your computer.
 
-2. In the location without Internet connection, connect the device to a computer, so you can see the contents of the SD card. On the SD card, create a temporary folder, for example called 'temp'.
+2. In the location without internet connection, connect the device to a computer using a usb cable, so you can see the contents of the SD card. On the SD card, create a temporary folder, for example called 'temp'.
 
 3. Copy the FLOW app .apk file to this temporary folder.
 
@@ -86,7 +86,7 @@ Starting with version 1.13.0, the Akvo FLOW app can be automatically updated fro
    :alt: App update available pop-up
    :align: center
 
-2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole APK has to be downloaded. Users should try to proceed with the update with a WiFi connection, if possible. This decision is very important, as if the download is unsuccessful, the corrupted file will not be able to be installed. If you are ready to install the update, click **Download & Install**.
+2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole app file has to be downloaded. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click **Download & Install**.
 
 3. After the download is complete, click 'Install'.
 
@@ -96,6 +96,7 @@ Starting with version 1.13.0, the Akvo FLOW app can be automatically updated fro
    :align: center
 
 The new version of the Akvo FLOW app will now be installed and ready to use. Note that all collected data will still remain in the device.
+
 
 Create a shortcut on the home screen
 ------------------------------------
@@ -115,6 +116,7 @@ To create a shortcut:
 
    After long-clicking on the Field Survey app, the icon is placed on the home screen
 
+.. _installing_gps_tools:
 
 Installing GPS tools
 --------------------
@@ -123,6 +125,6 @@ In addition to the Akvo FLOW app, we recommend using an app that allows you to c
 
 Obtaining and using GPS Status & Toolbox:
 
-1. Use the direct download method described above. In the browser, go to xxxx.akvoflow.org/gps. (replace xxxx with the flow instance name) This will download the GPS Status app. In the notification bar, click on the app to install it, as described above.
+1. Use the direct download method described above. In the browser, go to xxxx.akvoflow.org/gps. (replace xxxx with the flow dashboard name) This will download the GPS Status app. In the notification bar, click on the app to install it, as described above.
 
 2. When the app is installed, open it. The app will automatically try to download the AGPS data it needs.

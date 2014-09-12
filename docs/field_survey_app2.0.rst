@@ -13,9 +13,9 @@ Contents:
    :maxdepth: 4
    
    fieldapp2.0/1-phone-requirements
-   fieldapp2.0/3-installing-app
-   fieldapp2.0/4-launching-app
-   fieldapp2.0/5-projects-and-surveys
+   fieldapp2.0/2-installing-app
+   fieldapp2.0/3-launching-app
+   fieldapp2.0/4-projects-and-surveys
    fieldapp2.0/5-surveys-to-device
    fieldapp2.0/6-conducting-survey
    fieldapp2.0/X-syncing-data

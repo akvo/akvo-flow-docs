@@ -1,13 +1,13 @@
-Setup
-=====
+Starting the FLOW app
+=====================
 Before you start using the Akvo FLOW app, you must do the following on your phone:
 
-•	`Connect the phone to a Wi-Fi network or mobile data connection. <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-up-wi-fi.html>`_  
-•	`Set the Access Point Name (APN) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_  
+•	`Connect the phone to a Wi-Fi network or mobile data connection. :ref:`setup_wifi`_  
+•	`Set the Access Point Name (APN). :ref:`setup_APN` (only if needed to activate data plan)
 
 **To start the application:**
 
-In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcut in the home screen, you can also launch the app clicking it.
+In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcut in the home screen, you can also launch the app from there.
 
 .. figure:: img/homescreen-shortcut.png
    :width: 200 px
@@ -16,7 +16,7 @@ In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcu
 
 Set up device ID
 ----------------
-Provide a name (Device ID) for the phone. This name will be used to identify the phone on the FLOW Dashboard. 
+The first time you activate the FLOW app, you have to privide a name (Device ID) for the phone. This name will be used to identify the phone on the FLOW Dashboard. 
 
 **To set up device ID:**
 
@@ -47,6 +47,8 @@ Provide a name (Device ID) for the phone. This name will be used to identify the
    :width: 200 px
    :alt: Device ID
    :align: center
+
+.. _manage_users:
 
 Manage Users
 ------------
@@ -92,7 +94,7 @@ The **Manage Users** feature allows you to create and edit users, and select a p
 Editing and Deleting users
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-To trigger the user options dialog, long-click the username you want to edit/delete. To edit the user information, click **Edit User**. To delete the user, click **Delete User**.
+If you want to change the name of a user or delete the user long-click on the username you want to change. To edit the user information, click **Edit User**. To delete the user, click **Delete User**.
 
 .. figure:: img/edit-user-dialog.png
    :width: 200 px
@@ -103,7 +105,9 @@ To trigger the user options dialog, long-click the username you want to edit/del
 Remembering user
 ^^^^^^^^^^^^^^^^
 
-If you want the system to remember the selected user the next time you open the app, select the user you want to be remembered. Then click the **Settings** icon on the main screen. 
+Each time you open the FLOW app, you need to select a user. If you want the device to remember the user that is currently selected, do this:
+
+Click the **Settings** icon on the main screen. 
 
 .. figure:: img/settings-icon.png
    :width: 200 px

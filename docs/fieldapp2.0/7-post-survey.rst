@@ -1,20 +1,5 @@
-Post-survey
-===========
-
-Check transmission history
---------------------------
-**To check the transmission history:**
-
-1.	Open the **Field Survey App**
-2.	Click **Survey Status**
-3.	Click **Review Saved Surveys** or see also check the survey data status and transmission. 
-4.	Long press on a survey and click **Transmission history** to see the history. 
-
-
-Check SD card status
---------------------
-After data collection, you need to check if there is enough space available on your SD card for your next field visit. How to do this, see `Check SD card status <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/3-launching-app.html#check-sd-card-status.html>`_ .     
-
+Cleaning devices
+=================
 
 Clearing devices of data 
 ------------------------
@@ -64,4 +49,4 @@ Uninstalling Field Survey app
    :alt: image of phone
    :align: center
    
-The old version is uninstalled. Proceed to install the new version of the APK. 
+The FLOW app is now uninstalled.

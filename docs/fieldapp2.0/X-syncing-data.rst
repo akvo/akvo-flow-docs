@@ -3,65 +3,57 @@ Data Sync and Storage
 
 Data Sync
 ---------
-As mentioned in the previous section, if an internet connection is available, data synchronisation happens automatically. No further steps are required from the user once the form is submitted. However, in practice, not always a reliable connection is available, and forms are first **exported** to the SD card before they can be synced. This will allow users to perform a *Bulk Upload* of data, directly retrieving the data from the SD card.
+If an internet connection is available, either through 3G or WiFi, data synchronisation happens automatically. No further steps are required from the user once the form is submitted. 
 
-The following diagram shows the different states a form goes through.
-
-   `Saved --> Submitted --> Exported --> Synced`
-
-As you can see, all the forms are first exported to the SD card before they get the chance to be synced. If you need to perform a data *Bulk Upload*, please refer to the corresponding documentation in the **Dashboard** section.
+If an internet connection is not available, data will be stored on the device for later upload. After a form has been submitted, it is both stored in the internal database of the device, and **exported** to the sd-card. This makes it possible to directly retrieve the data from the sd-card, and do a *bulk upload* to the dashboard if necessary. If you need to perform a data *Bulk Upload*, please refer to the corresponding documentation in the **Dashboard** section: :ref:`bulk_upload_data`.
 
 Data Point status
 ^^^^^^^^^^^^^^^^^
-While browsing the Data Point list, you will see that a status is also associated to each point, effectively displaying the synchronisation status. The status shown here is directly inherited from the Data Point's form statuses, always displaying the *worst-case-scenario*. This allows you to quickly spot which Data Points need attention. To determine this status, the following priorities have been established:
+Each data point in the data point list is shown with an icon. There are three icons:
 
-    1. Saved
-    2. Exported
-    3. Synced
+1. 'Saved' (orange with a disk icon) - this means that a form in the data point was started, but not submitted yet. The user needs to go back to the form, finish it, and submit it.
+2. 'Exported' (orange with a connectivity icon) - this means that a form in the data point was submitted and exported to the sd-card, but not synced to the server yet. The device needs to have connectivity before it can sync the data.
+3. Synced (green with a checkmark icon) - all submitted forms in the data point have been synced to the FLOW server correctly.
 
-Given these priorities, a Data Point will display the *lowest* status among its forms. For instance, a Data Point containing some *synced* forms, one *exported* form, and one *saved* form, will display a **saved** status. If this *saved* form would not have been present in such Data Point, the status will be set to *exported*.
+If there are multiple forms inside a data point, the icon used will display the 'worst case', meaning that if some of the forms are already synced, but one form is not synced, it will display the not-synced icon.
 
-You can order the Data Point list according to the status criteria, by selecting the *Status* option in the *Order By* menu option.
+You can order the Data Point list according to the status, by selecting the *Status* option in the *Order By* menu option.
 
 .. figure:: img/datapoint-status.png
    :width: 200 px
    :align: center
 
-   Ordering the data points by status will put the most important ones (unsynced) at the top
+   Ordering the data points by status will put the most important ones (un-synced) at the top
 
 It is extremely important that you check the synchronisation status before deleting data from the device. Otherwise you might lose data.
 
 Data Storage
 ------------
-As described, all collected data will be stored in the external storage of the device. You can access the external storage and check out the data files if you need, though it will be only necessary in case of manual data upload, or manual form download.
+All collected and submitted data is stored on the sd-card or internal storage of the device. 
 
-*Note: don't be confused by the word "external" here. This directory can better be thought as media/shared storage. It is a filesystem that can hold a relatively large amount of data and that is shared across all applications (does not enforce permissions). Traditionally this is an SD card, but it may also be implemented as built-in storage in a device that is distinct from the protected internal storage and can be mounted as a filesystem on a computer.*
+The directory that holds all Akvo FLOW files is called *akvoflow*. You can find this folder while browsing the top-level directory of the external storage.
 
-The root directory for all Akvo FLOW app files is called *akvoflow*. You can find this folder while browsing the top-level directory of the external storage.
-
-To interact with the data files, the app exposes two different folders inside *akvoflow*: *inbox* and *data*.
+To interact with the data files, the app has two different folders inside *akvoflow*: *inbox* and *data*.
 
 Inbox
 ^^^^^
 
-**inbox** directory is used to manually store form files in the device, in case an internet connection is not available in the device. How to generate form files is described in the **Dashboard** section. Once you have those files, just place them in this directory and open the app. The corresponding projects and forms should be synced now.
+The **inbox** directory where a user can manually put a form zip file, in case an internet connection is not available. How to generate form files is described in the **Dashboard** section: :ref:`manual_survey_transfer`. Once you have those files, just place them in this directory and open the app. The corresponding projects and forms should be synced now.
 
 Data
 ^^^^
-**data** directory is the root folder for all collected data. All data files are stored here before they are sent to the server. When a form is said to be *exported*, it means that it corresponding files can be found here. If the automatic data sync is not available (i.e. no internet connection available), the data must be synced in a manual way, with an approach known as **Bulk Upload**. To perform a bulk upload, the *data* directory must be compressed into a zip file, and uploaded through the dashboard interface. A detailed description on how bulk upload works is presented in the **Dashboard** section.
+The **data** directory is the folder where all collected data is stored. All data files are stored here before they are sent to the server. When a form is *exported* after being submitted, it means that it corresponding files can be found here. If the automatic data sync is not available (i.e. no internet connection available), the data must be synced in a manual way, using **Bulk Upload**. A detailed description on how bulk upload works is presented in the **Dashboard** section: :ref:`bulk_upload_data`.
 
 Data deletion
 ^^^^^^^^^^^^^
-If you have been using the phones extensively or for a previous data collection, it is important to clean them up properly for the next data collection. 
+If you have been using the phones extensively, or for a previous data collection, it is probably a good idea to clean them up for the next data collection, to reclaim space. 
 
-This is important because data is not automatically deleted by the app, so the *data* folder increases in size. When the automatic data sync is used, this is not an issue, as the phone knows what data has been uploaded, and only uploads non-uploaded data. However, when bulk upload is used, the *data* folder is always uploaded completely, which means that the cumulative data is being send each time. This becomes a burden and increases the risk of the bulk upload failing.
+This is important because data is not automatically deleted by the app, so the *data* folder increases in size. We do this to protect data from accidental deletion. If the data folder becomes too large, the sd-card might run out of space. This can be checked here: :ref:`check_sd_card`.
 
-You need to ensure that all that data has been successfully submitted to the FLOW server. This will safeguard you from running the risk of exceeding the storage limits of your phone’s SD card. If you exceed the limits of your phone’s SD card, you could potentially permanently lose form data and/or images.
+In addition, a large data folder becomes a problem when bulk data upload is used. During bulk data upload, the whole data folder is uploaded, including all data that might have already been uploaded before. If the size becomes very large, this increases the risk of the bulk upload failing.
 
-Therefore, you need to: 
+Before you delete data, you need to make sure that all data has been successfully submitted to the FLOW server. After that, you can take these steps to clean up the phone:
 
--	make sure all the data and images are uploaded
--	make sure the data is exported to the SD card
--	make sure the *akvoflow* folder is backed up to the hard drive of a computer
--	empty the *akvoflow* folder
--	empty the DCIM folder (which holds the camera images)
+- backup the 'data' folder on a computer
+- empty the 'data' folder
+- empty the 'inbox' folder

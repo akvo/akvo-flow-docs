@@ -7,7 +7,7 @@ Automatic download (create form assignment)
 -------------------------------------------
 Every time the Akvo FLOW app is launched, it checks for newly assigned forms and updates to existing forms. If there are new or updated forms available, these are downloaded automatically. When new or updated forms have been downloaded, the status bar shows a notification. This is the easiest way to get a form to the phone.
 
-When you launch the application, the phone sends a signal to the web-based FLOW Dashboard to indicate that your device is available for form assignments. On the Dashboard, the project manager can assign a form or set of forms to the device. Assigned forms are automatically downloaded from the FLOW server when your phone is turned on, provided you have internet or network connectivity.
+When you launch the application, the phone sends a signal to the web-based FLOW Dashboard to indicate that your device is available for form assignments. On the Dashboard, the project manager can assign a form or set of forms to the device, as described here: :ref:`create_survey_assignment`. Assigned forms are automatically downloaded from the FLOW server when your phone is turned on, provided you have internet or network connectivity.
 
 .. figure:: img/surveys-updated.png
    :width: 200 px
@@ -16,9 +16,11 @@ When you launch the application, the phone sends a signal to the web-based FLOW 
 
 Manual download from settings menu
 ----------------------------------
+You can also manually download a form. However, this is not recommended, as it will not automatically download updates of forms.
+
 **To download a specific form:**
 
-Before you start, you need the ID of the form. On the dashboard, you can find this if you view the details of the form. 
+Before you start, you need the ID of the form. On the FLOW dashboard, you can find this if you view the details of the form. 
 1.   On the Akvo FLOW app home screen, click **Settings**. 
 
 .. figure:: img/settings-icon.png
@@ -47,6 +49,6 @@ Before you start, you need the ID of the form. On the dashboard, you can find th
    :alt: image of phone
    :align: center
 
-Manual transfer (bootstrap)
+Manual form transfer
 ---------------------------
-Manual survey transfer (formerly known as bootstrap) allows you to generate a file of a FLOW form you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectivity to a wireless or mobile network. How to do this is described in the `Manual survey transfer section <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/3-devices.html#manual-survey-transfer.html>`_ of the Akvo FLOW dashboard documentation.
+Manual form transfer (formerly known as bootstrap) allows you to generate a file of a FLOW form and put it on the FLOW device using a USB cable. This can be useful in situations with low or no connectivity. On the dashboard, you can let the FLOW system email you a zipped version of the form. This file is then placed in the 'akvoflow/inbox' folder on the device. How to do this is described here: :ref:`manual_survey_transfer`.
