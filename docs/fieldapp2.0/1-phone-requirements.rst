@@ -120,28 +120,28 @@ Local Internet service providers use APN settings to activate data plans using S
 
 2. From the options, choose **More…** and then select **Mobile Networks**.
 
-.. figure:: img/2-1set_APN_select_more_from_settings.png
+.. figure:: img/networks.png
    :width: 200 px
    :alt: image of phone
    :align: center
 
 3. Select **Access Point Name**.
 
-.. figure:: img/2-1set_access_point_name.png
+.. figure:: img/accesspoints.png
    :width: 200 px
    :alt: image of phone
    :align: center
 
 4. Press the **Menu** button and select **New APN**.
 
-.. figure:: img/2-1select_new_APN.png
+.. figure:: img/new-apn.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
 5. Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
 
-.. figure:: img/2-1fill_in_required_APN_settings.png
+.. figure:: img/edit-apn.png
    :width: 200 px
    :alt: image of phone
    :align: center
