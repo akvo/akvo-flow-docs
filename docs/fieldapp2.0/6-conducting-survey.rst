@@ -5,11 +5,11 @@ Collecting Data
 
 
 
-Before filling out a form, we need to select the Data Point for which the data collection is associated to. Refer to the 'Projects and Data Points' section to learn how to create new Data Points.
+Before filling out a form, you need to select the data point for which the data collection is associated to. Refer to the :ref:`projects_and_datapoints` section to learn how to create new data points.
 
 To provide a new set of answers for a form, just click on its name in the *Forms* tab. Alternatively, you can select a saved form in the *History* tab.
 
-Once the form is opened, you can enter responses to the questions. When you finish entering responses, you submit the form and the data is sent to the FLOW dashboard, where it will be stored and analysed.
+Once the form is opened, you can enter responses to the questions. When you finish entering responses, submit the form and the data is sent to the FLOW dashboard, where it will be stored and analysed.
 
 From within the form's menu, we have access to a few set of settings:
 
@@ -29,10 +29,10 @@ Question Types
 ^^^^^^^^^^^^^^
 
 * **Free text** - Plain text question. Text can be letters, numbers and symbols.
-* **Option** - Displays a set of preset options to select from. Option questions can be single or multiple answer.
+* **Option** - Displays a set of pre-set options to select from. Option questions can be single or multiple answer.
 * **Number** - Allows only numbers to be typed into the answer entry field.
 * **Geolocation** - Uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the **Check Geo Location** button to start searching for the position.
-* **Photo** and **Video** - Displays the option to take a photo or video as part of the survey. Click the **Take Photo** or **Take Video** buttons on the device to access the device camera.
+* **Photo** and **Video** - Displays the option to take a photo or video as part of the form. Click the **Take Photo** or **Take Video** buttons on the device to access the device camera.
 * **Date** - Displays a date picker to select a date in DD-MM-YYYY format.
 * **Barcode** - Displays the option to scan a barcode from the device and record the barcode number in the form. Click the **Scan Barcode** button to trigger the scan reader app. *Note: Requires an external barcode scanning-app to be installed on the device.*
 
@@ -97,7 +97,7 @@ To submit a form, navigate to the **Submit** tab, which is the last tab in the f
 
 When you click **Submit** at the end of a form, the form is locked to prevent further editing, and uploaded to the FLOW server immediately. If network connectivity is not available, the form is queued in the phone until connectivity is restored. The data will automatically be sent to the server. This connection can be via Wi-Fi or over mobile network. 
 
-As detailed in **Projects and Data Points** section, the form status will be displayed in the *History* tab. A queued form will have a **Exported** status, whereas a fully synced form's status will be **Synced**. Not until all the images attached to a form are sent to the server will the status turn into **Synced**. Users do not have to manually send any form from within the device, for all the transmissions are handled automatically as soon as the internet connection is available.
+As detailed in :ref:`projects_and_datapoints` section, the form status will be displayed in the *History* tab. A queued form will have a **Exported** status, whereas a fully synced form's status will be **Synced**. Not until all the images attached to a form are sent to the server will the status turn into **Synced**. Users do not have to manually send any form from within the device, for all the transmissions are handled automatically as soon as the internet connection is available.
 
 If you want more in-depth information, you can long-click any submitted form to check its *Transmission Status*. This will display the status of any file transmission within the form.
 
@@ -107,8 +107,8 @@ If you want more in-depth information, you can long-click any submitted form to 
 
 Saving and reviewing a form
 ---------------------------
-Form responses are automatically saved as you answer them. You can leave as many saved forms as you want, and continue filling out other Data Points meanwhile. To retrieve a party filled form, navigate to the Data Point's *History* tab, and select the desired *saved* form (i.e. you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the form).
+Form responses are automatically saved as you answer them. You can leave as many saved forms as you want, and continue filling out other data points meanwhile. To retrieve a party filled form, navigate to the data point's *History* tab, and select the desired *saved* form (i.e. you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the form).
 
 Under the *History* tab, you can also review the responses of a submitted form, just selecting the form and opening it in *read-only* mode. No further editing will be available for such a form.
 
-Icons next to each form will depict at what stage of transmission it is in. Refer to the **Projects and Data Points** section for more details.
+Icons next to each form will depict at what stage of transmission it is in. Refer to the :ref:`projects_and_datapoints` section for more details.

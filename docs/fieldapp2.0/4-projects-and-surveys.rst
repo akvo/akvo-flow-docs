@@ -1,3 +1,5 @@
+.. _projects_and_datapoints:
+
 Projects and Data Points
 ========================
 
