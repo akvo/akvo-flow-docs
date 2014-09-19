@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'FLOW'
-copyright = u'CC-BY-SA, Akvo'
+copyright = u'CC-BY-SA, Akvo Foundation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -186,7 +186,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'FLOW.tex', u'FLOW Documentation',
-   u'Mark Tiele Westra, Caetie Ofiesh', 'Laura Roverts', 'manual'),
+   u'Akvo Foundation', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -216,7 +216,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'flow', u'FLOW Documentation',
-     [u'Mark Tiele Westra, Caetie Ofiesh'], 1)
+     [u'Akvo Foundation'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -230,7 +230,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'FLOW', u'FLOW Documentation',
-   u'Mark Tiele Westra, Caetie Ofiesh', 'FLOW', 'One line description of project.',
+   u'Akvo Foundation', 'FLOW', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -267,7 +267,7 @@ texinfo_documents = [
 # would mean that specific document would be compressed
 # regardless of the global pdf_compressed setting.
 pdf_documents = [
-('index', u'FLOW', u'FLOW', u'Mark Tiele Westra'),
+('index', u'FLOW', u'FLOW', u'Akvo Foundation'),
 ]
 # A comma-separated list of custom stylesheets. Example:
 pdf_stylesheets = ['sphinx','kerning','a4']
