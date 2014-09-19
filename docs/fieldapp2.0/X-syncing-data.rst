@@ -7,7 +7,7 @@ If an internet connection is available, either through 3G or WiFi, data synchron
 
 If an internet connection is not available, data will be stored on the device for later upload. After a form has been submitted, it is both stored in the internal database of the device, and **exported** to the sd-card. This makes it possible to directly retrieve the data from the sd-card, and do a *bulk upload* to the dashboard if necessary. If you need to perform a data *Bulk Upload*, please refer to the corresponding documentation in the **Dashboard** section: :ref:`bulk_upload_data`.
 
-Data Point status
+Data point status
 ^^^^^^^^^^^^^^^^^
 Each data point in the data point list is shown with an icon. There are three icons:
 
@@ -17,7 +17,7 @@ Each data point in the data point list is shown with an icon. There are three ic
 
 If there are multiple forms inside a data point, the icon used will display the 'worst case', meaning that if some of the forms are already synced, but one form is not synced, it will display the not-synced icon.
 
-You can order the Data Point list according to the status, by selecting the *Status* option in the *Order By* menu option.
+You can order the data point list according to the status, by selecting the *Status* option in the *Order By* menu option.
 
 .. figure:: img/datapoint-status.png
    :width: 200 px
