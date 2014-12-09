@@ -86,7 +86,7 @@ Starting with version 1.13.0, the Akvo FLOW app can be automatically updated fro
    :alt: App update available pop-up
    :align: center
 
-2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole app file has to be downloaded. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click **Download & Install**.
+2. At this point, it is up to the user when to update the app. However, this update will require a reliable network connection, as the whole app file has to be downloaded. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click **Download & Install**.
 
 3. After the download is complete, click 'Install'.
 
