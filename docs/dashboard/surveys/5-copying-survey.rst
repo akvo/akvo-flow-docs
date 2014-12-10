@@ -1,29 +1,34 @@
 Copying a Survey
 ----------------
 
-Hover your mouse over the name of the survey you'd like to copy, and click the Copy button under the survey details.
+To copy a survey, click the 'Copy' icon on the survey in the list.
 
- .. figure:: ../img/2-surveys_copy_button.png
-   :width: 600 px
+ .. figure:: ../img/2-survey_copy_survey.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
    The copy button for a survey.
 
-This will bring up a window where you can enter the new name of the copied version of the survey and select the destination survey group. If you don't make a selection for the destination, the survey will copy into the current group. 
+The survey will turn green, which means it is ready to be copied. 
 
- .. figure:: ../img/2-surveys_copy_pop.png
-   :width: 600 px
+ .. figure:: ../img/2-copy_survey_2.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-   When you click Copy, you can specify the new name and survey group location for the survey. The default is [survey name] (copy) into the current survey group.
-   
-When you return to the survey group view where you selected to copy the survey, you'll see it in the group. Because it takes a while to copy a survey, the survey is locked for editing while copying is going on.
+You can now navigate to another folder, or stay in the same folder, and click the 'Copy here' button in the top.
 
- .. figure:: ../img/2-surveys_copy_result.png
-   :width: 600 px
+ .. figure:: ../img/2-survey_copy_3.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-   A survey that has been copied into the same survey group.
+You will get a popup screen informing that the copy has started, and that you can go to the message tab to see the progress. The survey does not appear immediately. 
+
+When go to a different tab and go back to the survey tab and go the folder again, the survey will appear. The word 'copy' has been added to the survey name.
+
+ .. figure:: ../img/2-survey_copy_4.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 

@@ -1,10 +1,10 @@
 Data
 ====
 
-The Data tab is where you can view, edit, import and clean data from FLOW surveys.
+The Data tab is where you can view, edit, import and clean data from FLOW surveys. In addition, you can define cascade resources, which can be used in surveys.
 
-Inspect Data
-------------
+Inspect Data tab
+----------------
 
 The Inspect Data table is a live feed of all the data submitted from devices connected to your FLOW dashboard. Its default view contains all data, with the most recent records at the top. You can page through the data using the Next and Previous buttons at the bottom of the table, or filter based on a collection of parameters.
 
@@ -63,8 +63,8 @@ Note: Only Admin level users have the Delete option available. This action perma
 
 .. _bulk_upload_data:
 
-Bulk upload data
-----------------
+Bulk upload data tab
+--------------------
 
 The bulk uploader gives you a way to upload data and photo files taken off the device in bulk when data has been collected offline due to limited connectivity in the field. The bulk uploader is situated on the 'Bulk Upload Data' subtab in the data tab.
 
@@ -92,8 +92,8 @@ Note: Navigating away from the page while the upload is in progress, either by n
 After you drop or select the files, you will see a progress bar below informing you of the upload contents and status. When the upload is complete, you'll see a confirmation message. After the initial upload, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
 
 
-Data cleaning
--------------
+Data cleaning tab
+-----------------
 
 After data have come in from the field they sometimes require cleaning to correct things like errors or mis-spellings. In data cleaning, you can export a raw data report into Excel, clean the data as necessary, and then re-import the spreadsheet. This action will permanently overwrite the existing data in the database with the cleaned data you import.
 
@@ -112,10 +112,10 @@ When you are ready to re-import the cleaned data spreadsheet, return to the page
 
 A progress bar will appear below informing you of the content and status of the import. When the import is complete, you'll see a confirmation message. After the initial import, it will take some time before the data are available on the rest of the dashboard for viewing and reporting. Check the Messages tab to confirm when the data are available.
 
-Viewing data point data
-------------------------
+Monitoring tab - view data points
+-----------------------------------
 
-To see which data points are available for a monitoring project, open the 'Monitoring' subtab on the 'Data' tab. There, you can select the survey group that contains the monitoring project, and you will see a table with the data points within that project. The table shows 'identifier', 'display name', and 'last update'. The identifier is the unique identifier of the data point. The display name is derived from answers to questions in the 'registration' form. The setting 'display in data point list on device' on free text questions determines if answers to that question become part of the display name. (ssee :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.)
+To see which data points are available for a monitoring project, open the 'Monitoring' subtab on the 'Data' tab. There, you can select the survey group that contains the monitoring project, and you will see a table with the data points within that project. The table shows 'identifier', 'display name', and 'last update'. The identifier is the unique identifier of the data point. The display name is derived from answers to questions in the 'registration' form. The setting 'display in data point list on device' on free text questions determines if answers to that question become part of the display name. (see :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.)
 
  .. figure:: img/3-monitoring.png
    :width: 800 px
@@ -125,4 +125,143 @@ To see which data points are available for a monitoring project, open the 'Monit
 When you click 'view details' on any one of the data points in the table, you will see the survey responses that are part of a single data point. For each submitted survey response, the survey, submitter, device, and collection data are displayed.
 
 When you click 'view details' on a survey response, you will see the individual answers given to the questions in that response.
+
+Cascading resources tab
+-----------------------
+In a survey, sometimes a choice for question 1 should determine what options are shown in question 2, and so on. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, etc. We call these 'cascading questions', as the effect of a choice on the first question cascades into the next questions. Another example might be one question for the brand of a car, and then the second question the type, and a third the production year. A single cascading question in a form is then enough to generate the necessary dropdowns in the form shown on the device.
+
+Restricting the choices in dropdowns to only those that make sense saves time for enumerators and reduces errors. In the Cascading Resources tab, you can create the resources that are needed for these questions. You can create them either through an easy-to-use web interface, or by direct upload of a csv file with the data. 
+
+.. figure:: img/4-cascade_device.png
+   :width: 250 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   A cascade question capturing six levels of administrative areas in France
+
+
+Creating a new cascade resource
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+On the cascade tab, you can either select an existing cascade resource from the dropdown box, or create a new one. 
+
+ .. figure:: img/4-data-new_cascade.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   1: select an existing cascade resource, 2: create a new one.
+
+When you click the 'Add new cascade' button, you can provide a name, and click 'Save'. The new resource is opened for edit immediately, and looks like this:
+
+ .. figure:: img/4-cascade_new.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   A new cascade resource. The coloured numbers are just for illustration.
+
+
+A lot is going on here, so we have numbered the individual buttons and fields. This is what they do:
+
+1. The name of the cascade resource. When you create the cascade question later, you can select the resource from a list. The name is not used in the device.
+2. 'Publish' publishes the cascade resource. What this does is package all the resource data into a single file that can later be downloaded by devices. This only needs to happen when all the editing is done.
+3. 'Delete' deletes a resource. Don't do this if you use the resource in surveys.
+4. 'Import cascade data' can be used to import a csv file containg data that defines a cascade resource (more on this below).
+5. The number of levels in the hierarchy of the resource. An empty resource starts with a single level
+6. Publishing status of the resource.
+7. A breadcrumb, indicating which levels are currently visible, and what their names are. Clicking on one of the levels makes it visible in the columns.
+8. 'Add a level' adds a level in the hierarchy, which can then be edited.
+9. The 'pencil' icon can be used to edit the name of the level
+10. Individual items can be added here. An item must have a name, and can have a code. Clicking 'Add' adds the item to the list. Items that are added are saved automatically.
+11. Only three columns are shown at a time. However, if the resource has more levels, you can navigate to higher and lower levels using these buttons
+
+
+Using the web interface to add nodes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In the image below, we have added a number of items on 4 levels of the cascade resource. We used 'Add level' to add the various levels. We used the 'pencil' icon to edit the names of the levels. To see the fourth level, we could either click on the fourth item in the breadcrumb, or use the 'Move Right' button at the bottom.
+
+ .. figure:: img/4-data_cascade_france_1.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   A cascade resource with items filled in manually.
+
+To start using this cascade resource, we need to click 'Publish' when we are done editing.
+
+Uploading cascade data directly
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Obviously, it is a lot of work to manually add all these items. It is often the case that this data is available in the form of an excel file. This data can be uploaded to the FLOW system, which will automatically create the required nodes. The format of the file usually looks something like this:
+
+ .. figure:: img/4-data_cascad_Excel.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   Format for uploading cascade resource data
+
+The first column has the lowest level administrative area names, the next column has the next level up, etc. Importantly, the lowest level names are repeated for each row. IMPORTANT - the file should NOT have a first column with the names of the levels. These need to be provided later in the user interface.
+
+In some cases, codes are available for the various levels as well. If these are available, the format of the file should be like this:
+
+ .. figure:: img/4-data_cascade_excel2.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   Format for uploading cascade resource data with codes
+
+In order to upload the data, it needs to be in the correct format, and it needs to be saved in csv format. It is very important to check if the file has the right encoding (UTF-8), because otherwise accented letters can get mangled.
+
+**Uploading cascade data**
+If you have a csv file available with cascade data, you can upload it by following these steps:
+
+1. Create a cascade resource in which you want to upload the data. In this case, we created one for Benin
+2. Click the 'Import cascade data' button. This will show an area with a number of options.
+
+ .. figure:: img/4-data_cascade_upload.png
+   :width: 500 px
+   :alt: Illustration of monitoring
+   :align: center
+
+3. Provide the following information and take these actions:
+   1) Enter the number of levels in the data
+   2) Select the box if the data contains code columns
+   3) Select the csv file on your computer
+   4) click 'Import Cascade file'
+
+ .. figure:: img/4-data_upload_complete.png
+   :width: 500 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   Dialog box shown after upload.
+
+4. A dialog box will be shown after upload. The processing might take a while, especially if there are a lot of items in the file. You can go to the Messages tab to see the progress. If everything worked out, you should see a message that the csv file has been imported correctly.
+
+ .. figure:: img/4-data-cascadeSucces.png
+   :width: 300 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   Message shown in the message tab after a succesfull upload.
+
+5. If after a successful upload you go back to the cascade and select it again, you will see the newly uploaded items.
+
+ .. figure:: img/4-data_cascade_benin2.png
+   :width: 1000 px
+   :alt: Illustration of monitoring
+   :align: center
+
+6. Provide proper names to the levels by clicking the 'pencil' icon next to the level names.
+
+
+Publishing a cascade resource
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+When everything is ready, click the 'Publish' button. After publishing, the cascade resoure is ready to be used in question definitions.
+
+
+Using a cascade resource in a question
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 

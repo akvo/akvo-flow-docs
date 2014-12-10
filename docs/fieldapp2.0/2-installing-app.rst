@@ -79,14 +79,14 @@ Updating the Akvo FLOW app
 
 Starting with version 1.13.0, the Akvo FLOW app can be automatically updated from within the app. The original method of sending the APK file to the device by email and installing it from there will remain available, but this new feature will make updating the app much easier.
 
-1. Whenever a new Akvo FLOW app update is available, the app will display a pop-up, asking the user to update the app.
+1. Whenever a new Akvo FLOW app update is available, the app will display a pop-up with two options: 'Not now', and 'Update'.
 
 .. figure:: img/upgrade-popup.png
    :width: 200 px
    :alt: App update available pop-up
    :align: center
 
-2. At this point, is up to the user when to update the app. However, this update will require a reliable network connection, as the whole app file has to be downloaded. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click **Download & Install**.
+2. If the user selects 'Not now', the popup will disappear, and the app can be used. The next time the app is started up, the popup will be shown again. If the user selects 'Update', the new FLOW app will be downloaded and installed. Downloading the update will require a reliable network connection, as the app file is about 1 Mb in size. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click 'Update'.
 
 3. After the download is complete, click 'Install'.
 
