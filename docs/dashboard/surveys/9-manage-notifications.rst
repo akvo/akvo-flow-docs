@@ -7,25 +7,20 @@ Notifications are either tied to certain events (survey approval, survey submiss
 
 **To set up notifcations:**
 
-From the left panel of the Edit Survey screen, click on "+ Manage Notifications". This will bring up a screen where you can enter the details of each notification.
+Select the survey and form for which you want to set up notifications. In the 
 
- .. figure:: ../img/2-surveys_managenotifications_button.png
-   :width: 200 px
+In the form s click on the 'Manage Notifications' button. This will bring up a screen where you can enter the details of each notification.
+
+ .. figure:: ../img/2-surveys_notifications_sample1.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
    The Manage Notifications button.
-   
- .. figure:: ../img/2-surveys_managenotifications.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center 
-
-   Enter the notification details: email address, event type, option type and expiration date; and click Add.
 
 Enter the recipient's email address, select an Event type, Option and expiration date. Click Add and you will see the details appear below.
 
- .. figure:: ../img/2-surveys_managenotifications_result.png
+ .. figure:: ../img/2-surveys_notifications_sample2.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 

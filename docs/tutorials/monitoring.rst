@@ -29,22 +29,36 @@ Monitoring - Dashboard
 -----------------------
 Creating a monitoring project
 ++++++++++++++++++++++++++++++
-A monitoring project consists of a set of survey forms. To create a monitoring project, follow these steps:
 
-1. Start by creating a new survey group on the survey tab, and select it after it has been created. 
+To add multiple forms to a survey, you first need to enable monitoring on the survey. First go to the survey basics, and select 'Show advanced settings'.
 
-2. Click the blue 'Make monitoring group' button on the top. After accepting the popup notification, this will change to 'Monitoring Enabled', and show a dropdown where you can select one of the surveys in this group as the survey that creates new monitored entities. As we don't have any surveys yet, this dropdown is still empty.
+ .. figure:: ../dashboard/img/2-show_advanced.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
 
-3. Create the surveys you need, just as you would create normal surveys. In the survey that will be used to create new data points, there are two checkboxes which are important. 
+Next, you can check the checkbox 'Enable monitoring features'. When this has been enabled, you can create multiple forms. In addition, you need to select the form which will be used to create new data points. Other forms will just be able to update existing data points. Please refer to :doc:`./7-monitoring-features` for further details.
+
+
+ .. figure:: ../dashboard/img/2-survey_enable_monitor.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
+
+   Enabling monitoring on a survey.
+
+ .. figure:: ../dashboard/img/2-extra_form.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
+
+   You can now add additional forms to the survey.
+
+Next step is to create the forms you need, just as you would create normal surveys. In the form that will be used to create new data points, there are two checkboxes which are important. 
    a. The first one is *Use in data point display*, which is shown on free text questions. When this is checked, the answer to this question will become part of the 'name' of the data point. This will be shown in lists on the device, and can be used to search data points. By default, this is off. This should only be enabled for one or two questions which will help to identify the data point, such as an id, or a name. Multiple values will be added together separated by a dash '-'.
    b. The second one is *Use as data point location*, which is shown on geolocation questions. When this is checked, the location captured by this question will be used as the main location of the data point. By default, this is turned on.
 
- .. figure:: img-monitoring/2-monitoring.png
-   :width: 500 px
-   :alt: Illustration of monitoring
-   :align: left
-
-4. Publish the surveys
+4. Publish the survey forms by clicking the 'publish survey' button
 
 5. After the surveys are created, select one of them using the dropdown box in the survey group overview. This survey gets the special role of 'registration survey', and is capable of creating new data points on the device.
 

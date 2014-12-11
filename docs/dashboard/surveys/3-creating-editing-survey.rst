@@ -1,55 +1,143 @@
 Creating and editing a survey
 -----------------------------
 
-Click on the SURVEYS tab from the top menu. This is also the home page when you first arrive at the dashboard.
+Creating a new survey
+~~~~~~~~~~~~~~~~~~~~~~
 
-Click on a survey group from the Survey Groups list on the left. Surveys contained within that group will load in the main body of the page (this is the Survey Group Overview). 
+First, make sure you are in the right folder in which you want to create the survey. Then, click the 'Create new survey' button in the upper right corner.
 
-For a new survey, click on “Create a new survey” in the upper right hand corner of the Survey Group Overview. 
-
- .. figure:: ../img/2-surveys_createnewsurvey_button.png
-   :width: 750 px
+ .. figure:: ../img/2-new_survey.png
+   :width: 200 px
    :alt: image of dashboard
    :align: center 
 
    Create a new survey.
 
-The Edit survey window will appear in the main body of the page. Enter the required elements in the left bar: Title and Type. Click Save, which will causes the Id number to be filled in with the Survey ID number.
+This creates a new survey, which will be shown in the folder. If you have any subfolders, it will be shown below these.
 
- .. figure:: ../img/2-surveys_enternewsurveydetails.png
-   :width: 400 px
+ .. figure:: ../img/2-new_survey_2.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-   After clicking Create New Survey, enter the details for the survey in the left panel. The Title and Type are required. The default Master Language is English. You can also edit these details anytime from this panel.
-   
- .. figure:: ../img/2-surveys_versionnumber.png
-   :width: 400 px
+   The newly created survey, with the 'edit' icon indicated.
+
+To start editing the survey, click the 'edit' icon. This will display the survey edit screen, as shown below. 
+
+
+ .. figure:: ../img/2-edit_survey_screen.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-   After you enter the survey details and click Save, the ID number for the survey will appear in the left panel.
+   The survey edit screen. The red numbers indicate the various functions
 
-To edit an existing survey, hover over the name of the survey with your mouse cursor and click the Edit button that appears below the survey details.
+A lot is happening here, so we have numbered the areas of interest. Let's go over them one by one:
+
+1. Indicates the number of forms in the survey. A new survey has zero forms.
+2. Indicates if this is a monitoring survey or not (more on that below).
+3. Indicates if this survey has been published or not (more on that below).
+4. The title of the survey. A short title to describe the survey. On the device, this will be shown as the title of the survey as well.
+5. The description of the survey. This is an optional description of the survey. It is only used in the dashboard.
+6. The privacy type of the survey. There are two possibilities: 'public' and 'private'. This setting determines if the data will be visible on the public map or not.
+7. Language: the master language of the survey. In addition to this, any number of translations can be added later. The default master language is English.
+8. Advanced settings. Here, you can turn a survey into a monitoring survey (more on that below).
+9. Button to add a form to the survey.
+
+After changing the various settings, click 'Save'.
+
+Adding a form
+~~~~~~~~~~~~~~
+
+The next step is to add a form to the survey. Most surveys will only have a single form. At the bottom of the survey edit screen, click the 'Add new form' button.
+
+ .. figure:: ../img/2-add_new_form_button.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
+
+   Adding a new form.
+
+At the bottom of the survey edit screen, a form screen will be shown. 
+
+ .. figure:: ../img/2-new_form_edit.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
+
+   The form edit screen
+
+A lot is happening here, so we have numbered the areas of interest. Let's go over them one by one:
+
+1. The version of the form. Each time a form is changed and republished, it's version is updated.
+2. The id of the form. This can be used to manually download the form to a device.
+3. The current total number of questions in the form.
+4. The title of the form. This is the title that is also visible on the device
+5. The description of the form. This is only used in the dashboard.
+6. Manage Translations. Here, you can add mutliple translations to a form, in any language
+7. Manage Notificiations. Here, you can setup automatic distribution of data collected using this form.
+8. Insert group. This inserts a new question group, which is the first step in creating the questions of the form.
+
+
+Start by providing a descriptive title to the form and saving it by clicking the 'Save' button at the top. The next step is defining the questions.
+
+After you save the form, a form screen shows two more buttons:
+
+ .. figure:: ../img/2-surveys_after_save.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
+
+1. The Preview button shows a preview of the entire form
+2. The Delete button deletes the form. This cannot be undone. You can only delete a form if it hasn't been used for data collection yet. If you still want to delete it, you will first need to delete the data collected with this form.
+3. The further settings of the form are now hidden. Clicking the 'Show' button will show the title and description fields, and the translation and notification buttons.
+
+Advanced - Working with multiple forms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A regular survey will only contain a single form. However, you can add additional forms to a survey, which capture different aspects about the subject of the survey. For example, if you survey water pumps, you could have a 'registration form' that captures the basic information for a water point, a 'water quality form', that captures water quality information about that point, and a 'functionality update form' that periodically captures the functionality. More on how multiple forms can be used for monitoring is available here: :doc:`./7-monitoring-features`. Here, we simply explain how to add multiple forms.
+
+To add multiple forms to a survey, you first need to enable monitoring on the survey. First go to the survey basics, and select 'Show advanced settings'.
+
+ .. figure:: ../img/2-show_advanced.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
+
+Next, you can check the checkbox 'Enable monitoring features'. When this has been enabled, you can create multiple forms. In addition, you need to select the form which will be used to create new data points. Other forms will just be able to update existing data points. Please refer to :doc:`./7-monitoring-features` for further details.
+
+
+ .. figure:: ../img/2-survey_enable_monitor.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
+
+   Enabling monitoring on a survey.
+
+ .. figure:: ../img/2-extra_form.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
+
+   You can now add additional forms to the survey.
 
 Working with question groups
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Surveys consist of questions organized into question groups, so first create the question groups for your survey, and then add questions to them.
+A form consist of questions organized into question groups, and it is usually a good practice to first create the question groups for your survey, and then add questions to them.
 
-To add or edit a question group:
+**To add or edit a question group:**
 
-Click on "+ Insert group here." Group #, New group - please change name” appears in the group title spot. Click Edit Group Name to change the name of the group and click Save. 
+Click on "+ Insert group here." Group #, New group - please change name” appears as the group title. Click Edit Group Name to change the name of the group and click Save. 
 
- .. figure:: ../img/2-surveys_insertquestiongroup_button.png
-   :width: 600 px
+ .. figure:: ../img/2-surveys_insert_group_here.png
+   :width: 200 px
    :alt: image of dashboard
    :align: center 
 
    Insert a new question group.
    
  .. figure:: ../img/2-surveys_editquestiongroupname.png
-   :width: 600 px
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
@@ -57,7 +145,7 @@ Click on "+ Insert group here." Group #, New group - please change name” appea
 
 **View the questions within a question group:**
 
-Click Show Questions next to the question group and all the questions in that group will appear below. You can only have the questions showing for one survey group at a time. Click Hide Questions to hide the questions again, or just click Show Questions for another group.
+Click 'Show Questions' next to the question group and all the questions in that group will appear below. You can only have the questions showing for one survey group at a time. Click Hide Questions to hide the questions again, or just click Show Questions for another group.
 
  .. figure:: ../img/2-surveys_showquestions.png
    :width: 600 px
@@ -68,7 +156,7 @@ Click Show Questions next to the question group and all the questions in that gr
 
 **To delete a question group:**
 
-Click Delete next to the question group. You'll be asked to confirm whether you'd like to delete the group. 
+Click 'Delete' next to the question group. You'll be asked to confirm whether you'd like to delete the group. 
 
 Note: You cannot delete a question group that contains one or more survey questions.
 
@@ -127,7 +215,7 @@ The difference between moving and copying a question group is that for a *move*,
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Editing survey questions
+Creating a new question
 ++++++++++++++++++++++++
 
 After creating at least one survey group, click Show Questions next to the survey group. Click Add New Question in the position you want the new question, or click Edit next to an existing question, and you will see the question details screen.
@@ -148,9 +236,26 @@ In the question details screen that appears, you can fill out the core parameter
 
    Select a question type from the dropdown. The default is free text.
    
+
+
+Question types and their settings
++++++++++++++++++++++++++++++++++
+
+These are the question types available in the FLOW system:
+
+* **Free text** - shows the user a text box on the device to fill in the answer, with no specific format. Text can be letters, numbers and symbols, and appears in the data views and reports exactly as it was typed into the device.
+* **Option** - create a set of preset options for the device user to select from on the device when answering the question. Option questions can be single or multiple answer. The survey author can elect to allow 'other' responses, which on the device presents a free text field for entering any other response outside the preset options. Option questions will have frequency analysis performed on them in data analysis. The setting 'Require double entry of answer in device' can be used to force the user to type the answer twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
+* **Cascade** - a cascade question uses a user-defined hieararchy of options in order to display multiple dropdowns on the device. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, and so on. 
+* **Number** - allows only numbers to be typed into the answer entry field on the device. Optional number settings allow the survey author to allow a sign to be entered with a number, allow a decimal point, or enter minimum and/or maximum values to validate the number entered on the device. Number questions will have basic statistical analysis performed on them in data analysis.
+* **Geolocation** - uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions on the device. If you select 'Disable manual editing of geo values on device', the user cannot type in latitude and longitude values directly, the device has to provide them. Usually this is better for data quality. The checkbox 'Use as datapoint location' is only relevant if you use a survey which captures multiple locations in a single survey. In that case, this setting wil determine which location will be used as the primary location of the datapoint. If only a single geoquestion is present in a survey, that will be used by default.
+* **Geographic feature** - allows the user to define points, lines or areas on a map. This can for example be used to capture geographic features of interest such a group of water taps, walking paths, farmer plots, or protected woodland areas. (Expected January 2015)
+* **Photo and Video** - presents the option to take a photo or video as part of the survey. Click the Take Photo or Take Video buttons on the device to access the device camera.
+* **Date** - presents a date picker on the device for the device user to select a date in DD-MM-YYYY format.
+* **Barcode** - presents the option to scan a barcode from the device and record the barcode number in the survey by clicking the Scan Barcode button on the device. Requires an external barcode scanning-app to be installed on the device.
+
 Some question types also offer additional parameters to fill out, which change the behaviour of the question on the device. Below, these are explained.
 
-**Free text questions**
+**Free text question settings**
 
  .. figure:: ../img/2-surveys_qtypes_freetext.png
    :width: 400 px
@@ -162,7 +267,7 @@ A free text question offers two additional options:
 * 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 * 'Require double entry of answer in device' - This can be used to force the user to type the answer to the question twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
 
-**Option questions**
+**Option question settings**
 
 For option questions, you can enter options in the text box that appears below, entering each option on a seperate line. On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
 
@@ -173,7 +278,7 @@ For option questions, you can enter options in the text box that appears below, 
 
    The additional details you can enter for option questions.
 
-**Number questions**
+**Number question settings**
 
 For number questions, there are a few additional settings you can enable. All of these settings are optional. By default, device users cannot enter a positive or negative sign or decimal point for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
 
@@ -186,7 +291,7 @@ You can also set minumum and/or maximum values for the numbers that the device u
 
    The additional settings you can enter for number questions.
 
-**Geo questions**
+**Geo question settings**
 
 For Geo questions, there are two additional options:
 
@@ -197,6 +302,11 @@ For Geo questions, there are two additional options:
    :width: 400 px
    :alt: image of dashboard
    :align: center 
+
+
+**Geographic feature question settings** (Expected January 2015)
+
+For a geographic feature question there is the option to restrict the choice of feature types available to the enumerator. If nothing is selected, the enumerator can choose between points, lines, and areas when she creates a new feature. If you already know that the enumerator will only need to create areas, for example, it makes sense to hide the other options, to avoid confusion.
 
 Using tooltips
 ++++++++++++++
@@ -229,29 +339,21 @@ To set a dependency, tick the box next to "Dependent" in the question detail scr
 When you are finished, click Save Question at the bottom of the question details screen, which will return you to the list of questions for that group and you can continue building or editing the survey. 
 
 
-Previewing a survey
+Previewing a form
 +++++++++++++++++++
 
-At any point, you can preview a survey by clicking the preview button on the bottom of the left panel in Edit survey, or from the Survey Overview by hovering over the name of the survey with your mouse cursor and clicking Preview under the survey details.
+At any point, you can preview a form by clicking the preview button i
+The form preview shows you a preview of the entire form. At first, it will show you all of the questions in the survey. As you start to fill out the form, it will adapt according to any dependent questions you might have defined. Any responses filled in the preview screen will be discarded when you close the preview window.
 
- .. figure:: ../img/2-surveys_preview_survey.png
-   :width: 600 px
+ .. figure:: ../img/2-preview_button.png
+   :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-   The Preview button from the survey screen.
-   
- .. figure:: ../img/2-surveys_preview_surveygroup.png
-   :width: 600 px
-   :alt: image of dashboard
-   :align: center 
+   Clicking the preview button will show the form as a preview in a popup screen.
 
-   The Preview button from the survey group screen.
-
-The survey preview shows you the survey as it currently stands. It will show you all of the questions in the survey, but if you begin to fill it out and there are dependent questions, the survey display will adapt to the responses. Any responses filled in the preview screen will be discarded when you close the preview window.
-
- .. figure:: ../img/2-surveys_preview_pop.png
-   :width: 600 px
+ .. figure:: ../img/2-preview.png
+   :width: 400 px
    :alt: image of dashboard
    :align: center 
 

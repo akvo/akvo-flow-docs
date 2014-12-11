@@ -3,28 +3,50 @@ Monitoring - tracking things over time
 
 Taking a survey of something, be it a water point, a tree, or a school, is usually a one-time event. You collect data, analyse the data, take action, and that's it. But in many cases, you also want to go back at a later date, and do a follow-up: is this pump still working? Has the tree grown? Has that schools' latrine been repaired? This is what we call monitoring: observing facts about something, some 'entity' (machine, pump, person, etc), which has an identity and can be tracked over time. An identity is a set of attributes (id, serial number, name, etc) that *uniquely* identify an entity. 
 
-The core idea of monitoring is to create 'data points', to which information about a data point can be added. Multiple survey forms can be created on the dashboard, which together capture different aspects of a data point. One form is used to create a new data point, and the other forms are used to add additional information to an existing data point. Also see :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.
+The core idea of monitoring is to create 'data points', to which information about a data point can be added. Multiple forms can be added to a single survey, which together capture different aspects of a data point. One form is used to create a new data point, and the other forms are used to add additional information to an existing data point. Also see :doc:`../../tutorials/monitoring` for the whole story on how to use monitoring.
 
-Creating a monitoring project
+Creating a monitoring survey
 ++++++++++++++++++++++++++++++
-A monitoring project consists of a set of survey forms. A special survey group is used to hold the forms together. To create a monitoring project, follow these steps:
+A monitoring survey consists of a single survey which has multiple forms inside. To create a monitoring survey, follow these steps:
 
-1. Start by creating a new survey group on the survey tab, and select it after it has been created. 
+1. To add multiple forms to a survey, you first need to enable monitoring on the survey. First go to the survey basics, and select 'Show advanced settings'.
 
-2. Click the blue 'Make monitoring group' button on the top. After accepting the popup notification, this will change to 'Monitoring Enabled', and show a dropdown where you can select one of the surveys in this group as the survey that creates new data points. As we don't have any surveys yet, this dropdown is still empty. The survey group is shown with an 'M' in front of it, to show it is a monitoring group.
+ .. figure:: ../img/2-show_advanced.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
 
-3. Create the surveys you need, just as you would create normal surveys. In the survey that will be used to create new data points, there are two checkboxes which are important. 
+ .. figure:: ../img/2-survey_enable_monitor.png
+   :width: 200 px
+   :alt: image of dashboard
+   :align: center 
+
+   Enabling monitoring on a survey.
+
+Next, you can check the checkbox 'Enable monitoring features'. When this has been enabled, you can create multiple forms, as shown below. In addition, you need to select the form which will be used to create new data points. By default, this is the first form that was created. Other forms will just be able to update existing data points.
+
+ .. figure:: ../img/2-extra_form.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
+
+3. Create the forms you need. In the form that will be used to create new data points, there are two checkboxes which are important. 
+   
    a. The first one is *Use in data point display*, which is shown on free text questions. When this is checked, the answer to this question will become part of the 'name' of the data point. This will be shown in lists on the device, and can be used to search data points. By default, this is off. This should only be enabled for one or two questions which will help to identify the data point, such as an id, or a name. Multiple values will be added together separated by a dash '-'.
+   
    b. The second one is *Use as data point location*, which is shown on geolocation questions. When this is checked, the location captured by this question will be used as the main location of the data point. By default, this is turned on.
 
- .. figure:: ../img/2-monitoring.png
-   :width: 500 px
-   :alt: Illustration of monitoring
-   :align: left
+4. Be sure that the right form has been selected as registration form, in step 1.
 
-4. Publish the surveys
+.. figure:: ../img/2-survey_monitoring_2.png
+   :width: 750 px
+   :alt: image of dashboard
+   :align: center 
 
-5. After the surveys are created, select one of them using the dropdown box in the survey group overview. This survey gets the special role of 'registration survey', and is capable of creating new data points on the device.
+   A monitoring survey with two forms.
+
+
+5. Publish the survey. After publising, you can assign the forms to devices as usual, or download them manually using their ID.
 
 .. container:: clearer
 
