@@ -4,17 +4,7 @@
    contain the root `toctree` directive
  
 -----------------------------------
-The FLOW app - Version 1.13
+Akvo FLOW API
 -----------------------------------
 
-Contents:
-
-.. toctree::
-   :maxdepth: 4
-   
-   fieldapp/1-phone-requirements
-   fieldapp/2-preparing-device
-   fieldapp/3-launching-app
-   fieldapp/4-surveys-to-device
-   fieldapp/5-conducting-survey
-   fieldapp/6-post-survey
+Currently, the documentation for the FLOW api is available in the `FLOW Github repository <https://github.com/akvo/akvo-flow/wiki/Akvo-FLOW-API>`_.

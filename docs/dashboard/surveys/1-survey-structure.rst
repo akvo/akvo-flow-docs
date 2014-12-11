@@ -4,13 +4,13 @@ This chapter describes the high-level overview of all the components in a FLOW s
 
 **Survey folders**
 
-Surveys on the dashboard are kept in folders to help you stay organized. Folders can contain other folders, just as in a regular file system on a computer. This means you have a lot of freedom in organising your surveys. As you will see in Roles and Permissions [LINK NEEDED], you can assign users specific roles in specific folders, so you can also use the folder structure to organise who has access to what. A folder can also contain a mix of folders and surveys.
+Surveys on the dashboard are kept in folders to help you stay organized. Folders can contain other folders, just as in a regular file system on a computer. This means you have a lot of freedom in organising your surveys. As you will see in the users chapter (please refer to :doc:`../7-users` for more information), you can assign users specific roles in specific folders, so you can also use the folder structure to organise who has access to what. A folder can also contain a mix of folders and surveys.
 
 **Surveys**
 A survey is used to collect data on a particular type of subject. Different surveys collect data on different subjects. Surveys live in folders — you can have multiple surveys inside a single folder. 
 
 **Forms**
-A survey can consists of one or more forms. A regular survey will only contain a single form. However, if you use monitoring (More information on how this works is available here: ../tutorials/monitoring), you can add additional forms to a survey, which capture different aspects about the subject of the survey. For example, if you survey water pumps, you could have a 'registration form' that captures the basic information for a water point, a 'water quality form', that captures water quality information about that point, and a 'functionality update form' that periodically captures the functionality.
+A survey can consists of one or more forms. A regular survey will only contain a single form. However, if you use monitoring (More information on how this works is available here: :doc:`./7-monitoring-features`), you can add additional forms to a survey, which capture different aspects about the subject of the survey. For example, if you survey water pumps, you could have a 'registration form' that captures the basic information for a water point, a 'water quality form', that captures water quality information about that point, and a 'functionality update form' that periodically captures the functionality.
 
 **Question Groups**
 Each form contains a series of questions and the questions are organized into question groups. Each group of questions appears in a separate tab on the device screen. 

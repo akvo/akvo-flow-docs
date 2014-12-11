@@ -258,10 +258,29 @@ If you have a csv file available with cascade data, you can upload it by followi
 
 Publishing a cascade resource
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-When everything is ready, click the 'Publish' button. After publishing, the cascade resoure is ready to be used in question definitions.
+When everything is ready, click the 'Publish' button. After publishing, the cascade resoure is ready to be used in question definitions. You can check if a resource has been published correctly by visiting the Message tab. Publishing can take a while, especially if there are a large number of items. If the publishing succeeded, you will see a message such as this:
+
+ .. figure:: img/4-data_cascade_benin_2.png
+   :width: 400 px
+   :alt: Illustration of monitoring
+   :align: center
 
 
 Using a cascade resource in a question
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To use the cascade resource in a question, follow these steps:
 
+1. Open the form in which you want to place the cascade question
+2. Create a new question of the type 'cascade'
+3. Select the cascade resource that you want to use
+4. Save the question.
+
+ .. figure:: img/4-data_cascade_question.png
+   :width: 750 px
+   :alt: Illustration of monitoring
+   :align: center
+
+   Selecting the cascade resource in a question.
+
+If you can't find the cascade resource in the list, it probably has not been published yet. Only published cascade resources are shown in the list.
 

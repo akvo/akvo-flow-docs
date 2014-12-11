@@ -17,3 +17,4 @@ Contents:
    docs/field_survey_app
    docs/field_survey_app2.0
    docs/tutorials
+   docs/api
