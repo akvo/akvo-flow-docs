@@ -1,27 +1,27 @@
-.. _projects_and_datapoints:
+.. _surveys_and_datapoints:
 
-Projects and Data Points
+Surveys and Data Points
 ========================
 
-Projects
+Surveys
 --------
-The home screen of the FLOW App displays a list of available data collection projects. In order to collect data in a project, you first must have a user selected. Please, refer to the :ref:`manage_users` section to learn how to create and select users.
+The home screen of the FLOW App displays a list of available data collection surveys. In order to collect data in a survey, you first must have a user selected. Please, refer to the :ref:`manage_users` section to learn how to create and select users.
 
 .. figure:: img/project-list.png
    :width: 200 px
    :alt: image of phone
    :align: center
    
-To select a project, click on its name, and the list of available *Data Points* will be displayed.
+To select a survey, click on its name, and the list of available *Data Points* will be displayed.
 
 .. figure:: img/datapoint-list.png
    :width: 200 px
    :alt: image of phone
    :align: center
     
-   Selecting a project displays all the collected data points
+   Selecting a survey displays all the collected data points
 
-When a project is opened for the first time, no data point is available yet. To start, click on the **CREATE NEW DATA POINT** button, and a new data point will be created.
+When a survey is opened for the first time, no data point is available yet. To start, click on the **CREATE NEW DATA POINT** button, and a new data point will be created.
 
 We can sort the data point list by clicking the *Order By* icon, and choose between ordering by date, distance, upload status, or name.
 
@@ -30,7 +30,7 @@ We can sort the data point list by clicking the *Order By* icon, and choose betw
    :alt: image of phone
    :align: center
 
-We can also see an overview of the data collection statistics, by clicking the *Project Stats* icon
+We can also see an overview of the data collection statistics, by clicking the *Survey Stats* icon
 
 .. figure:: img/stats.png
    :width: 200 px

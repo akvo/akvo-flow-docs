@@ -1,8 +1,8 @@
+
 Collecting Data
 ===============
 
 *Note: If you have used your phone in a previous data collection exercise, it is important to clear all the data off of the phone before you begin the next exercise so that you do not run the risk of exceeding the storage limits of your phone’s SD card and potentially losing data.*
-
 
 
 Before filling out a form, you need to select the data point for which the data collection is associated to. Refer to the :ref:`projects_and_datapoints` section to learn how to create new data points.
@@ -30,6 +30,7 @@ Question Types
 
 * **Free text** - Plain text question. Text can be letters, numbers and symbols.
 * **Option** - Displays a set of pre-set options to select from. Option questions can be single or multiple answer.
+* **Cascading question** - Displays a set of dropdown boxes. The enumerator first needs to select an item in the first list. After that, subsequent dropdowns are filled with the relevant items.
 * **Number** - Allows only numbers to be typed into the answer entry field.
 * **Geolocation** - Uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the **Check Geo Location** button to start searching for the position.
 * **Photo** and **Video** - Displays the option to take a photo or video as part of the form. Click the **Take Photo** or **Take Video** buttons on the device to access the device camera.
@@ -97,7 +98,7 @@ To submit a form, navigate to the **Submit** tab, which is the last tab in the f
 
 When you click **Submit** at the end of a form, the form is locked to prevent further editing, and uploaded to the FLOW server immediately. If network connectivity is not available, the form is queued in the phone until connectivity is restored. The data will automatically be sent to the server. This connection can be via Wi-Fi or over mobile network. 
 
-As detailed in :ref:`projects_and_datapoints` section, the form status will be displayed in the *History* tab. A queued form will have a **Exported** status, whereas a fully synced form's status will be **Synced**. Not until all the images attached to a form are sent to the server will the status turn into **Synced**. Users do not have to manually send any form from within the device, for all the transmissions are handled automatically as soon as the internet connection is available.
+As detailed in :ref:`surveys_and_datapoints` section, the form status will be displayed in the *History* tab. A queued form will have a **Exported** status, whereas a fully synced form's status will be **Synced**. Not until all the images attached to a form are sent to the server will the status turn into **Synced**. Users do not have to manually send any form from within the device, for all the transmissions are handled automatically as soon as the internet connection is available.
 
 If you want more in-depth information, you can long-click any submitted form to check its *Transmission Status*. This will display the status of any file transmission within the form.
 
