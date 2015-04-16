@@ -36,7 +36,27 @@ To run any report, first select a survey group and survey from the top dropdown 
 
 Raw data report
 ~~~~~~~~~~~~~~~
-The raw data report exports all submitted raw data for a single survey to an Excel spreadsheet (.xlsx). This report contains all responses submitted for the survey. 
+The raw data report contains responses submitted for a single survey presented in a spreadsheet (.xlsx).  It can be viewed and edited using Microsoft Excel, OpenOffice or any other spreadsheet application that supports the XLSX format.
+
+The format of the spreadsheet is as follows:  the first few columns contain meta data, that is, information identifying each response (Instance), which enumerator gathered the data (Submitter), when the data was gathered, and how long it took to gather each response (Duration).  Thereafter the actual data is presented, each column representing a single question in the survey.
+
+To download the raw data report, click on the export button.  The report will start be generated in the background and will be delivered by email to the address associated with your Akvo FLOW user.  This happens mostly for cases where there is lots of data in a survey. In some cases though (surveys with less data or a recently generated report), the report may have been recently generated and will be delivered instantly to your browser.
+
+Raw data report generation has the following advanced settings:
+
+ .. figure:: img/5-reports_export_raw_data_basic.png
+   :width: 800 px
+   :alt: image of dashboard
+   :align: center
+
+**Filter reports by date collected** - it is possible to filter the responses in the generated report by date of collection.  You can select the starting and/or ending dates for the responses you would like to view.
+
+ .. figure:: img/5-reports_export-raw-data-advanced-settings.png
+   :width: 800 px
+   :alt: image of dashboard
+   :align: center
+
+**Generate the report for use in an external system** - In cases where the responses will be imported into another system other than Akvo FLOW, it is possible to select the option (under Advanced Settings) to generate the report in a format that can be used in a system other than Akvo FLOW.  Note that a report generated in this format cannot be reimported to Akvo FLOW.
 
 Exporting data point data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
