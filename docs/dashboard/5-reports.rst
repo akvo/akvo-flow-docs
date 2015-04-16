@@ -44,17 +44,12 @@ To download the raw data report, click on the export button.  The report will st
 
 Raw data report generation has the following advanced settings:
 
- .. figure:: img/5-reports_export_raw_data_basic.png
+ .. figure:: img/5-reports_export-raw-data-advanced-settings.png
    :width: 800 px
    :alt: image of dashboard
    :align: center
 
 **Filter reports by date collected** - it is possible to filter the responses in the generated report by date of collection.  You can select the starting and/or ending dates for the responses you would like to view.
-
- .. figure:: img/5-reports_export-raw-data-advanced-settings.png
-   :width: 800 px
-   :alt: image of dashboard
-   :align: center
 
 **Generate the report for use in an external system** - In cases where the responses will be imported into another system other than Akvo FLOW, it is possible to select the option (under Advanced Settings) to generate the report in a format that can be used in a system other than Akvo FLOW.  Note that a report generated in this format cannot be reimported to Akvo FLOW.
 
