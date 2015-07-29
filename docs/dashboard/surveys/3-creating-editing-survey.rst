@@ -220,7 +220,7 @@ Creating a new question
 
 After creating at least one survey group, click Show Questions next to the survey group. Click Add New Question in the position you want the new question, or click Edit next to an existing question, and you will see the question details screen.
 
- .. figure:: ../img/2-surveys_editquestionscreen.png
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957358/454d32c0-35fe-11e5-8925-af0272e727ab.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -229,7 +229,7 @@ After creating at least one survey group, click Show Questions next to the surve
 
 In the question details screen that appears, you can fill out the core parameters of the question: question text and question type, as well as several optional elements: question help tooltip, making the question mandatory or making the question dependent on the answer to a preceding question. 
 
- .. figure:: ../img/2-surveys_editquestion_qtypes.png
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957430/b3484990-35fe-11e5-8d6b-f876d7e238de.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -244,69 +244,104 @@ Question types and their settings
 These are the question types available in the FLOW system:
 
 * **Free text** - shows the user a text box on the device to fill in the answer, with no specific format. Text can be letters, numbers and symbols, and appears in the data views and reports exactly as it was typed into the device.
-* **Option** - create a set of preset options for the device user to select from on the device when answering the question. Option questions can be single or multiple answer. The survey author can elect to allow 'other' responses, which on the device presents a free text field for entering any other response outside the preset options. Option questions will have frequency analysis performed on them in data analysis. The setting 'Require double entry of answer in device' can be used to force the user to type the answer twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
-* **Cascade** - a cascade question uses a user-defined hieararchy of options in order to display multiple dropdowns on the device. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, and so on. 
-* **Number** - allows only numbers to be typed into the answer entry field on the device. Optional number settings allow the survey author to allow a sign to be entered with a number, allow a decimal point, or enter minimum and/or maximum values to validate the number entered on the device. Number questions will have basic statistical analysis performed on them in data analysis.
-* **Geolocation** - uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions on the device. If you select 'Disable manual editing of geo values on device', the user cannot type in latitude and longitude values directly, the device has to provide them. Usually this is better for data quality. The checkbox 'Use as datapoint location' is only relevant if you use a survey which captures multiple locations in a single survey. In that case, this setting wil determine which location will be used as the primary location of the datapoint. If only a single geoquestion is present in a survey, that will be used by default.
-* **Geographic feature** - allows the user to define points, lines or areas on a map. This can for example be used to capture geographic features of interest such a group of water taps, walking paths, farmer plots, or protected woodland areas. (Expected January 2015)
+* **Option** - create a set of preset options for the device user to select from on the device when answering the question. Option questions can be single or multiple answer. The survey author can elect to allow 'other' responses, which on the device presents a free text field for entering any other response outside the preset options. Option questions will have frequency analysis performed on them in data analysis. 
+* **Cascade** - a cascade question uses a user-defined hieararchy of options in order to display multiple dropdowns on the device. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, and so on. The user selects a pre-created cascade from the 'Choose cascade resource' dropdown menu. 
+* **Number** - allows only numbers to be typed into the answer entry field on the device. Number questions will have basic statistical analysis performed on them in data analysis.
+* **Geolocation** - uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions on the device. 
 * **Photo and Video** - presents the option to take a photo or video as part of the survey. Click the Take Photo or Take Video buttons on the device to access the device camera.
 * **Date** - presents a date picker on the device for the device user to select a date in DD-MM-YYYY format.
 * **Barcode** - presents the option to scan a barcode from the device and record the barcode number in the survey by clicking the Scan Barcode button on the device. Requires an external barcode scanning-app to be installed on the device.
+* **Geographic feature** - allows the user to define points, lines or areas on a map. This can for example be used to capture geographic features of interest such a group of water taps, walking paths, farmer plots, or protected woodland areas. 
 
 Some question types also offer additional parameters to fill out, which change the behaviour of the question on the device. Below, these are explained.
 
 **Free text question settings**
 
- .. figure:: ../img/2-surveys_qtypes_freetext.png
+A free text question offers two additional settings: 
+
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957554/7ce9cd3c-35ff-11e5-9f24-726d2a0da6c1.png
    :width: 400 px
    :alt: image of dashboard
    :align: center 
-
-A free text question offers two additional options:
 
 * 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 * 'Require double entry of answer in device' - This can be used to force the user to type the answer to the question twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
 
 **Option question settings**
 
-For option questions, you can enter options in the text box that appears below, entering each option on a seperate line. On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
+For option questions, you can enter options in the text box that appears below, entering each option on a seperate line. 
 
- .. figure:: ../img/2-surveys_editquestion_optiondetails.png
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957611/dff47c24-35ff-11e5-8c96-56b53321884c.png
    :width: 400 px
    :alt: image of dashboard
    :align: center 
 
-   The additional details you can enter for option questions.
+An option question offers three additional settings:
+* On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". 
 
-**Number question settings**
+* You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
 
-For number questions, there are a few additional settings you can enable. All of these settings are optional. By default, device users cannot enter a positive or negative sign or decimal point for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
+* 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 
-You can also set minumum and/or maximum values for the numbers that the device user can enter. This will prevent them from being able to submit responses outside the specified range.
+**Cascade question settings**
 
- .. figure:: ../img/2-surveys_editquestion_numbersettings.png
+For cascade questions, there is one additional setting you can enable. 
+
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957794/28d47f56-3601-11e5-9c6f-1d3392a7c9de.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
 
-   The additional settings you can enter for number questions.
+* 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 
-**Geo question settings**
+**Number question settings**
 
-For Geo questions, there are two additional options:
+For number questions, there are a few additional settings you can enable. All of these settings are optional. 
 
-* 'Use as data point location' - In some cases, you might have multiple geolocations in a single survey form. In that case, this setting determines which one will be used as the primary location of the datapoint (where a marker will be shown on the map). If there is only a single geoquestion in the form, that one will be used by default.
-* 'Disable manual editing of geo values on device' - Setting this option will stop users manually entering latitude and longitude on the device. In almost all cases, the device should provide the GPS coordinates, and manual entry is unwanted. Only in the rare case where you have an external GPS device is manual entry needed.
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957824/64db2248-3601-11e5-9b58-4ab8409a5915.png
+   :width: 600 px
+   :alt: image of dashboard
+   :align: center 
 
- .. figure:: ../img/2-surveys_qtypes_geotext.png
+* 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
+* By default, device users cannot enter a positive or negative sign or decimal point for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
+* Require double entry of answer in device’ - This can be used to force the user to type the answer to the question twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
+* You can also set minumum and/or maximum values for the numbers that the device user can enter. This will prevent them from being able to submit responses outside the specified range.
+
+**Geolocation question settings**
+
+For geolocation questions, there are two additional options, which are optional:
+
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957899/ce7e612e-3601-11e5-9ee3-b2d1a807377b.png
    :width: 400 px
    :alt: image of dashboard
    :align: center 
 
+* 'Use as data point location' - In some cases, you might have multiple geolocations in a single survey form. In that case, this setting determines which one will be used as the primary location of the datapoint (where a marker will be shown on the map). If there is only a single geoquestion in the form, that one will be used by default.
+* 'Disable manual editing of geo values on device' - Setting this option will stop users manually entering latitude and longitude on the device. In almost all cases, the device should provide the GPS coordinates, and manual entry is unwanted. Only in the rare case where you have an external GPS device is manual entry needed.
 
-**Geographic feature question settings** (Expected January 2015)
+**Barcode questions settings** 
 
-For a geographic feature question there is the option to restrict the choice of feature types available to the enumerator. If nothing is selected, the enumerator can choose between points, lines, and areas when she creates a new feature. If you already know that the enumerator will only need to create areas, for example, it makes sense to hide the other options, to avoid confusion.
+For barcode questions there is one more additional setting:  
+
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957937/27345a1c-3602-11e5-94fa-f63f44b4610a.png
+   :width: 400 px
+   :alt: image of dashboard
+   :align: center 
+
+* ‘Enable multiple barcode scan’ - In some cases, you might want to scan multiple barcodes at one. This setting enables you to scan as many barcodes as you need within one question. 
+
+**Geographic shape question settings** 
+
+These settings are available for the geographic shape questions
+
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957984/70be8a0e-3602-11e5-8c98-13adcc433083.png
+   :width: 400 px
+   :alt: image of dashboard
+   :align: center 
+   
+* For a geographic feature question there is the option to restrict the choice of feature types available to the enumerator. If nothing is selected, the enumerator can choose between points, lines, and areas when she creates a new feature. If you already know that the enumerator will only need to create areas, for example, it makes sense to hide the other options, to avoid confusion.
+* ‘Disable manual editing of geo values on device’ - Setting this option will stop users manually entering latitude and longitude on the device. In almost all cases, the device should provide the GPS coordinates, and manual entry is unwanted. Only in the rare case where you have an external GPS device is manual entry needed.
 
 Using tooltips
 ++++++++++++++
