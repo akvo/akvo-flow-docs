@@ -17,17 +17,17 @@ The Inspect Data table is a live feed of all the data submitted from devices con
 
 For each data record submitted, the table contains:
 
-* ID - unique number assigned to the data record by the FLOW database when it's submitted from the device
-* survey - the survey group and survey that was used to collect the data record
-* submitter - the user name set on the device from 'Manage Users', to identify which device user submitted the data record
-* device ID - the device ID set in the device preferences, to help identify the device
-* collected - the date and time the data record was submitted from the device
-* action - options to edit and delete (for Admin level users)
+* Instance ID - unique number assigned to the data record by the FLOW database when it's submitted from the device
+* Survey - the survey group and survey that was used to collect the data record
+* Submitter - the user name set on the device from 'Manage Users', to identify which device user submitted the data record
+* Device ID - the device ID set in the device preferences, to help identify the device
+* Collected - the date and time the data record was submitted from the device
+* Action - options to edit and delete (for Admin level users)
 
 Filtering data
 ~~~~~~~~~~~~~~
 
-There are a collection of paramaters above the data table that allow you to filter what data records you see. You can filter on one or more parameters by making your selection(s) and then clicking the Find button. The records in the table will filter accordingly. To return to the full listing, clear all the filters and press Find again.
+There are a collection of parameters above the data table that allow you to filter what data records you see, as on the collection date, the instance ID, device ID, and on the name of the submitter. You can filter on one or more parameters by making your selection(s) and then clicking the Find button. The records in the table will filter accordingly. To return to the full listing, clear all the filters and press Find again.
 
 Editing data
 ~~~~~~~~~~~~
