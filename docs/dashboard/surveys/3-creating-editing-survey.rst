@@ -287,7 +287,7 @@ An option question offers three additional settings:
 
 For cascade questions, there is one additional setting you can enable. 
 
- .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957794/28d47f56-3601-11e5-9c6f-1d3392a7c9de.png
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/9085248/5d0da002-3b7b-11e5-899c-910021643bcf.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
