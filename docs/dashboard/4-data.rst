@@ -8,7 +8,7 @@ Inspect Data tab
 
 The Inspect Data table is a live feed of all the data submitted from devices connected to your FLOW dashboard. Its default view contains all data, with the most recent records at the top. You can page through the data using the Next and Previous buttons at the bottom of the table, or filter based on a collection of parameters.
 
- .. figure:: img/4-data_inspectdata.png
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/9084615/d116cf92-3b75-11e5-988b-d5a369c1a33b.png
    :width: 600 px
    :alt: image of dashboard
    :align: center 
@@ -18,7 +18,7 @@ The Inspect Data table is a live feed of all the data submitted from devices con
 For each data record submitted, the table contains:
 
 * Instance ID - unique number assigned to the data record by the FLOW database when it's submitted from the device
-* Survey - the survey group and survey that was used to collect the data record
+* Form - the survey group, survey and form that was used to collect the data record
 * Submitter - the user name set on the device from 'Manage Users', to identify which device user submitted the data record
 * Device ID - the device ID set in the device preferences, to help identify the device
 * Collected - the date and time the data record was submitted from the device
