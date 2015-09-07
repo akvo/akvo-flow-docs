@@ -43,6 +43,55 @@ Question Types
    :alt: image of phone
    :align: center
 
+Creating a geographic shape
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Once you reach a question in your form which holds a geographic shape question, you will have to create the shape using the FLOW app.
+
+**Creating a new geographic shape** 
+
+Click on ‘Capture shape’ underneath the question. The app brings you to a new screen with the map showing your current location.
+
+The ‘blue dot’ indicates your location on the map. If you press the compass icon, located in the top right corner of the map, you will zoom in to see your position in more detail. For more zooming use the ‘plus’ and ‘minus’ icons on the bottom right of your screen. The ‘globe’ icon in the header enables you to select from different map views, such as street view or satellite view.  
+
+**Select your geographic shape**
+
+Click on the ‘plus’ icon in the header. Select which shape you want to create. You can create a point, line or an area. This selection may be pre-set via the dashboard in the Geographic shape question type Settings. 
+
+**Creating a geographic shape**
+
+If you want to create a geographic shape there are two ways to do so. One way is to create the shape manually and the other uses the internal GPS of your device.
+
+**Creating a shape manually:**
+With this method you can create the shape directly on your screen manually without needing to move around the area to capture it. 
+
+Tap on the map on the location where you want to create your geographic shape. Hold your finger on the location for a few minutes. A pop up window will ask if you want to add a new point at this location. Press ‘OK’ to do so. The point is now added to the map showing the latitude and longitude. 
+
+You can also move the point, if you are not satisfied with its location. In order to move the point you have just created,  place your finger on top of the point. Keep your finger at the point and move your finger towards the desired place. The point will automatically follow your moves. Once you let go of the screen the point will be moved.
+
+In order to add a new point to your line or area you are about to capture, repeat the steps. The points will connect to each other automatically once you add them depending on the selected geographic shape.
+
+When you are finished capturing your geoshape, you need to save it. Press on the ‘save’ icon on the top of your screen. 
+
+**Creating the shape using the GPS on your device:**
+
+With this method you will be able to capture a geographic shape by using the GPS on your device by walking around or towards the structure you want to map out. 
+
+The steps needed to capture the geographic shape this way do not differ in essence from the above mentioned steps. Position yourself and the device at a corner of the area you want to capture. Click on the ‘add point’ icon on the bottom of your screen. This will start the capturing process. Once clicked on this icon, the point will be shown on the map with its coordinates. 
+
+Now walk to the next corner of the area you want to capture. You can turn your screen off in the meantime to preserve your battery. Once you arrive at the next corner of your area, add another point to the map. Repeat this process until you have reached the last point of your area. Now you need to walk back to the first point you have captured. The app automatically forms a shape.
+
+**Deleting a point**
+
+If you need to delete a point from your created shape, press your finger on the point to select it. Click on the ‘delete point’ icon on the bottom of your screen. A pop up window will appear to confirm your actions. Select ‘OK’ if you are sure you want to delete the point. 
+
+**Deleting an entire geographic shape**
+
+To delete the created geographic share, press the ‘delete shape’ icon at the bottom of your screen. A confirmation question will appear in the pop up window. If you are sure, you want to delete the shape, press ‘OK’.
+
+**Geographic shape properties**
+
+If you want to check the properties of your created geoshape, click on the ‘information’ icon on the bottom of your screen. A window will show you information on the point count, length and the size of the area, which are automatically calculated.
+
 Dependent questions
 ^^^^^^^^^^^^^^^^^^^
 Some questions are dependent on the answer from any preceding option question in the same form. The form will be adapted (hiding/showing dependent questions) while conducting the form.
