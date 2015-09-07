@@ -36,6 +36,7 @@ Question Types
 * **Photo** and **Video** - Displays the option to take a photo or video as part of the form. Click the **Take Photo** or **Take Video** buttons on the device to access the device camera.
 * **Date** - Displays a date picker to select a date in DD-MM-YYYY format.
 * **Barcode** - Displays the option to scan a barcode from the device and record the barcode number in the form. Click the **Scan Barcode** button to trigger the scan reader app. *Note: Requires an external barcode scanning-app to be installed on the device.*
+* **Geographic shape** - Allows the user to define points, lines or areas on the map. The type of shape is pre-set. For more details on how to create a geographic shape see below. 
 
 .. figure:: img/questions.png
    :width: 200 px
