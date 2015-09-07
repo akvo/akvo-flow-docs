@@ -212,6 +212,18 @@ Click the copy button next to the group name. Paste Group Here buttons will appe
    
 The difference between moving and copying a question group is that for a *move*, the question group just changes position in the survey, whereas for a *copy*, the group remains in its current location and a copy is pasted in the new selected location.
 
+**To repeat a question group when collecting data in the field:**
+
+By clicking 'Repeat this group' you will allow the enumerator when collecting data to repeat this group of questions as many times as needed. This will make it possible to ask the same set of question multiple times without needing to predefine then manually in the surveys. For example, if you want it ask the same questions to each member of a household, you will add the questions to one question group and click on the repeat option. 
+
+In the app, once you reach the question group with enabled repetitions, a new button '+ Repeat' automatically appears. By clicking in this button you will get a new set of questions from that question group. Once you are done collecting the data for this set of questions, click on 'Next' to proceed to the following question group. 
+
+In a raw data report, the repeated question group and the collected answers will appear as a grid. Each repetition is placed in a new row and the questions are headers in the columns.   
+
+There are some limitations to repeated question groups: 
+   - You will not be able to create a data point name from a question within a repeated question group.
+   - The dependecy rule is limited as well. You can make a question the in the repeated group dependent on each other or on a question from another group. However, you cannot make a question dependent on a question from the repeated question group. 
+
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
