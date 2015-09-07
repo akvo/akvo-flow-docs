@@ -14,7 +14,7 @@ First install the latest version of the Field Survey app on your device. While c
 
 From inside the app, set a User and Device ID.
 
-Read more about `Preparing your devices for FLOW <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html>`_ and `Launching and setting up the Field Survey app <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/3-launching-app.html>`_.
+Read more about `Preparing your devices for FLOW <http://flow.readthedocs.org/en/latest/docs/fieldapp2.0/2-installing-app.html#preparing-the-phone>`_ and `Launching and setting up the Field Survey app <http://flow.readthedocs.org/en/latest/docs/fieldapp2.0/3-launching-app.html>`_.
 
 To confirm that the device has connected successfully, visit the Devices tab on the dashboard and check for the device in the Devices List.
 
