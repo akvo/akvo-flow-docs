@@ -77,7 +77,7 @@ The bulk uploader gives you a way to upload data and photo files taken off the d
 
 The first step is to get the data from the device. To do this, follow these steps:
 
-1. Connect the device to a computer using a USB cable, so you can see the contents of the sd-card. For some computers you must enable MTP mode, Media Transfer Protocol, on your device. If differently, your zip filed will not be transferred and you will only save pictures on your computer.
+1. Connect the device to a computer using a USB cable, so you can see the contents of the sd-card. For some computers you must enable MTP mode, Media Transfer Protocol, on your device. If differently, your zip file will not be transferred and you will only save pictures on your computer.
 
 2. Go to the folder where the data is stored. When using FLOW app with version below 2.0, this is the 'surveyal' folder, inside the 'fieldsurvey' folder. For FLOW apps with version larger than 2.0, this is the 'data' folder inside the 'akvoflow' folder.
 
