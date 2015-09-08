@@ -56,6 +56,8 @@ Click on ‘Capture shape’ underneath the question. The app brings you to a ne
    :alt: image of phone
    :align: center
    
+   Initial geographic shape edit screen
+   
 The ‘blue dot’ indicates your location on the map. If you press the compass icon, located in the top right corner of the map, you will zoom in to see your position in more detail. For more zooming use the ‘plus’ and ‘minus’ icons on the bottom right of your screen. The ‘globe’ icon in the header enables you to select from different map views, such as street view or satellite view.  
 
 **Select your geographic shape**
@@ -93,7 +95,7 @@ You can also move the point, if you are not satisfied with its location. In orde
 In order to add a new point to your line or area you are about to capture, repeat the steps. The points will connect to each other automatically once you add them depending on the selected geographic shape.
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/9719193/5dc8e756-5582-11e5-89be-f47c8adc0941.jpg
-   :width: 200 px
+   :width: 400 px
    :alt: image of phone
    :align: center
    
@@ -124,7 +126,7 @@ The steps needed to capture the geographic shape this way do not differ in essen
 Now walk to the next corner of the area you want to capture. You can turn your screen off in the meantime to preserve your battery. Once you arrive at the next corner of your area, add another point to the map. Repeat this process until you have reached the last point of your area. Now you need to walk back to the first point you have captured. The app automatically forms a shape.
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/9719257/e85ca3ee-5582-11e5-8ea9-9be1fac4c302.jpg
-   :width: 200 px
+   :width: 400 px
    :alt: image of phone
    :align: center
    
