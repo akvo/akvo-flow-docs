@@ -214,7 +214,7 @@ The difference between moving and copying a question group is that for a *move*,
 
 **To repeat a question group when collecting data in the field:**
 
-By clicking 'Repeat this group' you will allow the enumerator when collecting data to repeat this group of questions as many times as needed. This will make it possible to ask the same set of question multiple times without needing to predefine then manually in the surveys. For example, if you want it ask the same questions to each member of a household, you will add the questions to one question group and click on the repeat option. 
+By clicking 'Repeat this group' you will allow the enumerator, when collecting data in the field, to repeat this group of questions as many times as needed. This will make it possible to ask the same set of questions multiple times without needing to predefine them manually in the surveys. For example, if you want to ask the same questions to each member of a household, you will add the questions to one question group and click on the repeat option. 
 
 In the app, once you reach the question group with enabled repetitions, a new button '+ Repeat' automatically appears. By clicking in this button you will get a new set of questions from that question group. Once you are done collecting the data for this set of questions, click on 'Next' to proceed to the following question group. 
 
@@ -222,7 +222,7 @@ In a raw data report, the repeated question group and the collected answers will
 
 There are some limitations to repeated question groups: 
    - You will not be able to create a data point name from a question within a repeated question group.
-   - The dependecy rule is limited as well. You can make a question the in the repeated group dependent on each other or on a question from another group. However, you cannot make a question dependent on a question from the repeated question group. 
+   - The dependecy rule is limited as well. You can make a question the in the repeated group dependent on each other or on a question from another group. However, you cannot make a question dependening on a question from the repeated question group. 
 
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
