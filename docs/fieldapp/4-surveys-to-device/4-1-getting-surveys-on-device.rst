@@ -3,7 +3,7 @@ Getting surveys on the phone
 
 Automatic download of surveys
 -----------------------------
-1. If you have sucessfully installed the Field Survey app on the phone, and you have a wifi connection, the phone will send a 'beacon signal' to the web-based Dashboard. In the Dashboard, surveys can then be assigned to the phone (XXX-reference-needed-XXX). If this proces fails, please consult the troubleshooting guide (XXX-reference-needed-XXX)
+1. If you have successfully installed the Field Survey app on the phone, and you have a Wi-Fi connection, the phone will send a 'beacon signal' to the web-based Dashboard. In the Dashboard, surveys can then be assigned to the phone (XXX-reference-needed-XXX). If this process fails, please consult the troubleshooting guide (XXX-reference-needed-XXX)
 
 2. Every time the Field Survey app is launched, the application checks for new surveys assigned to it, or updates of existing surveys. If there are new or updated surveys available, it will download them automatically. When new or updated surveys have been downloaded, the status bar will show a notification. 
 
@@ -28,7 +28,7 @@ You can see the full notification by drawing down the status bar (put your finge
    
 Alternative - manual transfer of surveys
 ----------------------------------------
-If there is no wifi available or you have trouble with the connectivity, you can put the survey on the phone using a manual method. This method takes 3 steps: 1) exporting the survey from the Dashboard to a "Bootstrap file", 2) connecting the phone to a computer, 3) transfering the bootstrap file to the phone.
+If there is no Wi-Fi available or you have trouble with the connectivity, you can put the survey on the phone using a manual method. This method takes 3 steps: 1) export the survey from the Dashboard to a "Bootstrap file", 2) connect the phone to a computer, 3) transfer the bootstrap file to the phone.
 
 1. Exporting the survey to a bootstrap file
 *******************************************
@@ -66,7 +66,7 @@ If there is no wifi available or you have trouble with the connectivity, you can
    :width: 550 px
    :align: center
 
-8. Click 'Generate' to create the boostrap file. The file will be send to the email address you provided. You will see a Request submitted pop-up window. Click OK, and then check your email for the Bootstrap file.
+8. Click 'Generate' to create the bootstrap file. The file will be send to the email address you provided. You will see a Request submitted pop-up window. Click OK, and then check your email for the Bootstrap file.
 
 .. figure:: ../img/6-getting-surveys-9.png
    :width: 250 px
@@ -106,7 +106,7 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
 
 3. The SD card will show up as an external hard disk. It may be called "NO NAME". Open this folder. This folder has the content of the SD card on your phone. Select the subfolder "fieldsurvey".
 
-3 Transfering the bootstrap file
+3. Transferring the bootstrap file
 *********************************
 1. Download the Bootstrap .zip file by clicking on the link contained in the email. Put the file on your computer somewhere.
 
@@ -127,7 +127,7 @@ If for some reason the phone cannot be connected to a USB cable, you can also ge
    :width: 500 px
    :align: center
 
-4. After you have completed this, close the window and eject the phone's drive from your computer BEFORE you remove the USB cord from the phone or the computer. If you do not do this correctly, the bootstrap file may not run correctly, and it may cause problems on your computer or phone. The exact order for connecting and disconnecting your phone will vary depending on which model you are using. Your phone models manual might have more information.
+4. After you have completed this, close the window and eject the phone's drive from your computer BEFORE you remove the USB cord from the phone or the computer. If you do not do this correctly, the bootstrap file may not run correctly, and it may cause problems on your computer or phone. The exact order for connecting and disconnecting your phone will vary depending on which model you are using. Your phone model manual might have more information.
 
 5. After you disconnect the phone, open the Field Survey app. The phone notification bar will first read "Loading survey data from SD card", and then "Done loading survey data from SD card". 
 
