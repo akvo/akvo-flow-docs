@@ -31,7 +31,7 @@ Recommended requirements
 
 Akvo FLOW supports tablets. Although the app layout is not yet optimised for large screens, it will work fine.
 
-Devices can be used with or without SIM card. If you use a SIM card, data can be send over the phone network, or using Wi-FI. If you don't use a SIM card, data transfer over wifi is the only option.
+Devices can be used with or without SIM card. If you use a SIM card, data can be send over the phone network, or using Wi-Fi. If you don't use a SIM card, data transfer over Wi-Fi is the only option.
 
 Before you install the Akvo FLOW app on your phone, ensure that your phone is in proper working condition. Place the SD card, optional SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
 
@@ -68,12 +68,12 @@ Before you start collecting data, it is important to check if the date and time 
 
 1.	On the home screen, press **Settings**. 
 2.	Click **date and time**.
-3.	Check if the date and time are correct, otherwise change. 
+3.	Check, if the date and time are correct, otherwise change. 
 
 
 Calibrate GPS
 -------------
-Every time the phones are moved more than 500 km, the GPS system needs to be re-calibrated to ensure GPS coordinates are accurate. 
+Every time the phones are moved more than 500km, the GPS system needs to be re-calibrated to ensure GPS coordinates are accurate. 
 
 The calibration can be done with or without a SIM card in the phone. If the phone has a working data connection, either through Wi-Fi or using a SIM card, the calibration process takes only a few minutes. If these are not set correctly, it can take up to 30 minutes.  
  
