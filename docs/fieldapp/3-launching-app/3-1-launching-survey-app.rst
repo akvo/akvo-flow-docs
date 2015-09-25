@@ -1,7 +1,7 @@
 Launching the Field Survey app 
 =================================
 
-When you have installed the Field Survey app sucessfully, it is ready to be launched. These are the steps:
+When you have installed the Field Survey app successfully, it is ready to be launched. These are the steps:
 
 .. _create-shortcut:
 
