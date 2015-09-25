@@ -40,7 +40,7 @@ Before you begin collecting data, you must understand that each survey contains 
 Question types
 ~~~~~~~~~~~~~~
 
-Each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the device screen. The different question types are explianed in detial in the `Akvo FLOW dashboard section about surveys <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/2-surveys.html#survey-structure-in-flow.html>`_ .
+Each survey contains a series of questions and the questions are organized into smaller sets as question groups. Each group of questions appears in a separate tab on the device screen. The different question types are explianed in detial in the Akvo FLOW dashboard section about `surveys <https://flow.readthedocs.org/en/latest/docs/dashboard/surveys/3-creating-editing-survey.html#question-types-and-their-settings>`_ .
 
 
 Help options
