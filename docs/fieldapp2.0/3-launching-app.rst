@@ -7,7 +7,7 @@ Before you start using the Akvo FLOW app, you must do the following on your phon
 
 **To start the application:**
 
-In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcut in the home screen, you can also launch the app from there.
+In the applications menu click on the **Akvo FLOW** icon. If you have a shortcut in the home screen, you can also launch the app from there.
 
 .. figure:: img/homescreen-shortcut.png
    :width: 200 px
@@ -16,7 +16,7 @@ In the applications menu, click on the **Akvo FLOW** icon. If you have a shortcu
 
 Set up device ID
 ----------------
-The first time you activate the FLOW app, you have to privide a name (Device ID) for the phone. This name will be used to identify the phone on the FLOW Dashboard. 
+The first time you activate the FLOW app, you have to provide a name (Device ID) for the phone. This name will be used to identify the phone on the FLOW Dashboard. 
 
 **To set up device ID:**
 
