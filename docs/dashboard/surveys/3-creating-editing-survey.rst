@@ -222,7 +222,7 @@ In a raw data report, the repeated question group and the collected answers will
 
 There are some limitations to repeated question groups: 
    - You will not be able to create a data point name from a question within a repeated question group.
-   - The dependecy rule is limited as well. You can make a question the in the repeated group dependent on each other or on a question from another group. However, you cannot make a question dependening on a question from the repeated question group. 
+   - The dependency rule is limited as well. You can make a question the in the repeated group dependent on each other or on a question from another group. However, you cannot make a question depending on a question from the repeated question group. 
 
 Creating and editing survey questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -256,8 +256,8 @@ Question types and their settings
 These are the question types available in the FLOW system:
 
 * **Free text** - shows the user a text box on the device to fill in the answer, with no specific format. Text can be letters, numbers and symbols, and appears in the data views and reports exactly as it was typed into the device.
-* **Option** - create a set of preset options for the device user to select from on the device when answering the question. Option questions can be single or multiple answer. The survey author can elect to allow 'other' responses, which on the device presents a free text field for entering any other response outside the preset options. Option questions will have frequency analysis performed on them in data analysis. 
-* **Cascade** - a cascade question uses a user-defined hieararchy of options in order to display multiple dropdowns on the device. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, and so on. The user selects a pre-created cascade from the 'Choose cascade resource' dropdown menu. 
+* **Option** - create a set of preset options for the device user to select from on the device when answering the question. Option questions can be single answer or multiple answers. The survey author can elect to allow 'other' responses, which on the device presents a free text field for entering any other response outside the preset options. Option questions will have frequency analysis performed on them in data analysis. 
+* **Cascade** - a cascade question uses a user-defined hierarchy of options in order to display multiple dropdowns on the device. Determining a location is a good example: in a first dropdown question you choose the region, and then in the next dropdown, you can choose from the districts in that region, and so on. The user selects a pre-created cascade from the 'Choose cascade resource' dropdown menu. 
 * **Number** - allows only numbers to be typed into the answer entry field on the device. Number questions will have basic statistical analysis performed on them in data analysis.
 * **Geolocation** - uses the device’s GPS to automatically fill in latitude, longitude and elevation. Click the Check Geo Location button to fill in these questions on the device. 
 * **Photo and Video** - presents the option to take a photo or video as part of the survey. Click the Take Photo or Take Video buttons on the device to access the device camera.
@@ -281,7 +281,7 @@ A free text question offers two additional settings:
 
 **Option question settings**
 
-For option questions, you can enter options in the text box that appears below, entering each option on a seperate line. 
+For option questions, you can enter options in the text box that appears below, entering each option on a separate line. 
 
  .. figure:: https://cloud.githubusercontent.com/assets/12456965/8957611/dff47c24-35ff-11e5-8c96-56b53321884c.png
    :width: 400 px
@@ -291,7 +291,7 @@ For option questions, you can enter options in the text box that appears below, 
 An option question offers three additional settings:
 * On the device, the default behaviour for option questions is that the device user can only select one answer. You can allow device users to select multiple responses to a question by ticking the box next to "Allow multiple". 
 
-* You can allow device users to enter a free text Other answer on the device by ticking the box next to "Allow other".
+* You can allow device users to enter a free text ('Other') answer on the device by ticking the box next to "Allow other".
 
 * 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 
@@ -318,7 +318,7 @@ For number questions, there are a few additional settings you can enable. All of
 * 'Use as data point name' - When you use the FLOW 2.0 app, each datapoint you create is given a name. The name is determined by questions that have this option set. If multiple questions have this option set, the answers to those questions are combined in a single name, separated by a dash ('-'). In this way, you can give data points names that identify what you have surveyed, so they are easy to find back in the list of datapoints.
 * By default, device users cannot enter a positive or negative sign or decimal point for number question responses. You can choose to allow device users to enter numbers with signs and/or enter numbers with decimal points by ticking the boxes next to "Allow sign" and/or "Allow decimal point".
 * Require double entry of answer in device’ - This can be used to force the user to type the answer to the question twice, which can be used as data verification. This can be useful for items such as telephone numbers, email addresses, or identification numbers, which are easy to type wrong.
-* You can also set minumum and/or maximum values for the numbers that the device user can enter. This will prevent them from being able to submit responses outside the specified range.
+* You can also set minimum and/or maximum values for the numbers that the device user can enter. This will prevent them from being able to submit responses outside the specified range.
 
 **Geolocation question settings**
 
@@ -329,7 +329,7 @@ For geolocation questions, there are two additional options, which are optional:
    :alt: image of dashboard
    :align: center 
 
-* 'Use as data point location' - In some cases, you might have multiple geolocations in a single survey form. In that case, this setting determines which one will be used as the primary location of the datapoint (where a marker will be shown on the map). If there is only a single geoquestion in the form, that one will be used by default.
+* 'Use as data point location' - In some cases, you might have multiple geolocations in a single survey form. In that case, this setting determines which one will be used as the primary location of the datapoint (where a marker will be shown on the map). If there is only a single geolocation question in the form, that one will be used by default.
 * 'Disable manual editing of geo values on device' - Setting this option will stop users manually entering latitude and longitude on the device. In almost all cases, the device should provide the GPS coordinates, and manual entry is unwanted. Only in the rare case where you have an external GPS device is manual entry needed.
 
 **Barcode questions settings** 
@@ -365,9 +365,9 @@ Using dependent questions
 
 You can build FLOW surveys that are adaptive to the answers provided by the respondent, so that the questions that appear on the device screen while the survey is being conducted will change according to the answers to previous questions. These are dependent questions.
 
-Dependent questions operate on option questions that preceed the dependent question. 
+Dependent questions operate on option questions that precede the dependent question. 
 
-To set a dependency, tick the box next to "Dependent" in the question detail screen. This will display a dropdown list that contains all the option questions that preceed the current question. Select the question upon which you want the current question to be dependent. The possible responses to that question will appear below. Tick the box next to the response, and the current question will only appear on the device if that response is selected. You can also select more than one response.
+To set a dependency, tick the box next to "Dependent" in the question detail screen. This will display a dropdown list that contains all the option questions that precede the current question. Select the question upon which you want the current question to be dependent. The possible responses to that question will appear below. Tick the box next to the response, and the current question will only appear on the device if that response is selected. You can also select more than one response.
 
  .. figure:: ../img/2-surveys_editquestion_settingdependency.png
    :width: 400 px
