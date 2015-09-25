@@ -83,7 +83,7 @@ When you click **Submit** at the end of a survey, the survey is locked to preven
 
 It is always better to submit data from the device right away over the network. If users store data on their devices while waiting for an opportunity to import it later, there is always the danger of permanent data loss if the device is damaged or lost.
 
-Note: Ensure that the `date and time setting <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_  on your phone is correct before you submit a survey.
+Note: Ensure that the `date and time setting <https://flow.readthedocs.org/en/latest/docs/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone>`_  on your phone is correct before you submit a survey.
 
 **To submit a survey:**
 
