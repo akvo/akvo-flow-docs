@@ -5,11 +5,11 @@ Notifications are event-based messages about FLOW survey activity sent to you vi
 
 Notifications are either tied to certain events (survey approval, survey submission) or run at set intervals (nightly raw data report if new data has been submitted).
 
-**To set up notifcations:**
+**To set up notifications:**
 
 Select the survey and form for which you want to set up notifications. In the 
 
-In the form s click on the 'Manage Notifications' button. This will bring up a screen where you can enter the details of each notification.
+In the form click on the 'Manage Notifications' button. This will bring up a screen where you can enter the details of each notification.
 
  .. figure:: ../img/2-surveys_notifications_sample1.png
    :width: 750 px
@@ -18,7 +18,7 @@ In the form s click on the 'Manage Notifications' button. This will bring up a s
 
    The Manage Notifications button.
 
-Enter the recipient's email address, select an Event type, Option and expiration date. Click Add and you will see the details appear below.
+Enter the recipient's email address; select an Event type, Option and expiration date. Click Add and you will see the details appear below.
 
  .. figure:: ../img/2-surveys_notifications_sample2.png
    :width: 600 px
@@ -32,7 +32,7 @@ Enter the recipient's email address, select an Event type, Option and expiration
 **Event**
 
 * Raw data reports (nightly) - generates and sends a raw data report each night if new data are submitted for the survey
-* Survey submission - send a notifcation each time a survey is submitted from the field (note: this can product a high volume of emails) 
+* Survey submission - send a notification each time a survey is submitted from the field (note: this can product a high volume of emails) 
 * Survey approval - send a notification each time a survey is approved
 
 **Option** - choose whether to include a download link in the email, or to send any file as an attachment
