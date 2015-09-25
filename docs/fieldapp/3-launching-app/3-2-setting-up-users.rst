@@ -92,7 +92,7 @@ To delete a user, select "Manage Users" from the home screen. This will display 
 
 Remember a user
 ------------------
-By default, every time the application is launced, a user needs to be selected. If you prefer that the application remembers the last user selected, take these steps:
+By default, every time the application is launched, a user needs to be selected. If you prefer that the application remember the last user selected, take these steps:
 
 1. Select "Settings" from the main menu.
 
