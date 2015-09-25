@@ -5,7 +5,7 @@ The FLOW Dashboard is the web-based location where users access and manage their
 
 The Dashboard is made up a series of pages. The first page you see after you log in is the Surveys tab. Across the top bar there are a series of menu items:
 
-- `Surveys <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/2-surveys.html>`_ : Surveys are the centerpiece of the Akvo FLOW application. Create, edit and publish surveys from the Surveys tab.
+- `Surveys <http://flow.readthedocs.org/en/latest/docs/dashboard/2-surveys.html>`_ : Surveys are the centerpiece of the Akvo FLOW application. Create, edit and publish surveys from the Surveys tab.
 - `Devices <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/3-devices.html>`_ : In the devices tab you manage the devices connected with your Akvo FLOW Dashboard.
 - `Data <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/4-data.html>`_ : The Data tab is where you can view, edit, import and clean data collected with Akvo FLOW surveys.
 - `Reports <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/5-reports.html>`_ : The Reports tab in FLOW gives you several options for viewing and exporting data and results from your surveys.
