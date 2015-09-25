@@ -12,7 +12,7 @@ The Survey page shows a list of all survey folders. Folders can contain other fo
 
 **Navigating between folders**
 
-You can enter a folder by clicking on the name. At the top, a breadcrumb navigation shows where you are in the folder hiearchy. Clicking on items in the breadcrumb will take you to that folder.
+You can enter a folder by clicking on the name. At the top, breadcrumb navigation shows where you are in the folder hierarchy. Clicking on items in the breadcrumb will take you to that folder.
 
  .. figure:: ../img/2-breadcrumb.png
    :width: 200 px
