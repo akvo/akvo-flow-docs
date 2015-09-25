@@ -20,16 +20,16 @@ To connect the phone to a Wi-Fi network:
 4.	Choose the network you have access to and provide the password, if prompted. 
 5.	Select Connect. When connected to Wi-Fi, you can see this  icon at the top of the screen.
 
-If you have successfully `installed the Field Survey App on the phone <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#installing-field-survey-app.html>`_  and have internet or network connectivity, your phone is ready to receive surveys. 
+If you have successfully `installed the Field Survey App on the phone <https://flow.readthedocs.org/en/latest/docs/fieldapp/2-preparing-device.html#installing-field-survey-app>`_  and have internet or network connectivity, your phone is ready to receive surveys. 
 
 *Note: It is important to know that you should close and open the App, the connection will be refreshed. If FLOW doesn’t work, you can try refresh the connection. This often helps.*
 
 **There are four ways to get a survey from the FLOW server onto your phone:**
 
-•  `Automatic download <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/4-surveys-to-device.html#automatic-download-create-survey-assignment.html>`_ :  Assign a survey to your phone from the FLOW Dashboard, which will then be downloaded by the phone automatically. Survey assignment is done by the project manager. 
-•	`Reload all Survey <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/4-surveys-to-device.html#reload-all-surveys.html>`_ : By reloading all surveys, the application tries to connect to the server and update with the latest version. If this doesn’t work, you need to download survey from settings menu. 
-•	`Download survey from settings menu <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/4-surveys-to-device.html#manual-download-from-settings-men.html>`_ : Download a specific survey from the Settings menu on the Field Survey App installed on your phone.
-•	`Manual transfer (bootstrap) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/4-surveys-to-device.html#manual-transfer-bootstrap.html>`_ : Generate a bootstrap file containing the survey from the FLOW Dashboard and manually transfer the survey to your phone using a USB cable. This is also done by the project manager. 
+•  `Automatic download <https://flow.readthedocs.org/en/latest/docs/fieldapp/4-surveys-to-device.html#automatic-download-create-survey-assignment>`_ :  Assign a survey to your phone from the FLOW Dashboard, which will then be downloaded by the phone automatically. Survey assignment is done by the project manager. 
+•	`Reload all Survey <https://flow.readthedocs.org/en/latest/docs/fieldapp/4-surveys-to-device.html#reload-all-surveys>`_ : By reloading all surveys, the application tries to connect to the server and update with the latest version. If this doesn’t work, you need to download survey from settings menu. 
+•	`Download survey from settings menu <https://flow.readthedocs.org/en/latest/docs/fieldapp/4-surveys-to-device.html#manual-download-from-settings-menu>`_ : Download a specific survey from the Settings menu on the Field Survey App installed on your phone.
+•	`Manual transfer (bootstrap) <https://flow.readthedocs.org/en/latest/docs/fieldapp/4-surveys-to-device.html#id1>`_ : Generate a bootstrap file containing the survey from the FLOW Dashboard and manually transfer the survey to your phone using a USB cable. This is also done by the project manager. 
 
 
 Automatic download (create survey assignment)
@@ -100,4 +100,4 @@ Before you start, you need the ID of the survey. On the dashboard, you can find 
 
 Manual transfer (bootstrap)
 ---------------------------
-Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network. How to do this is described in the `Manual survey transfer section <http://flow.readthedocs.org/en/latest/docs/topic/dashboard/3-devices.html#manual-survey-transfer.html>`_ of the Akvo FLOW dashboard documentation.
+Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network. How to do this is described in the `Manual survey transfer section <https://flow.readthedocs.org/en/latest/docs/fieldapp/4-surveys-to-device.html#id1>`_ of the Akvo FLOW dashboard documentation.
