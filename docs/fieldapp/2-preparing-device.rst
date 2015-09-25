@@ -5,11 +5,11 @@ Before you install the Field Survey App
 ------------------------------------------
 Before you install the Field Survey App on your phone, ensure that your phone is in proper working condition. Place the SD card, the SIM card, and the battery in the phone and make sure you can send and receive calls and data. Once this is done, ensure that your phone is configured to do the following:
 
-• 	`Configure Gmail on the phone <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-gmail-on-phone.html>`_  
-•	`Configure Android settings for software download <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-android-settings-for-software-download.html>`_ 
-•	`Set up Wi-Fi <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-up-wi-fi.html>`_ 
-•	`Set Access Point Name (APN) <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_ 
-•	`Calibrate GPS <http://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_ 
+• 	`Configure Gmail on the phone <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-gmail-on-phone.html>`_  
+•	`Configure Android settings for software download <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#configure-android-settings-for-software-download.html>`_ 
+•	`Set up Wi-Fi <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-up-wi-fi.html>`_ 
+•	`Set Access Point Name (APN) <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#set-access-point-name-apn.html>`_ 
+•	`Calibrate GPS <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_ 
 
 How to do this is described in the sections below.
 
