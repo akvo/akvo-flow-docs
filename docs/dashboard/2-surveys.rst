@@ -2,7 +2,7 @@ Surveys
 =======
 
 Surveys are the centerpiece of the FLOW application. Create, edit and publish surveys from the Surveys tab. 
-When you first visit the dashboard, you'll land on the Surveys page. Here, you can create folders to hold your surveys. The chapters explain the survey creation proces in detail.
+When you first visit the dashboard, you'll land on the Surveys page. Here, you can create folders to hold your surveys. The chapters explain the survey creation process in detail.
 
  .. figure:: img/2-surveys_groupview.png
    :width: 750 px
