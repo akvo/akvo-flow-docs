@@ -11,7 +11,7 @@ Updating through Gmail
 
 2. Get the right Field Survey app (APK file) for your Dashboard. Be careful to get the right one: the Field Survey app and the Dashboard are connected, so you can't simply use any Field Survey APK file for this. You can download the latest version of the APK for your organisation from the Dashboard you have access to, at (XXX-location in Dashboard-XXX) 
  
-3. Send an email with the Field Survey app (APK file) as an attachement to the gmail email address that is configured on the phone.
+3. Send an email with the Field Survey app (APK file) as an attachment to the gmail email address that is configured on the phone.
 
 4. Open the email app on the phone. If you don't have the email app icon on your home screen, you can :ref:`create a shortcut <create-shortcut>`. 
 
@@ -25,7 +25,7 @@ Locate the mail.
    :width: 200 px
    :align: center
 
-5. Open the mail. The APK file will be shown as an attachment. The way attachements are shown will depend on the email app.
+5. Open the mail. The APK file will be shown as an attachment. The way attachments are shown will depend on the email app.
 
 .. figure:: img/3-installing-app-4-arrow.gif
    :width: 200 px
@@ -48,14 +48,14 @@ Locate the mail.
    :width: 200 px
    :align: center
    
-7. You will see a popup that aks if you want to install the application, with a list of services the application will use. Click "Install"
+7. You will see a popup that asks if you want to install the application, with a list of services the application will use. Click "Install"
 
 .. figure:: img/4-update-app-2.png
    :width: 200 px
    :align: center
     
    
-The Field Survey app is now installed on the phone. You can now create a shortcut to the Field Survey app on the home screen. This will make starting up the app during field work easier. To do this, just long press on an empty home screen space and choose "Shortcuts" from the menu. Select "Applications", and select the Field Survey app. This will place a shortcut to the Field Survey app on your home screen.
+The Field Survey app is now installed on the phone. You can now create a shortcut to the Field Survey app on the home screen. This will make starting up the app during fieldwork easier. To do this, just long press on an empty home screen space and choose "Shortcuts" from the menu. Select "Applications", and select the Field Survey app. This will place a shortcut to the Field Survey app on your home screen.
 
 **Troubleshooting** - Sometimes, the previous step will not work, and you will get this message instead:
 
