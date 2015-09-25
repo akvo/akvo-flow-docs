@@ -9,7 +9,7 @@ Before you install the Field Survey App on your phone, ensure that your phone is
 •	`Configure Android settings for software download <https://flow.readthedocs.org/en/latest/docs/fieldapp/2-preparing-device.html#id1>`_ 
 •	`Set up Wi-Fi <https://flow.readthedocs.org/en/latest/docs/fieldapp/2-preparing-device.html#id2>`_ 
 •	`Set Access Point Name (APN) <https://flow.readthedocs.org/en/latest/docs/fieldapp/2-preparing-device.html#id3>`_ 
-•	`Calibrate GPS <https://flow.readthedocs.org/en/latest/docs/topic/fieldapp/2-preparing-device.html#setting-data-and-time-on-the-phone.html>`_ 
+•	`Calibrate GPS <https://flow.readthedocs.org/en/latest/docs/fieldapp/3-launching-app.html?highlight=calibrate#calibrate-gps>`_ 
 
 How to do this is described in the sections below.
 
