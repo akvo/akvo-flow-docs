@@ -5,7 +5,7 @@ The devices tab is mission central for managing all the devices connected with y
 
 * The Devices List displays a list of all the devices connected to your dashboard.
 * The Assignments List displays all the survey assignments that have been created on your dashboard, and allows you to create new ones.
-* Manual Survey Transfer allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
+* Manual Survey Transfer allows you to create a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectivity to a wireless or mobile network.
 
 Connecting and viewing a device on the dashboard
 ------------------------------------------------
@@ -28,7 +28,7 @@ To confirm that the device has connected successfully, visit the Devices tab on 
 **Elements in the Devices List**
 
 * IMEI - an identifying number unique to each device that helps to identify it in our database
-* Phone Number - the device's phone number (mobile network) or MAC address (wifi network)
+* Phone Number - the device's phone number (mobile network) or MAC address (Wi-Fi network)
 * Device ID - a name you set on the device to help you identify each device
 * Device Group - the device group to which the device belongs; optional
 * Last Contact - the last time the device connected with the dashboard
@@ -164,7 +164,7 @@ Find it in the Assignments List and click the Edit icon in the Action column for
 Manual survey transfer
 ----------------------
 
-Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectvity to a wireless or mobile network.
+Manual Survey Transfer (formerly known as bootstrap) allows you to generate a file of a FLOW survey you've already published that you can email to yourself or your colleagues to install on devices manually, in situations with low or no connectivity to a wireless or mobile network.
 
 **To create a survey file:**
 
