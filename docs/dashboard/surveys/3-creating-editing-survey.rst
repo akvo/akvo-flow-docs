@@ -25,7 +25,7 @@ This creates a new survey, which will be shown in the folder. If you have any su
 To start editing the survey, click the 'edit' icon. This will display the survey edit screen, as shown below. 
 
 
- .. figure:: ..https://cloud.githubusercontent.com/assets/12456965/10136307/1abc719e-65f4-11e5-813a-4c1a7456a2d7.jpg
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/10136307/1abc719e-65f4-11e5-813a-4c1a7456a2d7.jpg
    :width: 750 px
    :alt: image of dashboard
    :align: center 
@@ -82,7 +82,7 @@ Start by providing a descriptive title to the form and saving it by clicking the
 
 After you save the form, a form screen shows two more buttons:
 
- .. figure:: ..https://cloud.githubusercontent.com/assets/12456965/10136390/877e10da-65f4-11e5-884b-32869036df87.jpg
+ .. figure:: https://cloud.githubusercontent.com/assets/12456965/10136390/877e10da-65f4-11e5-884b-32869036df87.jpg
    :width: 750 px
    :alt: image of dashboard
    :align: center 
