@@ -25,7 +25,7 @@ This creates a new survey, which will be shown in the folder. If you have any su
 To start editing the survey, click the 'edit' icon. This will display the survey edit screen, as shown below. 
 
 
- .. figure:: ../img/2-edit_survey_screen.png
+ .. figure:: ..https://cloud.githubusercontent.com/assets/12456965/10136307/1abc719e-65f4-11e5-813a-4c1a7456a2d7.jpg
    :width: 750 px
    :alt: image of dashboard
    :align: center 
@@ -36,13 +36,12 @@ A lot is happening here, so we have numbered the areas of interest. Let's go ove
 
 1. Indicates the number of forms in the survey. A new survey has zero forms.
 2. Indicates if this is a monitoring survey or not (more on that below).
-3. Indicates if this survey has been published or not (more on that below).
-4. The title of the survey. A short title to describe the survey. On the device, this will be shown as the title of the survey as well.
-5. The description of the survey. This is an optional description of the survey. It is only used in the dashboard.
-6. The privacy type of the survey. There are two possibilities: 'public' and 'private'. This setting determines if the data will be visible on the public map or not.
-7. Language: the master language of the survey. In addition to this, any number of translations can be added later. The default master language is English.
-8. Advanced settings. Here, you can turn a survey into a monitoring survey (more on that below).
-9. Button to add a form to the survey.
+3. The title of the survey. A short title to describe the survey. On the device, this will be shown as the title of the survey as well.
+4. The description of the survey. This is an optional description of the survey. It is only used in the dashboard.
+5. The privacy type of the survey. There are two possibilities: 'public' and 'private'. This setting determines if the data will be visible on the public map or not.
+6. Language: the master language of the survey. In addition to this, any number of translations can be added later. The default master language is English.
+7. Advanced settings. Here, you can turn a survey into a monitoring survey (more on that below).
+8. Button to add a form to the survey.
 
 After changing the various settings, click 'Save'.
 
@@ -83,14 +82,15 @@ Start by providing a descriptive title to the form and saving it by clicking the
 
 After you save the form, a form screen shows two more buttons:
 
- .. figure:: ../img/2-surveys_after_save.png
+ .. figure:: ..https://cloud.githubusercontent.com/assets/12456965/10136390/877e10da-65f4-11e5-884b-32869036df87.jpg
    :width: 750 px
    :alt: image of dashboard
    :align: center 
 
-1. The Preview button shows a preview of the entire form
-2. The Delete button deletes the form. This cannot be undone. You can only delete a form if it hasn't been used for data collection yet. If you still want to delete it, you will first need to delete the data collected with this form.
-3. The further settings of the form are now hidden. Clicking the 'Show' button will show the title and description fields, and the translation and notification buttons.
+1. The Publish button indicates if this form has been published or not (more on that below).
+2. The Preview button shows a preview of the entire form
+3. The Delete button deletes the form. This cannot be undone. You can only delete a form if it hasn't been used for data collection yet. If you still want to delete it, you will first need to delete the data collected with this form.
+4. The further settings of the form are now hidden. Clicking the 'Show' button will show the title and description fields, and the translation and notification buttons.
 
 Advanced - Working with multiple forms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
