@@ -200,7 +200,7 @@ Obviously, it is a lot of work to manually add all these items. It is often the 
 
    Format for uploading cascade resource data
 
-The first column has the lowest level administrative area names, the next column has the next level up, etc. Importantly, the lowest level names are repeated for each row. IMPORTANT - the file should NOT have a first row, it the role of a header, with the names of the levels. These need to be provided later in the user interface.
+The first column has the lowest level administrative area names, the next column has the next level up, etc. Importantly, the lowest level names are repeated for each row. IMPORTANT - the file should NOT have a first row, in the role of a header, with the names of the levels. These need to be provided later in the user interface.
 
 In some cases, codes are available for the various levels as well. If these are available, the format of the file should be like this:
 
