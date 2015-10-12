@@ -1,5 +1,5 @@
 Before installing the FLOW app
-================
+=============================
 
 To run Akvo FLOW app, your phone must meet the following hardware and software specifications:
 
@@ -53,11 +53,6 @@ In order for the phone to update surveys, receive new surveys or transmit submit
 
 5.	Select **Connect**. When connected to Wi-Fi, you can see this Wi-Fi icon at the top of the screen:
 
-.. figure:: img/wifi_icon.png
-   :width: 30 px
-   :alt: image of phone
-   :align: center
-
 *Note: In situations where an Internet or data connection is unavailable you need to setup data collection via Mobile networks (H, 3G, E, G). To do this you need to enable ‘Use packet data’ or ‘Data roaming’.*
 
 Setting date and time on the phone
@@ -85,7 +80,7 @@ An easy way to check if the GPS is callibrating correctly is to use the free app
 2.	Open the GPS Status app
 3.	If your GPS is disabled, you are prompted to enable GPS. Select **Use GPS Satellites** and then return to the previous screen. The GPS application appears.
 
-.. figure:: img/gps-status.png
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10427284/91117994-70e8-11e5-8fc0-f2b2dd12ed13.png
    :width: 200 px
    :alt: image of phone
    :align: center
@@ -117,31 +112,12 @@ Local Internet service providers use APN settings to activate data plans using S
 **To set the Access Point name:**
 
 1. On the home screen, press **Settings**. 
-
-2. From the options, choose **More…** and then select **Mobile Networks**.
-
-.. figure:: img/networks.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
+2. From the options, choose **More…** and then select **Mobile Networks**. 
 3. Select **Access Point Name**.
-
-.. figure:: img/accesspoints.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-
 4. Press the **Menu** button and select **New APN**.
-
-.. figure:: img/new-apn.png
-   :width: 200 px
-   :alt: image of phone
-   :align: center
-   
 5. Fill in the required APN settings for your SIM card. You can get the correct APN settings for the SIM Card from your Internet Service Provider.
 
-.. figure:: img/edit-apn.png
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10427418/d6a3e2ca-70e9-11e5-8198-132c632bc599.jpg
    :width: 200 px
    :alt: image of phone
    :align: center
