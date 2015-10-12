@@ -10,18 +10,7 @@ Preparing the phone
 Before the FLOW app can be installed, the device must be configured to allow download and installation of third-party software. Follow these steps to do this:
 
 1. Under Settings, select Security. 
-
-.. figure:: img/settings-security.png
-   :width: 200 px
-   :alt: Settings > Security
-   :align: center
-
 2. Enable the setting *Unknown sources* (If you cannot find the Unknown sources option under Security, check under Applications).
-
-.. figure:: img/security-unknownsources.png
-   :width: 200 px
-   :alt: Enable Unknown sources option
-   :align: center
 
 
 Installation by direct download
@@ -30,27 +19,9 @@ Installation by direct download
 Follow these steps to download the app directly to the device:
 
 1. Open the browser on the device. The browser app might be called *Internet* or *Browser*, or it could otherwise be an specific browser name (i.e. Chrome, Firefox, etc)
-
 2. In the browser address bar, type the address of your Akvo FLOW dashboard, and add '/app2'. For example, if your organisation is called 'care', this would usually be 'care.akvoflow.org/app2'. Please check with your project manager to get the right dashboard location.
-
-.. figure:: img/2-downloadapp.png
-   :width: 200 px
-   :alt: Type in the app URL
-   :align: center
-
 3. When you have typed the address, including the '/app2', click 'Go' on the keyboard. This will download the latest version of the FLOW app directly. You will see the download icon in the notification bar at the top of the screen.
-
-.. figure:: img/2-downloadicon.png
-   :width: 50 px
-   :alt: Download icon
-   :align: center
-
 4. When the download is complete, draw down the notification bar from the top of the screen. If the download succeeded, you will see *flow-2.x.x.apk, download complete*. Click on the notification, and click *Install*.
-
-.. figure:: img/download-notification.png
-   :width: 200 px
-   :alt: Download icon
-   :align: center
 
 
 Installation by putting the app on the phone directly
@@ -80,17 +51,10 @@ Updating the Akvo FLOW app
 Starting with version 1.13.0, the Akvo FLOW app can be automatically updated from within the app. The original method of sending the APK file to the device by email and installing it from there will remain available, but this new feature will make updating the app much easier.
 
 1. Whenever a new Akvo FLOW app update is available, the app will display a pop-up with two options: 'Not now', and 'Update'.
-
-.. figure:: img/upgrade-popup.png
-   :width: 200 px
-   :alt: App update available pop-up
-   :align: center
-
 2. If the user selects 'Not now', the popup will disappear, and the app can be used. The next time the app is started up, the popup will be shown again. If the user selects 'Update', the new FLOW app will be downloaded and installed. Downloading the update will require a reliable network connection, as the app file is about 1 Mb in size. This is best done on a WiFi connection, to ensure the file is downloaded correctly. If you are ready to install the update, click 'Update'.
-
 3. After the download is complete, click 'Install'.
 
-.. figure:: img/upgrade-install.png
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10427503/8c9bc980-70ea-11e5-984e-5b3e22779c9f.png
    :width: 200 px
    :alt: Install the latest version
    :align: center
@@ -109,7 +73,7 @@ To create a shortcut:
 2. From the list of applications, press and hold on the Akvo FLOW app icon. 
 3. The shortcut to the Akvo FLOW app now appears on your home screen.
 
-.. figure:: img/homescreen-shortcut.png
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10427468/580567c6-70ea-11e5-8e27-e8bbf5452b05.png
    :width: 200 px
    :alt: Akvo FLOW app shortcut
    :align: center
