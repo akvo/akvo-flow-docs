@@ -1,6 +1,7 @@
 Starting the FLOW app
 ========================
 
+
 Before starting the FLOW app, make sure you do the following on your device:
    - Connect the device to a Wi-Fi network or a mobile data connection
    - Set the Access Point Name (APN) (only if needed to activate data plan)
@@ -14,9 +15,9 @@ In the applications menu click on the **Akvo FLOW** icon. If you have a shortcut
    :alt: image of phone
    :align: center
 
-.. _create_a_user:
+.. _create_the_first_user:
 
-Create a user
+Create the first user
 ----------------
 
 Set up your user account by typing in your user name. Continue by pressing **Next**.
@@ -42,7 +43,7 @@ After creating the user, you will see the side menu which shows you who the acti
     4. Provide a name, for example the name of your organization and a number,  that will help you find back the device on the Dashboard and click **OK**. 
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10302544/8eb17148-6c0d-11e5-9ae2-541c9a14e9d8.jpg
-   :width: 200 px
+   :width: 1000 px
    :alt: image of phone
    :align: center
 
@@ -65,7 +66,10 @@ Every time you click on the **menu** icon located in the top left corner of the 
    
    *The new side menu and its items*
 
-**User management** 
+... _user_management: 
+
+User management 
+--------------------
 
 The first item in the side menu shows you who the active user is. However, there might be multiple users collecting data with this device. Each user should have their own account with a recognizable user name. During data collection, a specific user needs to be selected so that you can later track the collected data to the field worker who conducted the survey. 
 
@@ -98,4 +102,27 @@ If you want to change the name of a user long press on the username you want to 
 
 If you want to delete a user long press on the username you want to delete and select **Delete user**. Confirm this action by pressing **OK** in the following screen. The user is now removed from your user list. 
 
+**Remembering users**
 
+The Akvo FLOW app remembers the active user. Each time you open the FLOW app, the last user is automatically selected. You will see a quick message in the bottom of a screen telling you who is the logged in user. If you want to switch between users, you need to select the user via the side menu and the user list.
+
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10424589/a8f0a9d0-70d0-11e5-9c9d-4e7a0470fa85.jpg
+   :width: 800 px
+   :alt: image of phone
+   :align: center
+
+... _survey_list: 
+
+Survey list 
+--------------------
+
+The second item in the side menu is your list of surveys. This list holds all surveys assigned to your device. By clicking on the name of the survey, you select the survey you want to collect data for. For more information on surveys in the app check section 4.1 Surveys http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/04-Data-collection-structure.html. 
+
+If you have no surveys in your list, but there are surveys assigned to your device, you need to check your Internet connection and restart the app.
+
+... _settings: 
+
+Settings 
+--------------------
+
+Settings is the third item in the side menu. By clicking on **Settings** you open a more detailed list of actions to download a form, set the language of the app, check your preferences synchronise data, and more. 
