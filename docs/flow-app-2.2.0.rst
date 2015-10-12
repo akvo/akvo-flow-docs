@@ -2,9 +2,9 @@
 The FLOW app - Version 2.2.0
 ----------------------------------
 
-The Akvo FLOW app will become available in the second half of October.
+The Akvo FLOW app version 2.2.0 will become available in the second half of October.
 
-.. warning:: This document is still a work in progress. It may contain inaccuracies or errors.
+.. warning:: This document is still a work in progress.
 
 Contents:
 
