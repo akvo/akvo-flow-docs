@@ -66,10 +66,10 @@ Every time you click on the **menu** icon located in the top left corner of the 
    
    *The new side menu and its items*
 
-... _user_management: 
+.. _user_management: 
 
 User management 
---------------------
+~~~~~~~~~~~~~~~
 
 The first item in the side menu shows you who the active user is. However, there might be multiple users collecting data with this device. Each user should have their own account with a recognizable user name. During data collection, a specific user needs to be selected so that you can later track the collected data to the field worker who conducted the survey. 
 
@@ -111,18 +111,18 @@ The Akvo FLOW app remembers the active user. Each time you open the FLOW app, th
    :alt: image of phone
    :align: center
 
-... _survey_list: 
+.. _survey_list: 
 
 Survey list 
---------------------
+~~~~~~~~~~~
 
 The second item in the side menu is your list of surveys. This list holds all surveys assigned to your device. By clicking on the name of the survey, you select the survey you want to collect data for. For more information on surveys in the app check section 4.1 Surveys http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/04-Data-collection-structure.html. 
 
 If you have no surveys in your list, but there are surveys assigned to your device, you need to check your Internet connection and restart the app.
 
-... _settings: 
+.. _settings: 
 
 Settings 
---------------------
+~~~~~~~~
 
 Settings is the third item in the side menu. By clicking on **Settings** you open a more detailed list of actions to download a form, set the language of the app, check your preferences synchronise data, and more. 
