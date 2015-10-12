@@ -25,12 +25,14 @@ You are now in the **data point list** for your selected survey.
    :align: center
 
 These are the different parts of this screen and their functions: 
+
    1. **Menu icon**, which brings you back to the side menu.
    2. The **selected survey name** is displayed in the top header of your screen.
    3. To start collecting data, click on the **+** icon. With this icon you create a new data point.
    4. **Overflow icon**. This icon brings you to a small menu via which you can search for a specific data point, sort your list of data points, check statistics on your data collection and synchronise data points for a monitoring survey. 
    5. There are two tabs through which you can navigate: **Data points** (5a) and **Map** (5b). The Data points tab is selected by default and shows all your points in a list. The Map tab shows where your data points are located on the map, if location data is available.
    6. **Data point list**. For more details check **Data points** below.
+
 
 When a survey is opened for the first time, no data points are visible yet. 
 
@@ -83,7 +85,7 @@ If you are collecting data for a monitoring survey, the '+' icon will bring you 
    
    *The workflow when collecting data for a survey with monitoring enabled.*
 
-.._selecting_a_data_point:
+.. _selecting_a_data_point:
 
 Selecting a data point
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -95,7 +97,7 @@ To select a data point, click on it in the **Data Points tab**, or browse the **
    :alt: image of phone
    :align: center
 
-.._sorting_the_list_of_data_points:
+.. _sorting_the_list_of_data_points:
 
 Sorting the list of data points
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +109,7 @@ You can sort the data point list as well. By default the data points are ordered
    :alt: image of phone
    :align: center
 
-.._data_point_statistics:
+.. _data_point_statistics:
 
 Data point statistics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -119,12 +121,13 @@ You can also see an overview of the data collection statistics, by clicking on *
    :alt: image of phone
    :align: center
 
-.._monitored_data_points:
+.. _monitored_data_points:
 
 Monitored data points
 ~~~~~~~~~~~~~~~~~~~~~~
 
 A monitored data point is one that contains multiple forms within it. One of these forms is the *Registration form*, which will collect basic identification data about the entity being surveyed. This normally involves collecting the name, location, etc. In essence, the registration form holds attributes that **do not** change over time. All the other forms within a data point are typically used to track change over time.
+
 
 **Opening a monitored data point**
 
@@ -148,6 +151,7 @@ The **History tab** contains all the form responses for the given data point. Fr
 
 By tapping on the overflow icon in the top right corner you can select either **Languages** or **View map**. **Languages** allow you to switch between the survey languages that are available for that survey. **View map** shows you the location of that one data point.
 
+
 **Synchronising data points**
 
 Monitored data points can be synchronised. You can download all data points created under the survey from other devices and add new responses to them. This means that one device can create a new data point, add responses, and once the data is sent to the server, a different device can download the data point and keep adding data to it.
@@ -168,6 +172,7 @@ Non-monitored data points
 
 Non-monitored data points contain only a single form. These data points cannot be synchronised either. Only locally collected data will be available in the device. 
 
+
 **Opening a non-monitored data point** 
 
 If you click on a non-monitoring data point, you get access to the submitted form, to the History,  where you can see the collected answers. By tapping on the overflow icon in the top right corner you can select either **Languages** or **View map**. **Languages** allow you to switch between survey languages that are defined for that survey. **View map** shows you the location of that one data point.
@@ -183,7 +188,7 @@ Each data point in the data point list is shown with an icon. There are three ic
    3. **Synced** (green with a checkmark icon) - all submitted forms in the data point have been synced to the FLOW server correctly.
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10302916/488ee738-6c10-11e5-9268-d74c4cdebe13.jpg
-   :width: 200 px
+   :width: 300 px
    :alt: image of phone
    :align: center
    
@@ -202,7 +207,7 @@ Forms
 
 Once you create a new data point: 
 
-   - **for non-monitored data points**, you access the form and its questions directly. 
+    - **for non-monitored data points**, you access the form and its questions directly. 
     - **for monitoring data points**, you see two tabs, Forms and History,  where **Forms tab** is opened by default. The Forms tab shows you the list of all forms under this surveys. The first form is the registration form. You start with selecting the registration form and filling in the data. Every time you open an existing data point, you see the list of forms, with the registration form greyed out because it has already been filled in.The monitoring forms can be selected to collect new information. You can collect data repetitively over time using these forms. 
 
 .. _downloading_forms:
@@ -223,6 +228,7 @@ When you launch the application for the first time, the phone sends a signal to 
 You can also manually download a form. However, this is not recommended, as it will not automatically download updates of forms.
 
 **To download a specific form:** 
+
    1. Before you start, you need the ID of the form. On the FLOW dashboard, you can find this if you view the details of the form.
    2. On the FLOW app, open the side menu and click Settings.
    3. From the list, select Download Form.
@@ -393,7 +399,7 @@ Dependent questions
 
 Some questions are dependent on the answer from a preceding option question in the same form. The question will either be shown or hidden, depending on the answer given to the previous question during data collection.
 
-.._Help_text:
+.. _Help_text:
 
 Help text
 `````````
