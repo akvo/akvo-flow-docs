@@ -5,4 +5,21 @@ Maps in the FLOW app allow you to locate your collected data data point on the m
 
 You can access the map in two different ways:
 
-   1. After selecting your survey you see two tabs, the Data Points tab and the **Map** tab. The map tab displays the location for all the data points created within this survey. 
+1. After selecting your survey you see two tabs, the Data Points tab and the **Map** tab. The map tab displays the location for all the data points created within this survey. 
+
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10303057/4aa1ea74-6c11-11e5-88c7-94342db3a77e.jpg
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+   *The Map tab*
+
+2. You can also check the location of one particular data point. Open the data point, click on the overflow icon, and select **View map**. 
+
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10303060/57aafef4-6c11-11e5-8f7f-7a362145d727.jpg
+   :width: 400 px
+   :alt: image of phone
+   :align: center
+   
+   *Viewing one non-monitored data point on the map.*
+
