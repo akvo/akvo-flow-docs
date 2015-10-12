@@ -1,8 +1,8 @@
 Starting the FLOW app
 ========================
 
-
 Before starting the FLOW app, make sure you do the following on your device:
+   
    - Connect the device to a Wi-Fi network or a mobile data connection
    - Set the Access Point Name (APN) (only if needed to activate data plan)
 
@@ -55,6 +55,7 @@ New side menu
 -------------
 
 Every time you click on the **menu** icon located in the top left corner of the app screen the side menu opens. This menu holds three important parts: 
+
     1. Active user and User management 
     2. Survey list
     3. Settings 
@@ -75,15 +76,18 @@ The first item in the side menu shows you who the active user is. However, there
 
 This part also allows you to manage your users on this device, to create users and to select a particular user for a data collection activity. 
 
+
 **Create a new user**
 
+
 **To create a new user:**
+
     1. Open the user management field by clicking on the arrow next to your currently active user in the side menu. Now click on **+ User**.
     2. Fill in the name of the user you want to add and select **OK**. If you do not want to add a new user, click **Cancel**.
     3. The new user shows up in the list of users. To select the active user, click on the name.
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10302549/a87667dc-6c0d-11e5-898e-36cd1cc82021.jpg
-   :width: 200 px
+   :width: 800 px
    :alt: image of phone
    :align: center
 
@@ -107,7 +111,7 @@ If you want to delete a user long press on the username you want to delete and s
 The Akvo FLOW app remembers the active user. Each time you open the FLOW app, the last user is automatically selected. You will see a quick message in the bottom of a screen telling you who is the logged in user. If you want to switch between users, you need to select the user via the side menu and the user list.
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10424589/a8f0a9d0-70d0-11e5-9c9d-4e7a0470fa85.jpg
-   :width: 800 px
+   :width: 600 px
    :alt: image of phone
    :align: center
 
