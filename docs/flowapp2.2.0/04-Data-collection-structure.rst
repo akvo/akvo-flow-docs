@@ -8,7 +8,7 @@ Surveys are used to collect data on a particular subject. Each survey consists o
 Surveys
 -------
 
-Each survey consists of one or multiple forms. A regular survey consists of only one form. However, if monitoring is enabled, your survey will hold multiple forms. For more details on surveys check the chapters explaining surveys in the dashboard, The Dashboard - Surveys http://flow.readthedocs.org/en/latest/docs/dashboard/2-surveys.html
+Each survey consists of one or multiple forms. A regular survey consists of only one form. However, if monitoring is enabled, your survey will hold multiple forms. For more details on surveys check the chapters explaining surveys in the dashboard, `The Dashboard - Surveys <http://flow.readthedocs.org/en/latest/docs/dashboard/2-surveys.html>`_
 
 .. _ select_a_survey:
 
@@ -142,7 +142,7 @@ The **Forms tab** shows you the list of all forms under this survey. The first f
    
    *The Forms tab*
 
-The **History tab** contains all the form responses for the given data point. From this tab you can resume an ongoing (not finalized) form, or review an already submitted one. The first form in the list is always the registration form. This gives you direct access to information about that data point. The following submitted forms — which are all monitoring forms — are ordered by submission date, with the most recent submission at the top. By clicking on any submitted form you can see the collected answers. The icons indicate the upload status of the form. For more details check `**Saving and reviewing a form** <http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/06-Collecting%20data.html#saving-and-reviewing-a-form>`_ . 
+The **History tab** contains all the form responses for the given data point. From this tab you can resume an ongoing (not finalized) form, or review an already submitted one. The first form in the list is always the registration form. This gives you direct access to information about that data point. The following submitted forms — which are all monitoring forms — are ordered by submission date, with the most recent submission at the top. By clicking on any submitted form you can see the collected answers. The icons indicate the upload status of the form. For more details check `Saving and reviewing a form <http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/06-Collecting%20data.html#saving-and-reviewing-a-form>`_. 
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10302715/d1a859d4-6c0e-11e5-87d7-1fc52a534c85.jpg
    :width: 200 px
@@ -221,7 +221,7 @@ There are three ways to get a form from the FLOW server onto your phone:
 
 Every time the Akvo FLOW app is launched, it checks for newly assigned forms and updates to existing forms. If there are new or updated forms available, these are downloaded automatically. When new or updated forms have been downloaded, the status bar shows a notification. This is the easiest way to get a form to the phone.
 
-When you launch the application for the first time, the phone sends a signal to the web-based FLOW Dashboard to indicate that your device is available for form assignments. On the Dashboard, the project manager can assign a form or set of forms to the device, as described here: Viewing and creating survey assignments (LINK MISSING). Assigned forms are automatically downloaded from the FLOW server when your phone is turned on, provided you have internet or network connectivity.
+When you launch the application for the first time, the phone sends a signal to the web-based FLOW Dashboard to indicate that your device is available for form assignments. On the Dashboard, the project manager can assign a form or set of forms to the device, as described here: `Viewing and creating survey assignments <http://flow.readthedocs.org/en/latest/docs/dashboard/3-devices.html#viewing-and-creating-survey-assignments>`_. Assigned forms are automatically downloaded from the FLOW server when your phone is turned on, provided you have internet or network connectivity.
 
 **2. Manual download from Settings menu**
 
@@ -243,7 +243,7 @@ You can also manually download a form. However, this is not recommended, as it w
 
 **3. Manual form transfer**
 
-Manual form transfer allows you to generate a file of a FLOW form and put it on the FLOW device using a USB cable. This can be useful in situations with low or no connectivity. On the dashboard, you can let the FLOW system email you a zipped version of the form. This file (please don’t unzip it) is then placed in the ‘akvoflow/inbox’ folder on the device. How to do this is described here: Manual survey transfer (LINK MISSING).
+Manual form transfer allows you to generate a file of a FLOW form and put it on the FLOW device using a USB cable. This can be useful in situations with low or no connectivity. On the dashboard, you can let the FLOW system email you a zipped version of the form. This file (please don’t unzip it) is then placed in the ‘akvoflow/inbox’ folder on the device. How to do this is described here: `Manual survey transfer <http://flow.readthedocs.org/en/latest/docs/dashboard/3-devices.html#manual-survey-transfer>`_.
 
 .. _Question_groups_and_questions:
 
