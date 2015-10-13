@@ -142,7 +142,7 @@ The **Forms tab** shows you the list of all forms under this survey. The first f
    
    *The Forms tab*
 
-The **History tab** contains all the form responses for the given data point. From this tab you can resume an ongoing (not finalized) form, or review an already submitted one. The first form in the list is always the registration form. This gives you direct access to information about that data point. The following submitted forms — which are all monitoring forms — are ordered by submission date, with the most recent submission at the top. By clicking on any submitted form you can see the collected answers. The icons indicate the upload status of the form. For more details check **Saving and reviewing a form** (MISSING LINK). 
+The **History tab** contains all the form responses for the given data point. From this tab you can resume an ongoing (not finalized) form, or review an already submitted one. The first form in the list is always the registration form. This gives you direct access to information about that data point. The following submitted forms — which are all monitoring forms — are ordered by submission date, with the most recent submission at the top. By clicking on any submitted form you can see the collected answers. The icons indicate the upload status of the form. For more details check `**Saving and reviewing a form** <http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/06-Collecting%20data.html#saving-and-reviewing-a-form>`_ . 
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10302715/d1a859d4-6c0e-11e5-87d7-1fc52a534c85.jpg
    :width: 200 px
