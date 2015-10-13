@@ -71,7 +71,7 @@ Form status
 
 Each form you have collected data against has a specific status. You can see this status in two places depending on what kind of survey you are working with:
 
-**For a non-monitoring survey**, the data point status is equivalent to the form status and shown in the list of data points. For more details on data point status check **Data point status** (LINK MISSING)
+**For a non-monitoring survey**, the data point status is equivalent to the form status and shown in the list of data points. For more details on data point status check `Data point status <http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/04-Data-collection-structure.html#data-point-status>`_.
 
 **For a monitoring survey**, the form status is shown once you select your data point in the History tab. 
 
