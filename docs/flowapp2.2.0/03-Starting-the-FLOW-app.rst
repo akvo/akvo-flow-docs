@@ -106,7 +106,7 @@ If you want to change the name of a user long press on the username you want to 
 
 If you want to delete a user long press on the username you want to delete and select **Delete user**. Confirm this action by pressing **OK** in the following screen. The user is now removed from your user list. 
 
-.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664864/2a380ba2-78c7-11e5-9f08-d0bbe4b5b814.jpg
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664865/2a39afb6-78c7-11e5-8dff-42ba5f046a34.jpg
    :width: 200 px
    :alt: image of phone
    :align: center
