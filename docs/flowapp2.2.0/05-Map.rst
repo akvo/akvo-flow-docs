@@ -16,7 +16,7 @@ You can access the map in two different ways:
 
 2. You can also check the location of one particular data point. Open the data point, click on the overflow icon, and select **View map**. 
 
-.. figure:: https://cloud.githubusercontent.com/assets/12456965/10303060/57aafef4-6c11-11e5-8f7f-7a362145d727.jpg
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664863/2a36d1ce-78c7-11e5-9490-b95baf1bfcc0.jpg
    :width: 400 px
    :alt: image of phone
    :align: center
