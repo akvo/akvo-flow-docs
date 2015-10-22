@@ -84,10 +84,10 @@ This part also allows you to manage your users on this device, to create users a
 
     1. Open the user management field by clicking on the arrow next to your currently active user in the side menu. Now click on **+ User**.
     2. Fill in the name of the user you want to add and select **OK**. If you do not want to add a new user, click **Cancel**.
-    3. The new user shows up in the list of users. To select the active user, click on the name.
+    3. The user is automatically selected as the active user and added to the list of users.
 
-.. figure:: https://cloud.githubusercontent.com/assets/12456965/10302549/a87667dc-6c0d-11e5-898e-36cd1cc82021.jpg
-   :width: 800 px
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664867/2b3c5efe-78c7-11e5-90b6-c515cdcd63c0.jpg
+   :width: 1000 px
    :alt: image of phone
    :align: center
 
@@ -106,6 +106,13 @@ If you want to change the name of a user long press on the username you want to 
 
 If you want to delete a user long press on the username you want to delete and select **Delete user**. Confirm this action by pressing **OK** in the following screen. The user is now removed from your user list. 
 
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664864/2a380ba2-78c7-11e5-9f08-d0bbe4b5b814.jpg
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+   *The Delete user screen*
+   
 **Remembering users**
 
 The Akvo FLOW app remembers the active user. Each time you open the FLOW app, the last user is automatically selected. You will see a quick message in the bottom of a screen telling you who is the logged in user. If you want to switch between users, you need to select the user via the side menu and the user list.
@@ -120,7 +127,7 @@ The Akvo FLOW app remembers the active user. Each time you open the FLOW app, th
 Survey list 
 ~~~~~~~~~~~
 
-The second item in the side menu is your list of surveys. This list holds all surveys assigned to your device. By clicking on the name of the survey, you select the survey you want to collect data for. For more information on surveys in the app check section 4.1 Surveys http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/04-Data-collection-structure.html. 
+The second item in the side menu is your list of surveys. This list holds all surveys assigned to your device. By clicking on the name of the survey, you select the survey you want to collect data for. For more information on surveys in the app check section `Surveys <http://flow.readthedocs.org/en/latest/docs/flowapp2.2.0/04-Data-collection-structure.html>`_. 
 
 If you have no surveys in your list, but there are surveys assigned to your device, you need to check your Internet connection and restart the app.
 
