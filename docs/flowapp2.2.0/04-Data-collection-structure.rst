@@ -148,6 +148,8 @@ The **History tab** contains all the form responses for the given data point. Fr
    :width: 200 px
    :alt: image of phone
    :align: center
+   
+   *The History tab*
 
 By tapping on the overflow icon in the top right corner you can select either **Languages** or **View map**. **Languages** allow you to switch between the survey languages that are available for that survey. **View map** shows you the location of that one data point.
 
