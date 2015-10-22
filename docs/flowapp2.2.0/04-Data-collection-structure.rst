@@ -135,7 +135,7 @@ If you click on a monitored data point, you get access to two tabs: **Forms** an
 
 The **Forms tab** shows you the list of all forms under this survey. The first form is the registration form, which you have already filled in when creating the new data point. Therefore, this form is greyed out and you cannot access it to fill in any more data. The following forms in the list are monitoring forms. You can use the same form multiple times to collect data repetitively over time. The version number of each form is displayed, so you can make sure you have the latest form downloaded to your device. Furthermore, the date of the last submission is shown for each form, so it is easy to keep track of the history of data collection for that data point.
 
-.. figure:: https://cloud.githubusercontent.com/assets/12456965/10302704/c6febcee-6c0e-11e5-9f06-ede4b341b5eb.jpg
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664864/2a380ba2-78c7-11e5-9f08-d0bbe4b5b814.jpg
    :width: 200 px
    :alt: image of phone
    :align: center
@@ -175,7 +175,7 @@ Non-monitored data points contain only a single form. These data points cannot b
 
 **Opening a non-monitored data point** 
 
-If you click on a non-monitoring data point, you get access to the submitted form, to the History,  where you can see the collected answers. By tapping on the overflow icon in the top right corner you can select either **Languages** or **View map**. **Languages** allow you to switch between survey languages that are defined for that survey. **View map** shows you the location of that one data point.
+If you click on a non-monitoring data point, you get access to the submitted form, to the History, where you can see the collected answers. 
 
 .. _data_point_status:
 
