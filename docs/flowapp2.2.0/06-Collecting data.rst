@@ -45,24 +45,44 @@ To submit a form, go to the **Submit** tab, which is the last tab in the form. I
 Once all the questions are filled in, you can submit the form. 
 
 .. figure:: https://cloud.githubusercontent.com/assets/12456965/10303070/6d8bf444-6c11-11e5-8b2d-fafa85ea12a5.jpg
-   :width: 200 px
+   :width: 400 px
    :alt: image of phone
    :align: center
 
 When you click **Submit** at the end of a form and then **OK**, the form is locked to prevent further editing, and uploaded to the FLOW server immediately. If network connectivity is not available, the form is queued in the phone until connectivity is restored. The data will automatically be sent to the server when the device is connected to the internet, either via Wi-Fi or over a mobile network.
 
-.. _Saving_and_reviewing_a_form:
+.. _Saving_a_form:
 
-Saving and reviewing a form
+Saving a form
 ---------------------------
 
-Form responses are automatically saved as you answer them. You can leave as many forms in a saved state as you want, and continue filling out other data points meanwhile (i.e. you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the form). In order to found back the right data point, it is important that the name of the data point is meaningful. In the Dashboard, questions can be selected that make up that data point name.
+Form responses are automatically saved as you answer them. You can leave as many forms in a saved state as you want, and continue filling out other data points meanwhile (i.e. you might have to take the GPS location at a water point, and then walk a distance to interview someone to complete the rest of the form). In order to find back the right data point, it is important that the name of the data point is meaningful. In the Dashboard, questions can be selected that make up that data point name.
 
 There are two ways to retrieve a partly filled form depending on the type of survey you are working with:
 
 **For a non-monitoring survey** simply select the data point from your data point list. This will open the saved form and you can immediately continue with your data collection work. 
 
 **For a monitoring survey** select the data point from the list, navigate to the data point’s **History tab**, and select the desired saved form.
+
+.. _Reviewing_a_submitted_form:
+
+Reviewing a submitted form
+---------------------------
+
+As you collect your data, you might want to review the forms you have already submitted. There are two ways of accessing your already submitted answers depending of the type of survey: 
+
+**For a non-monitoring survey** simply select the data point you want to review. This will open the submitted form and you can see the answers directly.
+
+**For a monitoring survey** you first need to select a data point from your list and navigate to the data point’s History tab. Now select the form you want to review the answers.
+
+For both types of surveys, non-monitoring and monitoring, each submitted form holds its own menu. You can access it from the overflow icon when you are reviewing a form. The menu of a submitted form holds three options: **Languages**, **View map** and **Transmission History**. **Languages** allow you to switch between survey languages that are defined for that survey. **View map** shows you the location of that one data point. **Transmission History** shows you the details of the submission of that particular form, as for example when the submission started and the time it was finished. 
+
+.. figure:: https://cloud.githubusercontent.com/assets/12456965/10664866/2a3a6d20-78c7-11e5-9f96-2d5888b9e74b.jpg
+   :width: 200 px
+   :alt: image of phone
+   :align: center
+   
+   *The menu of a submitted form.*
 
 .. _form_satus:
 
@@ -87,8 +107,6 @@ A form response can have the following statuses:
    :align: center
    
    *Form status icons in the History tab.*
-
-If you want more in-depth information, you can long-click any submitted form to check its *Transmission Status*. This will display the status of any file transmission within the form.
 
 *Note: It is always better to submit data from the device right away over the network. If users store data on their devices while waiting for an opportunity to import it later, there is always the danger of permanent data loss if the device is damaged or lost.*
 
