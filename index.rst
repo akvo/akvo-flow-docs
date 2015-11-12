@@ -15,7 +15,6 @@ Contents:
    docs/welcome   
    docs/dashboard
    docs/field_survey_app
-   docs/field_survey_app2.0
    docs/flow-app-2.2.0
    docs/tutorials
    docs/api
