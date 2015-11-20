@@ -4,7 +4,7 @@
    contain the root `toctree` directive
 
  
-Welcome to the documentation site for Akvo FLOW!
+New documentation available
 ================================================
 
 At Akvo we aim to not only keep on improving our tools but also the information we share with you and how we share it. We now have a **new Akvo FLOW support page**, which you can find here: 
